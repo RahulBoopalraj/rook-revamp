@@ -11,13 +11,18 @@ const Home6FeatureSection = () => {
               <div className="section-title3 text-center text-animation">
                 <h2>Our startup solutions</h2>
                 <p>
-                From creating unique brand identities and strategizing market launches to building engaging websites and accelerating brand success, we've got you covered.
+                  From creating unique brand identities and strategizing market
+                  launches to building engaging websites and accelerating brand
+                  success, we've got you covered.
                 </p>
               </div>
             </div>
           </div>
-          <div className="row g-4 mb-50">
-            <div className="col-xl-3 col-lg-4 col-sm-6">
+          <div className="row g-4 mb-100">
+            <div
+              className="col-xl-3 col-lg-4 col-sm-6"
+              style={{ width: "260px" }}
+            >
               <div className="feature-card magnetic-item">
                 <div className="icon">
                   <svg
@@ -46,12 +51,16 @@ const Home6FeatureSection = () => {
                 <div className="content">
                   <h5>Rook® Branding</h5>
                   <p>
-                  Make your mark a unique brand identity that not only stands out but gets you noticed. 
+                    Make your mark with a unique brand identity that not only
+                    stands out but gets you noticed and remembered.
                   </p>
                 </div>
               </div>
             </div>
-            <div className="col-xl-3 col-lg-4 col-sm-6">
+            <div
+              className="col-xl-3 col-lg-4 col-sm-6"
+              style={{ width: "260px" }}
+            >
               <div className="feature-card magnetic-item">
                 <div className="icon">
                   <svg
@@ -87,12 +96,16 @@ const Home6FeatureSection = () => {
                 <div className="content">
                   <h5>Rook® GTM</h5>
                   <p>
-                  Strategize your launch, capture the market with a winning game plan, and start smart!
+                    Strategize your launch, capture the market with a winning
+                    game plan, and start smart and strong with confidence!
                   </p>
                 </div>
               </div>
             </div>
-            <div className="col-xl-3 col-lg-4 col-sm-6">
+            <div
+              className="col-xl-3 col-lg-4 col-sm-6"
+              style={{ width: "260px" }}
+            >
               <div className="feature-card magnetic-item">
                 <div className="icon">
                   <svg
@@ -108,12 +121,16 @@ const Home6FeatureSection = () => {
                 <div className="content">
                   <h5>Rook® Web Dev</h5>
                   <p>
-                  Build user-friendly, brand-aligned sites that engage visitors and drive business growth.
+                    Build user-friendly, brand-aligned sites that engage
+                    visitors and drive business growth effectively.
                   </p>
                 </div>
               </div>
             </div>
-            <div className="col-xl-3 col-lg-4 col-sm-6">
+            <div
+              className="col-xl-3 col-lg-4 col-sm-6"
+              style={{ width: "260px" }}
+            >
               <div className="feature-card magnetic-item">
                 <div className="icon">
                   <svg
@@ -163,12 +180,16 @@ const Home6FeatureSection = () => {
                 <div className="content">
                   <h5>Rook® Domains</h5>
                   <p>
-                  Find your perfect domain name and build a robust online identity with expert guidance and support.
+                    Find your perfect domain name and build a robust online
+                    identity with expert guidance and support.
                   </p>
                 </div>
               </div>
             </div>
-            <div className="col-xl-3 col-lg-4 col-sm-6">
+            <div
+              className="col-xl-3 col-lg-4 col-sm-6"
+              style={{ width: "260px" }}
+            >
               <div className="feature-card magnetic-item">
                 <div className="icon">
                   <svg
@@ -199,7 +220,8 @@ const Home6FeatureSection = () => {
                 <div className="content">
                   <h5>Rook® Marketing</h5>
                   <p>
-                  Accelerate your brand's success by Crafting messages that resonate and deliver quantifiable results.
+                    Accelerate your brand's success by Crafting messages that
+                    resonate and deliver quantifiable results.
                   </p>
                 </div>
               </div>
@@ -208,7 +230,7 @@ const Home6FeatureSection = () => {
           <div className="contact-area">
             <p>Got questions?</p>
             <Link href="/contact">
-            Let's talk
+              Let's talk
               <svg
                 width={10}
                 height={10}

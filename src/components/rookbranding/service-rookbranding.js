@@ -10,7 +10,6 @@ const ServiceDetailsPage = () => {
     <>
       <div className="details-page-wrapper service-details pt-130 mb-130">
         <div className="container-lg container-fluid">
-          <ServiceDetails />
           <span className="line-break" />
           <span className="line-break" />
           <span className="line-break" />
@@ -39,7 +38,9 @@ const ServiceDetailsPage = () => {
                   presence. From concept development to implementation, we guide
                   you through the branding process with expertise. Our team
                   leverages industry knowledge to unlock your brand's potential
-                  and achieve meaningful results.
+                  and achieve meaningful results. We also provide ongoing
+                  support to ensure your brand adapts and thrives in a dynamic
+                  market.
                 </p>
               </div>
             </div>
@@ -65,7 +66,9 @@ const ServiceDetailsPage = () => {
                   ensures every aspect of your brand resonates with your
                   audience and supports business goals. Partner with us to
                   transform your brand into a compelling story that captivates
-                  and inspires.
+                  and inspires. We also track and measure brand performance to
+                  continuously refine and enhance your strategy for sustained
+                  success.
                 </p>
               </div>
             </div>

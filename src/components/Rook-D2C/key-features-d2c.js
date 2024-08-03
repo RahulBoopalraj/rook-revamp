@@ -11,7 +11,8 @@ const Home6FeatureSection = () => {
               <div className="section-title3 text-center text-animation">
                 <h2>D2C Essentials</h2>
                 <p>
-                We are here to help with every aspect of your D2C business. What are you stuck with?
+                  We are here to help with every aspect of your D2C business.
+                  What are you stuck with?
                 </p>
               </div>
             </div>
@@ -46,7 +47,8 @@ const Home6FeatureSection = () => {
                 <div className="content">
                   <h5>Cloud</h5>
                   <p>
-                  Leverage cloud solutions for scalable infrastructure and robust web development.
+                    Leverage cloud solutions for scalable infrastructure and
+                    robust web development.
                   </p>
                 </div>
               </div>
@@ -87,7 +89,8 @@ const Home6FeatureSection = () => {
                 <div className="content">
                   <h5>Consulting</h5>
                   <p>
-                  Expert guidance to navigate challenges and optimize D2C strategies effectively.
+                    Expert guidance to navigate challenges and optimize D2C
+                    strategies effectively.
                   </p>
                 </div>
               </div>
@@ -108,7 +111,8 @@ const Home6FeatureSection = () => {
                 <div className="content">
                   <h5>Data Analytics</h5>
                   <p>
-                  Harness data insights to drive informed decisions and business growth.
+                    Harness data insights to drive informed decisions and
+                    accelerate business growth.
                   </p>
                 </div>
               </div>
@@ -163,7 +167,8 @@ const Home6FeatureSection = () => {
                 <div className="content">
                   <h5>Enterprise Platforms</h5>
                   <p>
-                  Customized platforms to streamline operations and enhance enterprise scalability.
+                    Customized platforms to streamline operations and enhance
+                    scalability.
                   </p>
                 </div>
               </div>
@@ -199,7 +204,8 @@ const Home6FeatureSection = () => {
                 <div className="content">
                   <h5>Artificial Intelligence</h5>
                   <p>
-                  Integrate AI solutions for efficiency, innovation, and competitive advantage.
+                    Integrate AI solutions for efficiency, innovation, and
+                    sustainable competitive advantage.
                   </p>
                 </div>
               </div>
@@ -219,7 +225,8 @@ const Home6FeatureSection = () => {
                 <div className="content">
                   <h5>Branding & Marketing</h5>
                   <p>
-                  Craft compelling brand narratives and reach your audience strategically.
+                    Craft compelling brand narratives and reach your target
+                    audience strategically.{" "}
                   </p>
                 </div>
               </div>
@@ -290,7 +297,8 @@ const Home6FeatureSection = () => {
                 <div className="content">
                   <h5>Corporate Domain Name</h5>
                   <p>
-                  Secure your unique digital identity with memorable corporate domain solutions.
+                    Secure your unique digital identity with memorable corporate
+                    domain solutions.
                   </p>
                 </div>
               </div>
@@ -326,7 +334,8 @@ const Home6FeatureSection = () => {
                 <div className="content">
                   <h5>Cognitive Business Operations</h5>
                   <p>
-                  Automate processes and enhance productivity with cognitive computing solutions.
+                    Automate processes and enhance productivity with cognitive
+                    solutions.
                   </p>
                 </div>
               </div>
@@ -335,7 +344,7 @@ const Home6FeatureSection = () => {
           <div className="contact-area">
             <p>Got questions?</p>
             <Link href="/contact">
-            Let's talk
+              Let's talk
               <svg
                 width={10}
                 height={10}

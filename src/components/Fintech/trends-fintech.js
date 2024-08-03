@@ -8,7 +8,7 @@ const Home1ProcessSection = () => {
           <div className="col-lg-4">
             <div className="sub-title text-animation">
               <h6>
-                Our Comprehensive Approach
+                View all work
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width={50}
@@ -22,15 +22,13 @@ const Home1ProcessSection = () => {
           </div>
           <div className="col-lg-8">
             <div className="section-title text-animation">
-              <h2>
-                Navigating 03 <br />
-                <span>Key Stages</span>
-              </h2>
+              <h2>What’s Current and Future Trends in Banking</h2>
               <div className="dash-and-paragraph">
                 <div className="dash" />
                 <p>
-                  Establish your digital footprint with strategic domain
-                  selections
+                  Explore how digital transformation, AI, and blockchain are
+                  reshaping the banking industry today and what innovations will
+                  drive the future of finance.
                 </p>
               </div>
             </div>
@@ -40,7 +38,7 @@ const Home1ProcessSection = () => {
           <div className="col-lg-4 col-sm-6">
             <div className="single-process">
               <div className="step-and-dash">
-                <h6>Step-01 :</h6>
+                <h6>Blog</h6>
                 <span />
               </div>
               <div className="icon">
@@ -56,21 +54,22 @@ const Home1ProcessSection = () => {
                 </svg>
               </div>
               <div className="content">
-                <h3>Discovery</h3>
+                <h3>Strategies for Managing the M&A Timeline</h3>
                 <p>
-                  Thoroughly analyse business needs, objectives, and competitor
-                  landscape for effective domain strategy.
+                  Establish clear milestones and responsibilities to keep the
+                  M&A process organized, manage tasks efficiently, and stay
+                  consistently on track.
                 </p>
                 <ul>
                   <li>
-                    <i className="bi bi-plus" /> Analyze competitors
-                  </li>
-                  <li>
-                    <i className="bi bi-plus" /> Assess target market
+                    <i className="bi bi-plus" /> Milestones
                   </li>
                   <li>
                     <i className="bi bi-plus" />
-                    Strategize
+                    Responsibilities
+                  </li>
+                  <li>
+                    <i className="bi bi-plus" /> Organization
                   </li>
                 </ul>
               </div>
@@ -79,7 +78,7 @@ const Home1ProcessSection = () => {
           <div className="col-lg-4 col-sm-6">
             <div className="single-process">
               <div className="step-and-dash">
-                <h6>Step-02 :</h6>
+                <h6>Research Report</h6>
                 <span />
               </div>
               <div className="icon">
@@ -102,20 +101,21 @@ const Home1ProcessSection = () => {
                 </svg>
               </div>
               <div className="content">
-                <h3>Customization</h3>
+                <h3>The Impact of Generative AI on the Future of Banking</h3>
                 <p>
-                  Craft domain solutions that mirror your brand identity and
-                  resonate with your audience.
+                  Generative AI will drive efficiency and innovation in banking
+                  through improved services, automation, and new financial
+                  solutions.
                 </p>
                 <ul>
                   <li>
-                    <i className="bi bi-plus" /> Personalize
+                    <i className="bi bi-plus" /> Efficiency
                   </li>
                   <li>
-                    <i className="bi bi-plus" />Align with goals
+                    <i className="bi bi-plus" /> Automation
                   </li>
                   <li>
-                    <i className="bi bi-plus" /> Customize planning
+                    <i className="bi bi-plus" /> Innovation
                   </li>
                 </ul>
               </div>
@@ -124,7 +124,7 @@ const Home1ProcessSection = () => {
           <div className="col-lg-4 col-sm-6">
             <div className="single-process">
               <div className="step-and-dash">
-                <h6>Step-03 :</h6>
+                <h6>Research Report</h6>
               </div>
               <div className="icon">
                 <svg
@@ -138,18 +138,21 @@ const Home1ProcessSection = () => {
                 </svg>
               </div>
               <div className="content">
-                <h3>Implementation</h3>
+                <h3>Elevating Commercial Payments for Long-Term Success</h3>
                 <p>
-                Execute domain strategy with expert guidance for optimal online impact and growth.</p>
+                  By leveraging advanced technologies and innovative strategies,
+                  we transform commercial payments to drive growth
+                  and long-term success for businesses.
+                </p>
                 <ul>
                   <li>
-                    <i className="bi bi-plus" /> Execute
+                    <i className="bi bi-plus" /> Technologies
                   </li>
                   <li>
-                    <i className="bi bi-plus" /> Guide
+                    <i className="bi bi-plus" /> Strategies
                   </li>
                   <li>
-                    <i className="bi bi-plus" /> Optimize
+                    <i className="bi bi-plus" /> Growth
                   </li>
                 </ul>
               </div>

@@ -87,8 +87,8 @@ const Home4ProcessSection = ({ style }) => {
                   </div>
                   <div className="process-content">
                     <p>
-                      Create unique brand identities and solutions for audience
-                      resonance.
+                      Create unique brand identities and tailored solutions for
+                      audience resonance engagement.
                     </p>
                   </div>
                 </div>

@@ -89,9 +89,25 @@ const Header = ( {style=""}) => {
                 <li><Link href="/discover7">Rook GTM</Link></li>
                 <li><Link href="/service4">What We Share?</Link></li>
                 <li><Link href="/service4">What We Present?</Link></li>
+              </ul>
+            </li>
+
+{/* industries section  */}
+<li className="menu-item-has-children">
+              <a href="#" className="drop-down">Industries</a><i className="bi bi-plus dropdown-icon" />
+              <svg xmlns="http://www.w3.org/2000/svg" width={18} height={10} viewBox="0 0 18 10">
+                <path d="M18 4.95V10H13.0154V8.62143H15.7362L10.6962 3.50714L6.59769 7.65714L0 0.978571L0.962308 0L6.59769 5.71429L10.6962 1.56429L16.6154 7.57857V4.95H18Z" />
+              </svg>
+              <ul className="sub-menu">
+                <li><Link href="/industries1">Fintech</Link></li>
+                <li><Link href="/service2">Service Style 02</Link></li>
+                <li><Link href="/service3">Service Style 03</Link></li>
+                <li><Link href="/service4">Service Style 04</Link></li>
                 <li><Link href="/service-details">Service Details</Link></li>
               </ul>
             </li>
+
+            
             <li className="menu-item-has-children">
               <Link href="#" className="drop-down">Pages</Link><i className="bi bi-plus dropdown-icon" />
               <svg xmlns="http://www.w3.org/2000/svg" width={18} height={10} viewBox="0 0 18 10">

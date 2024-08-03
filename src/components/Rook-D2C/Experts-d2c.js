@@ -61,9 +61,10 @@ const Home6TestimonialSection = () => {
                     <div className="testimonial-card">
                       <span>Navigating Growth with Ease</span>
                       <p>
-                        "Rook® for D2C has been instrumental in our growth.
-                        Their comprehensive support and expert guidance have
-                        helped us navigate the competitive market with ease."
+                        Rook® for D2C has been instrumental in our growth. Their
+                        comprehensive support and expert guidance have
+                        significantly helped us navigate the competitive market
+                        with ease.
                       </p>
                       <div className="author-area">
                         <div className="author-img">
@@ -83,7 +84,10 @@ const Home6TestimonialSection = () => {
                     <div className="testimonial-card">
                       <span>Skyrocketing Online Presence</span>
                       <p>
-                      Thanks to Rook® for D2C, our online presence has skyrocketed. The tools and strategies provided have made a significant impact on our brand visibility and customer engagement.
+                        Thanks to Rook® for D2C, our online presence has
+                        skyrocketed. The tools and strategies provided have made
+                        a significant impact on our brand visibility and
+                        customer engagement.
                       </p>
                       <div className="author-area">
                         <div className="author-img">
@@ -103,7 +107,10 @@ const Home6TestimonialSection = () => {
                     <div className="testimonial-card">
                       <span>A Game-Changing Product Launch</span>
                       <p>
-                      Rook® for D2C's market research and launch strategies were game-changers for us. Our product launch was a huge success, exceeding all our expectations.
+                        Rook® for D2C's market research and launch strategies
+                        were absolute game-changers for us. Our product launch
+                        was a tremendous and outstanding success, surpassing all
+                        our initial expectations with results.
                       </p>
                       <div className="author-area">
                         <div className="author-img">
@@ -113,8 +120,7 @@ const Home6TestimonialSection = () => {
                           />
                         </div>
                         <div className="author-content">
-                          <h6>Ravichandran
-                          </h6>
+                          <h6>Ravichandran</h6>
                           <span>Founder & CEO, Ravin</span>
                         </div>
                       </div>
@@ -175,7 +181,6 @@ const Home6TestimonialSection = () => {
             </div>
           </div>
         </div>
-       
       </div>
     </div>
   );

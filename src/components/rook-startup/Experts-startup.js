@@ -61,7 +61,9 @@ const Home6TestimonialSection = () => {
                     <div className="testimonial-card">
                       <span>Outstanding Support</span>
                       <p>
-                      Expert guidance and support from Rook Startups were key to our success. They provided insightful advice that truly made a difference.
+                        Expert guidance and support from Rook Startups were key
+                        to our success. They provided insightful advice that
+                        truly made a difference.
                       </p>
                       <div className="author-area">
                         <div className="author-img">
@@ -81,7 +83,9 @@ const Home6TestimonialSection = () => {
                     <div className="testimonial-card">
                       <span>Remarkable Growth</span>
                       <p>
-                      Rook Startups helped our online presence grow significantly. Their professional and responsive consultancy drove us forward.
+                        Rook Startups helped our online presence grow
+                        significantly. Their professional and responsive
+                        consultancy drove us forward.
                       </p>
                       <div className="author-area">
                         <div className="author-img">
@@ -101,7 +105,9 @@ const Home6TestimonialSection = () => {
                     <div className="testimonial-card">
                       <span>Exceptional Results</span>
                       <p>
-                      Rook Startups made my startup vision a reality. Their strategic advice and clear guidance were invaluable.
+                        Rook Startups made my startup vision a reality. Their
+                        strategic advice and clear guidance were truly
+                        invaluable and transformative.
                       </p>
                       <div className="author-area">
                         <div className="author-img">
@@ -111,8 +117,7 @@ const Home6TestimonialSection = () => {
                           />
                         </div>
                         <div className="author-content">
-                          <h6>Ravichandran
-                          </h6>
+                          <h6>Ravichandran</h6>
                           <span>Founder & CEO, Ravin</span>
                         </div>
                       </div>
@@ -173,7 +178,6 @@ const Home6TestimonialSection = () => {
             </div>
           </div>
         </div>
-       
       </div>
     </div>
   );

@@ -82,6 +82,8 @@ const PricingRookGoogle = () => {
                       <h2>
                       ₹20,000<sub></sub>
                       </h2>
+                      <br />
+                      <br />
                     </div>
                     <div className="pricing-content">
                       <ul>
@@ -318,7 +320,7 @@ const PricingRookGoogle = () => {
                   </div>
                 </div>
                 <div
-                  className="col-xl-4 col-md-6 wow animate fadeInUp"
+                  className="col-xl-4 col-md-6 wow animate fadeInUp  "
                   data-wow-delay="400ms"
                   data-wow-duration="1500ms"
                 >
@@ -328,6 +330,9 @@ const PricingRookGoogle = () => {
                       <h2>
                       ₹35,000
                       </h2>
+                      <br />
+                      <br />
+                      <br />
                     </div>
                     <div className="pricing-content">
                       <ul>
@@ -1077,6 +1082,7 @@ const PricingRookGoogle = () => {
                       <h2>
                       ₹35,000 USD
                       </h2>
+                    
                     </div>
                     <div className="pricing-content">
                       <ul>

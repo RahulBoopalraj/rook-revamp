@@ -80,7 +80,11 @@ const PricingRook = () => {
                       <span>Basic Service</span>
                       <h2>
                       ₹15,000<sub>/per month</sub>
+                      
                       </h2>
+                      <br />
+                      <br />
+                      <br />
                     </div>
                     <div className="pricing-content">
                       <ul>
@@ -255,6 +259,7 @@ const PricingRook = () => {
                       <h2>
                       ₹ 27,500<sub>/per month</sub>
                       </h2>
+                      <br />
                     </div>
                     <div className="pricing-content">
                       <ul>

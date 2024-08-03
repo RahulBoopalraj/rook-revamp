@@ -54,9 +54,10 @@ const ServiceDetailsPage = () => {
                   meaningful growth. Our services begin with detailed market
                   analysis and audience insights, allowing us to craft tailored
                   strategies that align with your business goals. Whether you
-                  need to increase brand awareness, boost conversions, or engage
-                  your audience effectively, our team is equipped to deliver
-                  results.
+                  need to increase brand awareness,our team is equipped to deliver
+                  results. Additionally, we offer continuous optimization and
+                  performance tracking to ensure your marketing efforts remain
+                  dynamic and effective.
                 </p>
               </div>
               <div className="col-lg-6">
