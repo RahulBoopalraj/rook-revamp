@@ -100,8 +100,8 @@ const Header = ( {style=""}) => {
               </svg>
               <ul className="sub-menu">
                 <li><Link href="/industries1">Fintech</Link></li>
-                <li><Link href="/service2">Service Style 02</Link></li>
-                <li><Link href="/service3">Service Style 03</Link></li>
+                <li><Link href="/industries2">Education</Link></li>
+                <li><Link href="/industries3"></Link></li>
                 <li><Link href="/service4">Service Style 04</Link></li>
                 <li><Link href="/service-details">Service Details</Link></li>
               </ul>
