@@ -101,8 +101,9 @@ const Header = ( {style=""}) => {
               <ul className="sub-menu">
                 <li><Link href="/industries1">Fintech</Link></li>
                 <li><Link href="/industries2">Education</Link></li>
-                <li><Link href="/industries3"></Link></li>
-                <li><Link href="/service4">Service Style 04</Link></li>
+                <li><Link href="/industries3">Gaming and Media</Link></li>
+                <li><Link href="/industries4">Travel and Logistics</Link></li>
+                <li><Link href="/industries4">Travel and Logistics</Link></li>
                 <li><Link href="/service-details">Service Details</Link></li>
               </ul>
             </li>
