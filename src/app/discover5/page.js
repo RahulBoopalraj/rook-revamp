@@ -1,12 +1,13 @@
 import Home3About from "@/components/rookMarketing/about-rookmarketing";
 import Home3BannerSection from "@/components/rookMarketing/banner-rookmarketing";
-import Header3 from "@/components/header/Header3";
+import Header3 from "@/components/header/Header";
 import Home3WorkSection from "@/components/rookMarketing/work-rookmarketing";
 import ServiceDetailsPage from "@/components/rookMarketing/service-rookmarketing";
 import PricingRookGoogle from "@/components/rookMarketing/pricing-google-rookmarketing";
 import PricingRookMeta from "@/components/rookMarketing/pricing-meta-rookmarketing";
 import Home5TestimonialSection from "@/components/rookMarketing/ClientFeedback-rookmarketing";
 import Home1ContactSection from "@/components/rookMarketing/contact-rookmarketing";
+import Footer4 from "@/components/Footer/Footer";
 import Link from "next/link";
 import React from "react";
 
@@ -22,6 +23,8 @@ const MarketingAgency = () => {
       <PricingRookMeta />
       <Home5TestimonialSection />
       < Home1ContactSection />
+      <Footer4 />
+
       <footer>
         <div className="vector d-lg-flex d-none">
           <svg

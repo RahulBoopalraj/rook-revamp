@@ -103,7 +103,9 @@ const Header = ( {style=""}) => {
                 <li><Link href="/industries2">Education</Link></li>
                 <li><Link href="/industries3">Gaming and Media</Link></li>
                 <li><Link href="/industries4">Travel and Logistics</Link></li>
-                <li><Link href="/industries4">Travel and Logistics</Link></li>
+                <li><Link href="/industries5">Public and Government</Link></li>
+                <li><Link href="/industries6">Infrastructure and Construction</Link></li>
+                <li><Link href="/industries7">Construction,Distribution, <br />Hospitality</Link></li>
                 <li><Link href="/service-details">Service Details</Link></li>
               </ul>
             </li>

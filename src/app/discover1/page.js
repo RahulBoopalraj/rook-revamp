@@ -1,9 +1,9 @@
 "use client"
 import React from "react";
-import Footer6 from "@/components/Footer/Footer6";
+import Footer6 from "@/components/Footer/Footer";
 import Home6BannerSection from "@/components/Rook-D2C/banner-d2c";
 import Home6FeatureSection from "@/components/Rook-D2C/key-features-d2c";
-import Header6 from "@/components/header/Header6";
+import Header6 from "@/components/header/Header";
 import Home6ProjecManagement from "@/components/Rook-D2C/Project-management-d2c";
 import Home6TestimonialSection from "@/components/Rook-D2C/Experts-d2c";
 
