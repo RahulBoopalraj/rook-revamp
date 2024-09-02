@@ -99,7 +99,7 @@ const Home1solutionSection = ({ style = "home1-solution-section" }) => {
                 <div
                   className="solution-img"
                   style={{
-                    backgroundImage: "url(assets/img/home1/solution-01.jpg)",
+                    backgroundImage: "url(assets/img/Industries_Fintech/solution-1.jpg)",
                   }}
                 ></div>
               </li>
@@ -107,7 +107,7 @@ const Home1solutionSection = ({ style = "home1-solution-section" }) => {
                 <div
                   className="solution-img"
                   style={{
-                    backgroundImage: "url(assets/img/home1/solution-02.jpg)",
+                    backgroundImage: "url(assets/img/Industries_Fintech/solution-2.jpg)",
                   }}
                 ></div>
               </li>
@@ -115,7 +115,7 @@ const Home1solutionSection = ({ style = "home1-solution-section" }) => {
                 <div
                   className="solution-img"
                   style={{
-                    backgroundImage: "url(assets/img/home1/solution-03.jpg)",
+                    backgroundImage: "url(assets/img/Industries_Fintech/solution-3.jpg)",
                   }}
                 ></div>
               </li>
@@ -123,7 +123,7 @@ const Home1solutionSection = ({ style = "home1-solution-section" }) => {
                 <div
                   className="solution-img"
                   style={{
-                    backgroundImage: "url(assets/img/home1/solution-04.jpg)",
+                    backgroundImage: "url(assets/img/Industries_Fintech/solution-4.jpg)",
                   }}
                 ></div>
               </li>
@@ -131,7 +131,7 @@ const Home1solutionSection = ({ style = "home1-solution-section" }) => {
                 <div
                   className="solution-img"
                   style={{
-                    backgroundImage: "url(assets/img/home1/solution-05.jpg)",
+                    backgroundImage: "url(assets/img/Industries_Fintech/solution-5.jpg)",
                   }}
                 ></div>
               </li>

@@ -36,14 +36,14 @@ const Home1About = () => {
         <div className="row">
           <div className="col-lg-4 d-lg-flex d-none justify-content-end align-items-start">
             <div className="about-left animet-images magnetic-item pt-30">
-              <img src="assets/img/home1/about-left.jpg" alt="" />
+              <img src="assets/img/Industries_Gaming_Media/about-1.jpeg" alt="" />
             </div>
           </div>
           <div className="col-lg-8">
             <div className="row g-lg-4 gy-5 align-items-xl-center">
               <div className="col-lg-5">
                 <div className="about-right-img animet-images magnetic-item">
-                  <img src="assets/img/home1/about-right.jpg" alt="" />
+                  <img src="assets/img/Industries_Gaming_Media/about-2.jpg" alt="" />
                 </div>
               </div>
               <div className="col-lg-7">

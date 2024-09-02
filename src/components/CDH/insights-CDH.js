@@ -43,7 +43,11 @@ const Home1BlogSection = () => {
           <div className="col-lg-4 col-md-6">
             <div className="blog-card1 magnetic-item">
               <Link href="/blog-details" className="blog-img">
-                <img src="assets/img/home1/blog-img-01.jpg" alt="blog-img-01" />
+                <img
+                  src="assets/img/Industries_CDH/insights-1.jpg"
+                  alt="blog-img-01"
+                  style={{ height: "275px" }}
+                />
               </Link>
               <div className="blog-content">
                 <h4>
@@ -58,13 +62,17 @@ const Home1BlogSection = () => {
           <div className="col-lg-4 col-md-6">
             <div className="blog-card1 magnetic-item">
               <Link href="/blog-details" className="blog-img">
-                <img src="assets/img/home1/blog-img-02.jpg" alt="blog-img-02" />
+                <img
+                  src="assets/img/Industries_CDH/insights-2.jpg"
+                  style={{ height: "275px" }}
+                  alt="blog-img-02"
+                />
               </Link>
               <div className="blog-content">
                 <h4>
                   <Link href="/blog-details">
-                    Future Trends in Gaming: Rise of Cloud Gaming and Mobile
-                    Integration
+                    Leveraging Data-Driven Personalization to Boost Customer
+                    Loyalty in the Modern Market
                   </Link>
                 </h4>
               </div>
@@ -73,7 +81,10 @@ const Home1BlogSection = () => {
           <div className="col-lg-4 col-md-6">
             <div className="blog-card1 magnetic-item">
               <Link href="/blog-details" className="blog-img">
-                <img src="assets/img/home1/blog-img-03.jpg" alt="blog-img-03" />
+                <img
+                  src="assets/img/Industries_CDH/insights-3.jpeg"
+                  alt="blog-img-03"
+                />
               </Link>
               <div className="blog-content">
                 <h4>

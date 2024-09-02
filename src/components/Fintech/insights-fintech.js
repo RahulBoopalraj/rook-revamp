@@ -10,7 +10,9 @@ const Home1BlogSection = () => {
             <div className="section-title text-animation">
               <h2>
                 Our Insights <br />
-                <span>On the Financial Services <br /> Industry</span>
+                <span>
+                  On the Financial Services <br /> Industry
+                </span>
               </h2>
               <div className="dash-and-paragraph three">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 788 64">
@@ -41,12 +43,18 @@ const Home1BlogSection = () => {
           <div className="col-lg-4 col-md-6">
             <div className="blog-card1 magnetic-item">
               <Link href="/blog-details" className="blog-img">
-                <img src="assets/img/home1/blog-img-01.jpg" alt="blog-img-01" />
+                <img
+                  src="assets\img\Industries_Fintech/insights-1.jpg"
+                  alt="blog-img-01"
+                  style={{
+                    height: "290px",
+                  }}
+                />
               </Link>
-              <div className="blog-content">          
+              <div className="blog-content">
                 <h4>
                   <Link href="/blog-details">
-                  The Future of Global Fintech: Strategies for Growth
+                    The Future of Global Fintech: Strategies for Growth
                   </Link>
                 </h4>
               </div>
@@ -55,12 +63,18 @@ const Home1BlogSection = () => {
           <div className="col-lg-4 col-md-6">
             <div className="blog-card1 magnetic-item">
               <Link href="/blog-details" className="blog-img">
-                <img src="assets/img/home1/blog-img-02.jpg" alt="blog-img-02" />
+                <img
+                  src="assets\img\Industries_Fintech/insights-2.jpg"
+                  alt="blog-img-02"
+                  style={{
+                    height: "290px",
+                  }} 
+                />
               </Link>
               <div className="blog-content">
                 <h4>
                   <Link href="/blog-details">
-                  Modernizing Financial Services: The Core-to-Cloud Journey
+                    Modernizing Financial Services: The Core-to-Cloud Journey
                   </Link>
                 </h4>
               </div>
@@ -69,12 +83,16 @@ const Home1BlogSection = () => {
           <div className="col-lg-4 col-md-6">
             <div className="blog-card1 magnetic-item">
               <Link href="/blog-details" className="blog-img">
-                <img src="assets/img/home1/blog-img-03.jpg" alt="blog-img-03" />
+                <img src="assets\img\Industries_Fintech/insights-3.jpg"
+                 style={{
+                  height: "290px",
+                }} />
               </Link>
               <div className="blog-content">
                 <h4>
                   <Link href="/blog-details">
-                  Global Credit Scores: A Pathway to Financial Inclusion for Migrants
+                    Global Credit Scores: A Pathway to Financial Inclusion for
+                    Migrants
                   </Link>
                 </h4>
               </div>

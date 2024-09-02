@@ -34,7 +34,8 @@ const Home1BannerSection = () => {
             <div className="row">
               <div className="col-lg-7 d-lg-flex d-none">
                 <div className="banner-img magnetic-item">
-                  <img src="assets/img/home1/banner-img.jpg" alt="" />
+                  <img src="assets/img/Industries_Education/banner.jpeg" alt=""
+                  style={{height:"500px", width:"1000px"}} />
                 </div>
               </div>
               <div className="col-lg-5">

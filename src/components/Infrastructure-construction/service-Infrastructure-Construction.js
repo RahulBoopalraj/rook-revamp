@@ -53,13 +53,17 @@ const HomeworkSection = () => {
                 <div className="col-lg-5">
                   <div className="single-work magnetic-item">
                     <div className="work-img">
-                      <img src="assets/img/home1/work-img-01.jpg" alt="" />
+                      <img
+                        src="assets/img/Industries_Infrastructure_Construction/service-1.jpeg"
+                        alt=""
+                        style={{ height: "490px" }}
+                      />
                     </div>
                     <div className="work-content">
                       <div className="content-wrap">
                         <h5>
                           <Link href="/portfolio-details">
-                          Design and Engineering
+                            Design and Engineering
                           </Link>
                         </h5>
                         <ul>
@@ -70,7 +74,9 @@ const HomeworkSection = () => {
                             <Link href="/portfolio-manonery">Precision</Link>
                           </li>
                           <li>
-                            <Link href="/portfolio-manonery">Sustainability</Link>
+                            <Link href="/portfolio-manonery">
+                              Sustainability
+                            </Link>
                           </li>
                         </ul>
                         <div className="view-details-wrap">
@@ -88,13 +94,17 @@ const HomeworkSection = () => {
                 <div className="col-lg-6">
                   <div className="single-work magnetic-item">
                     <div className="work-img">
-                      <img src="assets/img/home1/work-img-02.jpg" alt="" />
+                      <img
+                        src="assets/img/Industries_Infrastructure_Construction/service-2.jpeg"
+                        alt=""
+                        style={{ height: "490px" }}
+                      />
                     </div>
                     <div className="work-content">
                       <div className="content-wrap">
                         <h5>
                           <Link href="/portfolio-details">
-                          Project Management
+                            Project Management
                           </Link>
                         </h5>
                         <ul>
@@ -125,12 +135,18 @@ const HomeworkSection = () => {
                 <div className="col-lg-12">
                   <div className="single-work magnetic-item">
                     <div className="work-img">
-                      <img src="assets/img/home1/work-img-03.jpg" alt="" />
+                      <img
+                        src="assets/img/Industries_Infrastructure_Construction/service-3.jpg"
+                        alt=""
+                        style={{ height: "300px", width: "100%" }}
+                      />
                     </div>
                     <div className="work-content">
                       <div className="content-wrap">
                         <h5>
-                          <Link href="/portfolio-details">Urban Planning and Development</Link>
+                          <Link href="/portfolio-details">
+                            Urban Planning and Development
+                          </Link>
                         </h5>
                         <ul>
                           <li>
@@ -140,7 +156,9 @@ const HomeworkSection = () => {
                             <Link href="/portfolio-manonery">Growth</Link>
                           </li>
                           <li>
-                            <Link href="/portfolio-manonery">Sustainability</Link>
+                            <Link href="/portfolio-manonery">
+                              Sustainability
+                            </Link>
                           </li>
                         </ul>
                         <div className="view-details-wrap">
@@ -160,12 +178,18 @@ const HomeworkSection = () => {
                 <div className="col-lg-6">
                   <div className="single-work magnetic-item">
                     <div className="work-img">
-                      <img src="assets/img/home1/work-img-04.jpg" alt="" />
+                      <img
+                        src="assets/img/Industries_Infrastructure_Construction/service-4.jpeg"
+                        alt=""
+                        style={{ height: "490px" }}
+                      />
                     </div>
                     <div className="work-content">
                       <div className="content-wrap">
                         <h5>
-                          <Link href="/portfolio-details">Consulting and Advisory Services</Link>
+                          <Link href="/portfolio-details">
+                            Consulting and Advisory Services
+                          </Link>
                         </h5>
                         <ul>
                           <li>
@@ -175,9 +199,7 @@ const HomeworkSection = () => {
                             <Link href="/portfolio-manonery">Guidance</Link>
                           </li>
                           <li>
-                            <Link href="/portfolio-manonery">
-                            Solutions
-                            </Link>
+                            <Link href="/portfolio-manonery">Solutions</Link>
                           </li>
                         </ul>
                         <div className="view-details-wrap">
@@ -195,15 +217,17 @@ const HomeworkSection = () => {
                 <div className="col-lg-5">
                   <div className="single-work magnetic-item">
                     <div className="work-img">
-                      <img src="assets/img/home1/work-img-05.jpg" alt="" />
+                      <img
+                        src="assets/img/Industries_Infrastructure_Construction/service-5.jpeg"
+                        alt=""
+                        style={{ height: "490px" }}
+                      />
                     </div>
                     <div className="work-content">
                       <div className="content-wrap">
                         <h5>
                           <Link href="/portfolio-details">
-                          Asset Management
-
-
+                            Asset Management
                           </Link>
                         </h5>
                         <ul>
