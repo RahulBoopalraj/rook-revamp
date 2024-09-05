@@ -46,9 +46,9 @@ const Home1BannerSection = () => {
         <div className="container-fluid">
           <div className="banner-bottom">
             <div className="row">
-              <div className="col-lg-7 d-lg-flex d-none">
-                <div className="banner-img magnetic-item">
-                  <img src="assets/img/home1/banner-img.jpg" alt="" style={{height:"400px", width:"1000px"}} />
+              <div className="col-lg-7 d-lg-flex d-none pt-3">
+                <div className="banner-img magnetic-item pt-3">
+                  <img src="assets/img/Rook-domain/banner.jpg" alt="" style={{height:"400px", width:"1000px"}} />
                 </div>
               </div>
               <div className="col-lg-5">

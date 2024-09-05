@@ -170,7 +170,7 @@ const Home2About = () => {
                 <div className="col-sm-5">
                   <div className="about-left">
                     <div className="about-img animet-images magnetic-item">
-                      <img src="assets/img/home2/about-02.jpg" alt="" />
+                      <img src="assets/img/rook gtm/about-1.jpeg" alt="" />
                     </div>
                     <p className="text-animation2">
                       Rook specialize in crafting the perfect go-to-market
@@ -180,7 +180,7 @@ const Home2About = () => {
                 </div>
                 <div className="col-sm-7 d-sm-flex  d-none">
                   <div className="about-right-img animet-images magnetic-item">
-                    <img src="assets/img/home2/about-01.jpg" alt="" />
+                    <img src="assets/img/rook gtm/about-2.jpg" alt="" style={{height:"400px" , width:"270px", marginLeft:"50px", borderRadius:"10px"}} />
                   </div>
                 </div>
               </div>

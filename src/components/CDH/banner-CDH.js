@@ -46,8 +46,8 @@ const Home1BannerSection = () => {
         <div className="container-fluid">
           <div className="banner-bottom">
             <div className="row">
-              <div className="col-lg-7 d-lg-flex d-none">
-                <div className="banner-img magnetic-item">
+              <div className="col-lg-7 d-lg-flex d-none pt-3">
+                <div className="banner-img magnetic-item pt-3">
                   <img src="assets/img/Industries_CDH/banner.jpg" alt="" 
                   style={{height:"400px", width:"1000px"}}/>
                 </div>

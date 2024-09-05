@@ -87,7 +87,7 @@ const Home6ProjecManagement = () => {
                   </a>
                 </div>
                 <div className="single-project-img">
-                  <img src="assets/img/home6/single-project-img1.png" alt="" />
+                  <img src="assets/img/Rook-D2C/proj-Manage-1.jpg" alt="" />
                 </div>
               </div>
             </div>
@@ -106,7 +106,7 @@ const Home6ProjecManagement = () => {
                       >
                         <path d="M4.16648 10.8225C4.12625 10.8225 4.08672 10.8119 4.05181 10.792C4.0169 10.772 3.98782 10.7432 3.96746 10.7085C3.10487 9.23894 0.806291 6.11133 0.783168 6.0799C0.750326 6.03526 0.734645 5.98029 0.738993 5.92504C0.74334 5.86979 0.767425 5.81795 0.806845 5.779L1.51341 5.0808C1.5518 5.04287 1.60227 5.01959 1.65604 5.01501C1.70981 5.01043 1.76349 5.02485 1.80774 5.05574L4.11836 6.66919C5.65454 4.69574 7.08213 3.33381 8.02044 2.53133C9.07217 1.63173 9.74084 1.22749 9.76879 1.21064C9.80466 1.18911 9.84571 1.17774 9.88754 1.17773H11.0306C11.0774 1.17773 11.1231 1.19194 11.1616 1.21849C11.2001 1.24504 11.2296 1.28267 11.2463 1.32639C11.2629 1.37012 11.2659 1.41787 11.2548 1.46331C11.2437 1.50876 11.219 1.54976 11.1841 1.58087C9.48951 3.0901 7.72773 5.48809 6.5482 7.23393C5.26597 9.13164 4.37585 10.6904 4.36701 10.7059C4.34698 10.7411 4.31804 10.7704 4.28311 10.7908C4.24818 10.8113 4.20848 10.8222 4.168 10.8224L4.16648 10.8225Z" />
                       </svg>
-                      Define a unique identity that reflects your values, mission, and market differentiation. 
+                      Build a strong value-driven identity.
                     </li>
                     <li>
                       <svg
@@ -117,8 +117,7 @@ const Home6ProjecManagement = () => {
                       >
                         <path d="M4.16648 10.8225C4.12625 10.8225 4.08672 10.8119 4.05181 10.792C4.0169 10.772 3.98782 10.7432 3.96746 10.7085C3.10487 9.23894 0.806291 6.11133 0.783168 6.0799C0.750326 6.03526 0.734645 5.98029 0.738993 5.92504C0.74334 5.86979 0.767425 5.81795 0.806845 5.779L1.51341 5.0808C1.5518 5.04287 1.60227 5.01959 1.65604 5.01501C1.70981 5.01043 1.76349 5.02485 1.80774 5.05574L4.11836 6.66919C5.65454 4.69574 7.08213 3.33381 8.02044 2.53133C9.07217 1.63173 9.74084 1.22749 9.76879 1.21064C9.80466 1.18911 9.84571 1.17774 9.88754 1.17773H11.0306C11.0774 1.17773 11.1231 1.19194 11.1616 1.21849C11.2001 1.24504 11.2296 1.28267 11.2463 1.32639C11.2629 1.37012 11.2659 1.41787 11.2548 1.46331C11.2437 1.50876 11.219 1.54976 11.1841 1.58087C9.48951 3.0901 7.72773 5.48809 6.5482 7.23393C5.26597 9.13164 4.37585 10.6904 4.36701 10.7059C4.34698 10.7411 4.31804 10.7704 4.28311 10.7908C4.24818 10.8113 4.20848 10.8222 4.168 10.8224L4.16648 10.8225Z" />
                       </svg>{" "}
-                      Ensure consistency to build trust and recognition across all customer touchpoints.
-                    </li>
+                      Ensure consistency for trust across touchpoints.                  </li>
                   </ul>
                   <a href="#">
                     Get Free Trial
@@ -137,7 +136,7 @@ const Home6ProjecManagement = () => {
                   </a>
                 </div>
                 <div className="single-project-img">
-                  <img src="assets/img/home6/single-project-img2.png" alt="" />
+                  <img src="assets/img/Rook-D2C/proj-Manage-2.jpg" alt="" style={{height:"300px"}}/>
                 </div>
               </div>
             </div>
@@ -188,7 +187,7 @@ const Home6ProjecManagement = () => {
                   </a>
                 </div>
                 <div className="single-project-img">
-                  <img src="assets/img/home6/single-project-img3.png" alt="" />
+                  <img src="assets/img/Rook-D2C/proj-Manage-3.jpg" alt="" />
                 </div>
               </div>
             </div>
@@ -238,7 +237,7 @@ const Home6ProjecManagement = () => {
                   </a>
                 </div>
                 <div className="single-project-img">
-                  <img src="assets/img/home6/single-project-img4.png" alt="" />
+                  <img src="assets/img/Rook-D2C/proj-Manage-4.jpg" alt="" />
                 </div>
               </div>
             </div>

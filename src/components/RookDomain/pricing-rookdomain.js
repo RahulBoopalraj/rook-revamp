@@ -57,12 +57,12 @@ const PricingRook = () => {
               aria-labelledby="nav-home-tab"
               tabIndex={0}
             >
-              <div className="row g-xl-3 gy-4 align-items-center justify-content-center">
+              <div className="row g-xl-3 gy-4 align-items-center justify-content-center"  style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
                 <div
                   className="col-xl-4 col-md-6 wow animate fadeInLeft"
                   data-wow-delay="200ms"
                   data-wow-duration="1500ms"
-                  style={{ display: 'flex', justifyContent: 'center' }}
+                  style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}
                 >
                   <div className="pricing-card">
                     <div className="pricing-top">

@@ -54,7 +54,7 @@ const HomeworkSection = () => {
                   <div className="single-work magnetic-item">
                     <div className="work-img">
                       <img src="assets/img/Industries_Education/service-1.jpg" alt=""
-                      style={{ height:"411px", width : "100%"}} />
+                      style={{ height:"411px", width : "100%" , borderradius:"5px"}} />
                     </div>
                     <div className="work-content">
                       <div className="content-wrap">
@@ -87,7 +87,9 @@ const HomeworkSection = () => {
                 <div className="col-lg-6">
                   <div className="single-work magnetic-item">
                     <div className="work-img">
-                      <img src="assets/img/Industries_Education/service-2.jpg" alt="" />
+                      <img src="assets/img/Industries_Education/service-2.jpg" alt="" 
+                      style={{borderradius:"5px"}}  />
+        
                     </div>
                     <div className="work-content">
                       <div className="content-wrap">
@@ -128,7 +130,7 @@ const HomeworkSection = () => {
                   <div className="single-work magnetic-item">
                     <div className="work-img">
                       <img src="assets/img/Industries_Education/service-3.jpg" alt=""
-                      style={{width:"1320px", height:"511px"}} />
+                      style={{width:"1320px", height:"511px",borderradius:"10px"}} />
                     </div>
                     <div className="work-content">
                       <div className="content-wrap">
@@ -168,7 +170,7 @@ const HomeworkSection = () => {
                 <div className="col-lg-6">
                   <div className="single-work magnetic-item">
                     <div className="work-img">
-                      <img src="assets/img/Industries_Education/service-4.jpeg" alt="" />
+                      <img src="assets/img/Industries_Education/service-4.jpeg" alt="" style={{borderradius:"5px"}}  />
                     </div>
                     <div className="work-content">
                       <div className="content-wrap">
@@ -204,7 +206,7 @@ const HomeworkSection = () => {
                   <div className="single-work magnetic-item">
                     <div className="work-img">
                       <img src="assets/img/Industries_Education/service-5.jpeg" alt="" 
-                      style={{height:"430px", width: "100%"}}/>
+                      style={{height:"430px", width: "100%" ,borderRadius:"5px"}}/>
                     </div>
                     <div className="work-content">
                       <div className="content-wrap">

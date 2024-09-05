@@ -55,7 +55,7 @@ const Home5BannerSection = () => {
                       </div>
                       <div className="banner-img">
                         <img
-                          src="assets/img/home5/home5-banner-img.png"
+                          src="assets/img/rook webdev/banner.jpg"
                           alt=""
                         />
                         <svg

@@ -442,15 +442,15 @@ const Home6BannerSection = () => {
           <div className="row">
             <div className="col-lg-12">
               <div className="dashboard-img-wrap">
-                <div className="dashboard-img">
+                <div className="dashboard-img"  style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '600px' }}>
                   <img
-                    src="assets/img/home6/dashboard.png"
-                    alt=""
+                    src="assets/img/Rook-startups/2254-transformed.jpeg"
+                    alt="" style={{height:"600px", width:"1000px"}}
                     className="light"
                   />
                   <img
-                    src="assets/img/home6/dashboard-dark.png"
-                    alt=""
+                    src="assets/img/Rook-startups/2254-transformed.jpeg"
+                    alt="" style={{height:"600px", width:"1000px"}}
                     className="dark"
                   />
                 </div>

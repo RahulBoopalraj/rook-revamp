@@ -91,7 +91,7 @@ const Home4About = () => {
                       />
                     </div>
                     <div className="about-img animet-images">
-                      <img src="assets/img/home4/about-img.jpg" alt="" />
+                      <img src="assets/img/rook branding/about.jpg" alt="" />
                     </div>
                   </div>
                 </div>

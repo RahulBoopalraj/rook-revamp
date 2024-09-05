@@ -99,7 +99,7 @@ const Home2BannerSection = () => {
             </div>
             <div className="col-xxl-4 col-xl-5 col-lg-5 d-lg-flex d-none">
               <div className="banner-img magnetic-item">
-                <img src="assets/img/home2/banner-img.png" alt="" />
+                <img src="assets/img/rook gtm/banner.jpg" alt="" style={{height:"677px" , width:"462px" , borderRadius:"10px"}} />
               </div>
             </div>
           </div>

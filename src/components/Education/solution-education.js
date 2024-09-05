@@ -99,7 +99,7 @@ const Home1solutionSection = ({ style = "home1-solution-section" }) => {
                 <div
                   className="solution-img"
                   style={{
-                    backgroundImage: "url(assets/img/Industries_Education/solution-1.jpeg)",
+                    backgroundImage: "url(assets/img/Industries_Education/solution-1.jpeg)",borderRadius:"10px"
                   }}
                 ></div>
               </li>
@@ -107,7 +107,7 @@ const Home1solutionSection = ({ style = "home1-solution-section" }) => {
                 <div
                   className="solution-img"
                   style={{
-                    backgroundImage: "url(assets/img/Industries_Education/solution-2.jpg)",
+                    backgroundImage: "url(assets/img/Industries_Education/solution-2.jpg)",borderRadius:"10px"
                   }}
                 ></div>
               </li>
@@ -115,7 +115,8 @@ const Home1solutionSection = ({ style = "home1-solution-section" }) => {
                 <div
                   className="solution-img"
                   style={{
-                    backgroundImage: "url(assets/img/Industries_Education/solution-3.jpg)",
+                    backgroundImage: "url(assets/img/Industries_Education/solution-3.jpg)", borderRadius:"10px"
+
                   }}
                 ></div>
               </li>
@@ -123,7 +124,7 @@ const Home1solutionSection = ({ style = "home1-solution-section" }) => {
                 <div
                   className="solution-img"
                   style={{
-                    backgroundImage: "url(assets/img/Industries_Education/solution-4.jpeg)",
+                    backgroundImage: "url(assets/img/Industries_Education/solution-4.jpeg)",borderRadius:"10px"
                   }}
                 ></div>
               </li>
@@ -131,7 +132,7 @@ const Home1solutionSection = ({ style = "home1-solution-section" }) => {
                 <div
                   className="solution-img"
                   style={{
-                    backgroundImage: "url(assets/img/Industries_Education/solution-5.jpeg)",
+                    backgroundImage: "url(assets/img/Industries_Education/solution-5.jpeg)",borderRadius:"10px"
                   }}
                 ></div>
               </li>
