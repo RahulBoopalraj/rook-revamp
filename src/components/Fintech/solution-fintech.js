@@ -99,7 +99,7 @@ const Home1solutionSection = ({ style = "home1-solution-section" }) => {
                 <div
                   className="solution-img"
                   style={{
-                    backgroundImage: "url(assets/img/Industries_Fintech/solution-1.jpg)",
+                    backgroundImage: "url(assets/img/Industries_Fintech/solution-1.jpg)",borderRadius: "5px"
                   }}
                 ></div>
               </li>
@@ -107,7 +107,7 @@ const Home1solutionSection = ({ style = "home1-solution-section" }) => {
                 <div
                   className="solution-img"
                   style={{
-                    backgroundImage: "url(assets/img/Industries_Fintech/solution-2.jpg)",
+                    backgroundImage: "url(assets/img/Industries_Fintech/solution-2.jpg)",borderRadius: "5px"
                   }}
                 ></div>
               </li>
@@ -115,7 +115,7 @@ const Home1solutionSection = ({ style = "home1-solution-section" }) => {
                 <div
                   className="solution-img"
                   style={{
-                    backgroundImage: "url(assets/img/Industries_Fintech/solution-3.jpg)",
+                    backgroundImage: "url(assets/img/Industries_Fintech/solution-3.jpg)",borderRadius: "5px"
                   }}
                 ></div>
               </li>
@@ -123,7 +123,7 @@ const Home1solutionSection = ({ style = "home1-solution-section" }) => {
                 <div
                   className="solution-img"
                   style={{
-                    backgroundImage: "url(assets/img/Industries_Fintech/solution-4.jpg)",
+                    backgroundImage: "url(assets/img/Industries_Fintech/solution-4.jpg)",borderRadius: "5px"
                   }}
                 ></div>
               </li>
@@ -131,7 +131,7 @@ const Home1solutionSection = ({ style = "home1-solution-section" }) => {
                 <div
                   className="solution-img"
                   style={{
-                    backgroundImage: "url(assets/img/Industries_Fintech/solution-5.jpg)",
+                    backgroundImage: "url(assets/img/Industries_Fintech/solution-5.jpg)",borderRadius: "5px"
                   }}
                 ></div>
               </li>

@@ -47,7 +47,7 @@ const Home1BlogSection = () => {
                   src="assets\img\Industries_Fintech/insights-1.jpg"
                   alt="blog-img-01"
                   style={{
-                    height: "290px",
+                    height: "290px",borderRadius: "5px"
                   }}
                 />
               </Link>
@@ -67,7 +67,7 @@ const Home1BlogSection = () => {
                   src="assets\img\Industries_Fintech/insights-2.jpg"
                   alt="blog-img-02"
                   style={{
-                    height: "290px",
+                    height: "290px", borderRadius: "5px"
                   }} 
                 />
               </Link>
@@ -85,7 +85,7 @@ const Home1BlogSection = () => {
               <Link href="/blog-details" className="blog-img">
                 <img src="assets\img\Industries_Fintech/insights-3.jpg"
                  style={{
-                  height: "290px",
+                  height: "290px",borderRadius: "5px"
                 }} />
               </Link>
               <div className="blog-content">

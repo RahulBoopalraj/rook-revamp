@@ -10,12 +10,6 @@ const ServiceDetailsPage = () => {
     <>
       <div className="details-page-wrapper service-details pt-130 mb-130">
         <div className="container-lg container-fluid">
-          <span className="line-break" />
-          <span className="line-break" />
-          <span className="line-break" />
-          <span className="line-break" />
-          <span className="line-break" />
-          <span className="line-break" />
           <div className="details-page-content mb-130">
             <h3>Service Overview</h3>
             <div className="row g-lg-4 gy-3">
