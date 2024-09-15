@@ -19,17 +19,18 @@ const ServiceInsightsPage = () => {
                   transform your business operations, enhancing decision-making
                   and automating routine tasks. Our solutions integrate machine
                   learning and predictive analytics to provide actionable
-                  insights and streamline processes, enabling your business to
-                  operate with greater efficiency and accuracy.
+                  insights, enabling your business to operate with greater
+                  efficiency and accuracy.
                 </p>
               </div>
               <div className="col-lg-6">
                 <p>
                   From intelligent automation and process optimization to
-                  advanced analytics and natural language processing, Rook’s
-                  cognitive services are designed to meet your unique needs.
-                  Embrace the future of business operations with Rook and unlock
-                  new levels of productivity and innovation.
+                  advanced analytics, AI-driven insights, and natural language
+                  processing, Rook’s cognitive services are designed to meet
+                  your unique needs. Embrace the future of business operations
+                  with Rook and unlock new levels of productivity and
+                  innovation.
                 </p>
               </div>
             </div>

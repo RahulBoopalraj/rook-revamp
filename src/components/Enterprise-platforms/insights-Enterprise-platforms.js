@@ -15,23 +15,12 @@ const ServiceInsightsPage = () => {
             <div className="row g-lg-4 gy-3">
               <div className="col-lg-6">
                 <p className="first-para">
-                  At Rook, we empower enterprises with advanced platform
-                  solutions designed to drive innovation and growth. Our
-                  services include platform development, integration, and
-                  optimization, tailored to meet your unique needs. With a focus
-                  on security, scalability, and efficiency, we help businesses
-                  streamline operations and achieve strategic goals. Transform
-                  your enterprise capabilities with Rook and stay ahead in
-                  today’s competitive landscape.
+                At Rook, we empower enterprises with advanced platform solutions designed to drive innovation and growth. Our services include platform development, integration, and optimization, tailored to meet your unique needs. With a focus on security, scalability, and efficiency, we help businesses streamline operations and achieve strategic goals.
                 </p>
               </div>
               <div className="col-lg-6">
                 <p>
-                  From Platform Development and Integration to Advanced
-                  Analytics and System Optimization, we provide the tools and
-                  expertise necessary to transform your business operations.
-                  Elevate your enterprise capabilities with Rook and redefine
-                  what’s possible for your business.
+                From Platform Development and Integration to Advanced Analytics and System Optimization, we provide the tools and expertise necessary to transform your business operations. Elevate your enterprise capabilities with Rook and stay ahead in today’s competitive landscape, redefining what’s possible for your business.
                 </p>
               </div>
             </div>
