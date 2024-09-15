@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "img": "assets/img/Enterprise_platforms/solution-1.jpg",
+    "img_horizontal": "assets/img/Enterprise_platforms/solution-1.jpg",
+    "category": "Branding",
+    "tag": "UI/UX Design",
+    "title": "Digital Masterpieces",
+    "categorySlug": "branding",
+    "horizontal_title": "MVP Development",
+    "horizontal_tag": [
+      
+    ],
+    "horizontal_details": "Launch your idea quickly with our MVP development, focusing on essential features to validate and refine your product."
+  },
+  {
+    "id": 2,
+    "img": "assets/img/Enterprise_platforms/solution-2.jpg",
+    "img_horizontal": "assets/img/Enterprise_platforms/solution-2.jpg",
+    "category": "UI/UX",
+    "tag": "UI/UX",
+    "title": "Digital Masterpieces",
+    "categorySlug": "uI/UX",
+    "horizontal_title": "User Testing & Feedback",
+    "horizontal_tag": [
+      
+    ],
+    "horizontal_details": "Boost platform performance with targeted user testing. We gather insights, identify issues, and make improvements to enhance user experience."
+  },
+  {
+    "id": 3,
+    "img": "assets/img/Enterprise_platforms/solution-3.jpg",
+    "img_horizontal": "assets/img/Enterprise_platforms/solution-3.jpg",
+    "category": "Web",
+    "tag": "Web",
+    "title": "Digital Masterpieces",
+    "categorySlug": "web",
+    "horizontal_title": "ERP (Enterprise Resource Planning)",
+    "horizontal_tag": [
+      
+    ],
+    "horizontal_details": "Streamline your business processes with our ERP solutions. We integrate key functions like finance, supply chain, and manufacturing into a unified system, enhancing operational efficiency and data accuracy."
+  },
+  {
+    "id": 4,
+    "img": "assets/img/Enterprise_platforms/solution-4.jpg",
+    "img_horizontal": "assets/img/Enterprise_platforms/solution-4.jpg",
+    "category": "Graphics",
+    "tag": "Graphics",
+    "title": "Digital Masterpieces",
+    "categorySlug": "graphics",
+    "horizontal_title": "CRM (Customer Relationship Management)",
+    "horizontal_tag": [
+  
+    ],
+    "horizontal_details": "Enhance customer interactions with our CRM solutions. We help you manage customer relationships, track sales, and analyze data to improve customer service and drive growth."
+  },
+  {
+    "id": 5,
+    "img": "assets/img/Enterprise_platforms/solution-5.jpg",
+    "img_horizontal": "assets/img/Enterprise_platforms/solution-5.jpg",
+    "category": "Branding",
+    "tag": "UI/UX Design",
+    "title": "Digital Masterpieces",
+    "categorySlug": "branding",
+    "horizontal_title": " SCM (Supply Chain Management)",
+    "horizontal_tag": [
+     
+    ],
+    "horizontal_details": "Optimize your supply chain with our SCM solutions. We improve visibility, coordination, and efficiency across your supply chain, reducing costs and ensuring timely delivery of products."
+  },
+  {
+    "id": 6,
+    "img": "assets/img/Enterprise_platforms/solution-6.jpg",
+    "img_horizontal": "assets/img/Enterprise_platforms/solution-6.jpg",
+    "category": "Branding",
+    "tag": "UI/UX Design",
+    "title": "Digital Masterpieces",
+    "categorySlug": "branding",
+    "horizontal_title": " HRMS (Human Resource Management System)",
+    "horizontal_tag": [
+     
+    ],
+    "horizontal_details": "Manage your workforce effectively with our HRMS solutions. We streamline HR processes such as recruitment, payroll, and employee management, enhancing productivity and compliance."
+  }
+]

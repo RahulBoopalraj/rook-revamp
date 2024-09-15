@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "img": "assets/img/consulting/solution-1.jpg",
+    "img_horizontal": "assets/img/consulting/solution-1.jpg",
+    "category": "Branding",
+    "tag": "UI/UX Design",
+    "title": "Digital Masterpieces",
+    "categorySlug": "branding",
+    "horizontal_title": "Market Research & Analysis",
+    "horizontal_tag": [
+      
+    ],
+    "horizontal_details": "Leverage insights from our Market Research & Analysis to understand trends, customer behavior, and competitive landscapes for informed decision-making."
+  },
+  {
+    "id": 2,
+    "img": "assets/img/consulting/solution-2.jpg",
+    "img_horizontal": "assets/img/consulting/solution-2.jpg",
+    "category": "UI/UX",
+    "tag": "UI/UX",
+    "title": "Digital Masterpieces",
+    "categorySlug": "uI/UX",
+    "horizontal_title": "Innovation Consulting",
+    "horizontal_tag": [
+      
+    ],
+    "horizontal_details": "Drive growth with our Innovation Consulting, guiding you through technology ideation and implementation to stay ahead of market trends."
+  },
+  {
+    "id": 3,
+    "img": "assets/img/consulting/solution-3.jpg",
+    "img_horizontal": "assets/img/consulting/solution-3.jpg",
+    "category": "Web",
+    "tag": "Web",
+    "title": "Digital Masterpieces",
+    "categorySlug": "web",
+    "horizontal_title": "Software Architecture Consulting",
+    "horizontal_tag": [
+      
+    ],
+    "horizontal_details": "Optimize your technology with our Software Architecture Consulting, creating scalable and secure systems tailored to your needs."
+  },
+  {
+    "id": 4,
+    "img": "assets/img/consulting/solution-4.jpg",
+    "img_horizontal": "assets/img/consulting/solution-4.jpg",
+    "category": "Graphics",
+    "tag": "Graphics",
+    "title": "Digital Masterpieces",
+    "categorySlug": "graphics",
+    "horizontal_title": "Social Media Strategy",
+    "horizontal_tag": [
+  
+    ],
+    "horizontal_details": "Boost your brand’s digital presence with our Social Media Strategy, designed to increase engagement and expand your online reach."
+  },
+  {
+    "id": 5,
+    "img": "assets/img/consulting/solution-5.jpg",
+    "img_horizontal": "assets/img/consulting/solution-5.jpg",
+    "category": "Branding",
+    "tag": "UI/UX Design",
+    "title": "Digital Masterpieces",
+    "categorySlug": "branding",
+    "horizontal_title": " Market Validation",
+    "horizontal_tag": [
+     
+    ],
+    "horizontal_details": "Ensure your product’s success with our Market Validation services, which assess demand and refine your offerings to meet customer needs."
+  }
+]

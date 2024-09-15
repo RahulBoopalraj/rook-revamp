@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "img": "assets/img/branding_marketing/solution-1.jpg",
+    "img_horizontal": "assets/img/branding_marketing/solution-1.jpg",
+    "category": "Branding",
+    "tag": "UI/UX Design",
+    "title": "Digital Masterpieces",
+    "categorySlug": "branding",
+    "horizontal_title": "UI/UX Design",
+    "horizontal_tag": [
+      
+    ],
+    "horizontal_details": "Craft visually engaging, user-friendly interfaces that elevate customer experiences and drive conversions across digital platforms."
+  },
+  {
+    "id": 2,
+    "img": "assets/img/branding_marketing/solution-2.jpg",
+    "img_horizontal": "assets/img/branding_marketing/solution-2.jpg",
+    "category": "UI/UX",
+    "tag": "UI/UX",
+    "title": "Digital Masterpieces",
+    "categorySlug": "uI/UX",
+    "horizontal_title": "Market Positioning",
+    "horizontal_tag": [
+      
+    ],
+    "horizontal_details": "Define your brand’s unique value and stand out with strategic market positioning that establishes your brand as a leader."
+  },
+  {
+    "id": 3,
+    "img": "assets/img/branding_marketing/solution-3.jpg",
+    "img_horizontal": "assets/img/branding_marketing/solution-3.jpg",
+    "category": "Web",
+    "tag": "Web",
+    "title": "Digital Masterpieces",
+    "categorySlug": "web",
+    "horizontal_title": "Digital Marketing Campaigns/Strategy",
+    "horizontal_tag": [
+      
+    ],
+    "horizontal_details": "Boost traffic and conversions with targeted, data-driven digital marketing campaigns that maximize your online presence and ROI."
+  },
+  {
+    "id": 4,
+    "img": "assets/img/branding_marketing/solution-4.jpg",
+    "img_horizontal": "assets/img/branding_marketing/solution-4.jpg",
+    "category": "Graphics",
+    "tag": "Graphics",
+    "title": "Digital Masterpieces",
+    "categorySlug": "graphics",
+    "horizontal_title": "Brand Development",
+    "horizontal_tag": [
+  
+    ],
+    "horizontal_details": "Build a memorable brand identity through consistent messaging and design that resonates with your audience and drives loyalty."
+  },
+  {
+    "id": 5,
+    "img": "assets/img/branding_marketing/solution-5.jpg",
+    "img_horizontal": "assets/img/branding_marketing/solution-5.jpg",
+    "category": "Branding",
+    "tag": "UI/UX Design",
+    "title": "Digital Masterpieces",
+    "categorySlug": "branding",
+    "horizontal_title": " Content Marketing",
+    "horizontal_tag": [
+     
+    ],
+    "horizontal_details": "Deliver engaging, informative content through well-planned strategies that build trust and authority, from blogs to white papers."
+  },
+  {
+    "id": 6,
+    "img": "assets/img/branding_marketing/solution-6.jpg",
+    "img_horizontal": "assets/img/branding_marketing/solution-6.jpg",
+    "category": "Branding",
+    "tag": "UI/UX Design",
+    "title": "Digital Masterpieces",
+    "categorySlug": "branding",
+    "horizontal_title": "Social Media Management",
+    "horizontal_tag": [
+    ],
+    "horizontal_details": "Enhance your brand’s visibility with tailored social media strategies and paid advertising, driving engagement and community growth."
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "img": "assets/img/Domain/solution-1.jpg",
+    "img_horizontal": "assets/img/Domain/solution-1.jpg",
+    "category": "Branding",
+    "tag": "UI/UX Design",
+    "title": "Digital Masterpieces",
+    "categorySlug": "branding",
+    "horizontal_title": "Domain Name Strategy and Consulting",
+    "horizontal_tag": [
+      
+    ],
+    "horizontal_details": "Align your domain strategy with your brand through expert consulting, portfolio management, and domain acquisition to boost your digital presence."
+  },
+  {
+    "id": 2,
+    "img": "assets/img/Domain/solution-2.jpg",
+    "img_horizontal": "assets/img/Domain/solution-2.jpg",
+    "category": "UI/UX",
+    "tag": "UI/UX",
+    "title": "Digital Masterpieces",
+    "categorySlug": "uI/UX",
+    "horizontal_title": "Domain Registration and Renewal",
+    "horizontal_tag": [
+      
+    ],
+    "horizontal_details": "Register, renew, and transfer domains effortlessly, with privacy protection and security to safeguard your assets."
+  },
+  {
+    "id": 3,
+    "img": "assets/img/Domain/solution-3.jpg",
+    "img_horizontal": "assets/img/Domain/solution-3.jpg",
+    "category": "Web",
+    "tag": "Web",
+    "title": "Digital Masterpieces",
+    "categorySlug": "web",
+    "horizontal_title": "Domain Management and DNS Services",
+    "horizontal_tag": [
+      
+    ],
+    "horizontal_details": "Manage your domains efficiently with DNS configuration, SSL certificates, and subdomain setup, ensuring seamless and secure operations."
+  }
+
+]

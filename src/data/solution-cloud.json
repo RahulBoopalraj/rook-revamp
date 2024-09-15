@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "img": "assets/img/cloud/solution-1.jpeg",
+    "img_horizontal": "assets/img/cloud/solution-1.jpeg",
+    "category": "Branding",
+    "tag": "UI/UX Design",
+    "title": "Digital Masterpieces",
+    "categorySlug": "branding",
+    "horizontal_title": "Cloud Migration",
+    "horizontal_tag": [
+      
+    ],
+    "horizontal_details": "Seamlessly migrate your applications and workloads to the cloud with zero disruption. Our migration services ensure a smooth transition, whether it's from on-premise systems or between cloud providers."
+  },
+  {
+    "id": 2,
+    "img": "assets/img/cloud/solution-2.jpeg",
+    "img_horizontal": "assets/img/cloud/solution-2.jpeg",
+    "category": "UI/UX",
+    "tag": "UI/UX",
+    "title": "Digital Masterpieces",
+    "categorySlug": "uI/UX",
+    "horizontal_title": "API Integration",
+    "horizontal_tag": [
+      
+    ],
+    "horizontal_details": "Streamline your cloud applications by integrating APIs that enable secure and fast communication between your business systems, enhancing functionality and performance."
+  },
+  {
+    "id": 3,
+    "img": "assets/img/cloud/solution-3.jpg",
+    "img_horizontal": "assets/img/cloud/solution-3.jpg",
+    "category": "Web",
+    "tag": "Web",
+    "title": "Digital Masterpieces",
+    "categorySlug": "web",
+    "horizontal_title": "Cloud Infrastructure Management",
+    "horizontal_tag": [
+      
+    ],
+    "horizontal_details": "Efficiently manage and scale your cloud infrastructure to meet business demands. Our team handles everything from cloud provisioning to monitoring, ensuring optimal performance at all times."
+  },
+  {
+    "id": 4,
+    "img": "assets/img/cloud/solution-4.jpg",
+    "img_horizontal": "assets/img/cloud/solution-4.jpg",
+    "category": "Graphics",
+    "tag": "Graphics",
+    "title": "Digital Masterpieces",
+    "categorySlug": "graphics",
+    "horizontal_title": "DevOps Services",
+    "horizontal_tag": [
+  
+    ],
+    "horizontal_details": "Accelerate your development cycles with our DevOps services. We enable continuous integration, delivery, and deployment to ensure rapid, reliable updates to your cloud applications."
+  },
+  {
+    "id": 5,
+    "img": "assets/img/cloud/solution-5.jpg",
+    "img_horizontal": "assets/img/cloud/solution-5.jpg",
+    "category": "Branding",
+    "tag": "UI/UX Design",
+    "title": "Digital Masterpieces",
+    "categorySlug": "branding",
+    "horizontal_title": "Cloud Security",
+
+    "horizontal_tag": [
+     
+    ],
+    "horizontal_details": "Protect your data and applications with our robust cloud security services. We offer comprehensive solutions for secure access control, encryption, and compliance with industry standards."
+  },
+  {
+    "id": 6,
+    "img": "assets/img/innerpage/ph-sw-07.jpg",
+    "img_horizontal": "assets/img/innerpage/hz-sho-07.jpg",
+    "category": "UI/UX",
+    "tag": "UI/UX",
+    "title": "Digital Masterpieces",
+    "categorySlug": "uI/UX",
+    "horizontal_title": " Agile Development",
+    "horizontal_tag": [
+     
+    ],
+    "horizontal_details": "Develop and deploy cloud-based solutions using agile methodologies. We ensure your cloud systems evolve with market demands and customer needs, while keeping development costs and timelines in check."
+
+
+  },
+  {
+    "id": 7,
+    "img": "/assets/img/innerpage/ph-sw-08.jpg",
+    "img_horizontal": "assets/img/innerpage/hz-sho-08.jpg",
+    "category": "Web",
+    "tag": "Web",
+    "title": "Digital Masterpieces",
+    "categorySlug": "web",
+    "horizontal_title": "Disaster Recovery",
+    "horizontal_tag": [
+      "Logo",
+      "Palette",
+      " Hierarchy"
+    ],
+    "horizontal_details": "Ensure business continuity with disaster recovery solutions that minimize downtime and data loss. Our cloud-based recovery plans get you back online quickly in case of any disruptions."
+  },
+  {
+    "id": 8,
+    "img": "/assets/img/innerpage/ph-sw-08.jpg",
+    "img_horizontal": "assets/img/innerpage/hz-sho-08.jpg",
+    "category": "Graphics",
+    "tag": "Graphics",
+    "title": "Digital Masterpieces",
+    "categorySlug": "graphics",
+    "horizontal_title": "Cloud Cost Management",
+    "horizontal_tag": [
+      "Typography",
+      "Usability",
+      " Hierarchy"
+    ],
+    "horizontal_details": "Optimize your cloud expenditure with intelligent cost management tools. We help you monitor usage and implement strategies to reduce waste and maximize value."
+  }
+]

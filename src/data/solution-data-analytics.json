@@ -1,0 +1,143 @@
+[
+  {
+    "id": 1,
+    "img": "assets/img/data_analytics/solution-1.jpg",
+    "img_horizontal": "assets/img/data_analytics/solution-1.jpg",
+    "category": "Branding",
+    "tag": "UI/UX Design",
+    "title": "Digital Masterpieces",
+    "categorySlug": "branding",
+    "horizontal_title": "Customer Insights",
+    "horizontal_tag": [
+      
+    ],
+    "horizontal_details": "Gain valuable insights into customer behavior to personalize experiences, increase retention, and boost growth through data-driven strategies."
+  },
+  {
+    "id": 2,
+    "img": "assets/img/data_analytics/solution-2.jpg",
+    "img_horizontal": "assets/img/data_analytics/solution-2.jpg",
+    "category": "UI/UX",
+    "tag": "UI/UX",
+    "title": "Digital Masterpieces",
+    "categorySlug": "uI/UX",
+    "horizontal_title": "Data Engineering Services",
+    "horizontal_tag": [
+      
+    ],
+    "horizontal_details": "Optimize the collection, cleaning, and integration of your data, ensuring accuracy and consistency to power effective decision-making and analytics."
+  },
+  {
+    "id": 3,
+    "img": "assets/img/data_analytics/solution-3.jpg",
+    "img_horizontal": "assets/img/data_analytics/solution-3.jpg",
+    "category": "Web",
+    "tag": "Web",
+    "title": "Digital Masterpieces",
+    "categorySlug": "web",
+    "horizontal_title": "Data Governance",
+    "horizontal_tag": [
+      
+    ],
+    "horizontal_details": "Establish robust data governance practices to maintain accuracy, privacy, and compliance, building trust and security across your organization."
+  },
+  {
+    "id": 4,
+    "img": "assets/img/data_analytics/solution-4.jpg",
+    "img_horizontal": "assets/img/data_analytics/solution-4.jpg",
+    "category": "Graphics",
+    "tag": "Graphics",
+    "title": "Digital Masterpieces",
+    "categorySlug": "graphics",
+    "horizontal_title": "Descriptive Analytics",
+    "horizontal_tag": [
+  
+    ],
+    "horizontal_details": "Uncover meaningful patterns and trends from historical data, transforming past events into actionable insights for smarter business strategies."
+  },
+  {
+    "id": 5,
+    "img": "assets/img/data_analytics/solution-5.jpg",
+    "img_horizontal": "assets/img/data_analytics/solution-5.jpg",
+    "category": "Branding",
+    "tag": "UI/UX Design",
+    "title": "Digital Masterpieces",
+    "categorySlug": "branding",
+    "horizontal_title": " Diagnostic Analytics",
+    "horizontal_tag": [
+     
+    ],
+    "horizontal_details": "Analyze data to identify the root causes of trends and issues, enabling more informed problem-solving and performance optimization."
+  },
+  {
+    "id": 6,
+    "img": "assets/img/innerpage/ph-sw-07.jpg",
+    "img_horizontal": "assets/img/innerpage/hz-sho-07.jpg",
+    "category": "UI/UX",
+    "tag": "UI/UX",
+    "title": "Digital Masterpieces",
+    "categorySlug": "uI/UX",
+    "horizontal_title": "Predictive Analytics",
+    "horizontal_tag": [
+     
+    ],
+    "horizontal_details": "Leverage predictive models to forecast future trends, anticipate business opportunities, and proactively address potential risks."
+
+  },
+  {
+    "id": 7,
+    "img": "/assets/img/innerpage/ph-sw-08.jpg",
+    "img_horizontal": "assets/img/innerpage/hz-sho-08.jpg",
+    "category": "Web",
+    "tag": "Web",
+    "title": "Digital Masterpieces",
+    "categorySlug": "web",
+    "horizontal_title": "Prescriptive Analytics",
+    "horizontal_tag": [
+     
+    ],
+    "horizontal_details": "Use advanced data insights to recommend optimal actions, enhancing decision-making and driving improved business performance."
+  },
+  {
+    "id": 8,
+    "img": "/assets/img/innerpage/ph-sw-08.jpg",
+    "img_horizontal": "assets/img/innerpage/hz-sho-08.jpg",
+    "category": "Web",
+    "tag": "Web",
+    "title": "Digital Masterpieces",
+    "categorySlug": "web",
+    "horizontal_title": "Big Data Analytics",
+    "horizontal_tag": [
+     
+    ],
+    "horizontal_details": "Unlock the potential of big data to reveal hidden patterns and insights that drive innovation, competitive advantage, and business growth."
+  },
+  {
+    "id": 9,
+    "img": "/assets/img/innerpage/ph-sw-08.jpg",
+    "img_horizontal": "assets/img/innerpage/hz-sho-08.jpg",
+    "category": "Web",
+    "tag": "Web",
+    "title": "Digital Masterpieces",
+    "categorySlug": "web",
+    "horizontal_title": "Performance Metrics",
+    "horizontal_tag": [
+     
+    ],
+    "horizontal_details": "Monitor real-time performance metrics and key indicators, allowing you to continuously optimize operations and enhance efficiency."
+  },
+  {
+    "id": 10,
+    "img": "/assets/img/innerpage/ph-sw-08.jpg",
+    "img_horizontal": "assets/img/innerpage/hz-sho-08.jpg",
+    "category": "Web",
+    "tag": "Web",
+    "title": "Digital Masterpieces",
+    "categorySlug": "web",
+    "horizontal_title": "Business Intelligence (BI)",
+    "horizontal_tag": [
+     
+    ],
+    "horizontal_details": "Access intuitive dashboards and real-time reporting for informed, data-driven decision-making that improves overall business success."
+  }
+]

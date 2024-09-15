@@ -6,7 +6,8 @@ const Home4BannerSection = () => {
     <div 
       className="home4-banner-area" 
       style={{ 
-        backgroundImage: 'url("assets/img/rook branding/banner.jpg")',
+        backgroundImage: 'linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("assets/img/rook branding/banner.jpg")',
+
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat'

@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "img": "assets/img/cognitive_business/solution-1",
+    "img_horizontal": "cognitive_business/solution-1",
+    "category": "Branding",
+    "tag": "UI/UX Design",
+    "title": "Digital Masterpieces",
+    "categorySlug": "branding",
+    "horizontal_title": "Intelligent Process Automation (RPA)",
+    "horizontal_tag": [
+      
+    ],
+    "horizontal_details": "Automate repetitive tasks and complex workflows with RPA, enhancing efficiency and accuracy while allowing your team to focus on strategic activities."
+  },
+  {
+    "id": 2,
+    "img": "cognitive_business/solution-2",
+    "img_horizontal": "cognitive_business/solution-2",
+    "category": "UI/UX",
+    "tag": "UI/UX",
+    "title": "Digital Masterpieces",
+    "categorySlug": "uI/UX",
+    "horizontal_title": "Cognitive Customer Experience",
+    "horizontal_tag": [
+      
+    ],
+    "horizontal_details": "Improve customer interactions using AI-driven insights for personalized and responsive service, boosting satisfaction and loyalty."
+  },
+  {
+    "id": 3,
+    "img": "cognitive_business/solution-3",
+    "img_horizontal": "cognitive_business/solution-3",
+    "category": "Web",
+    "tag": "Web",
+    "title": "Digital Masterpieces",
+    "categorySlug": "web",
+    "horizontal_title": "Operations Analytics",
+    "horizontal_tag": [
+      
+    ],
+    "horizontal_details": "Gain actionable insights with advanced analytics to optimize performance and make informed decisions for continuous improvement"
+  }
+
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "img": "assets/img/AI/solution-1.jpg",
+    "img_horizontal": "assets/img/AI/solution-1.jpg",
+    "category": "Branding",
+    "tag": "UI/UX Design",
+    "title": "Digital Masterpieces",
+    "categorySlug": "branding",
+    "horizontal_title": "Enterprise AI",
+    "horizontal_tag": [
+      
+    ],
+    "horizontal_details": "Harness AI-driven personalization to enhance customer experiences and streamline business processes, tailored to your unique needs."
+  },
+  {
+    "id": 2,
+    "img": "assets/img/AI/solution-2.jpg",
+    "img_horizontal": "assets/img/AI/solution-2.jpg",
+    "category": "UI/UX",
+    "tag": "UI/UX",
+    "title": "Digital Masterpieces",
+    "categorySlug": "uI/UX",
+    "horizontal_title": "Next-Gen AI",
+    "horizontal_tag": [
+      
+    ],
+    "horizontal_details": "Leverage cutting-edge AI technologies to keep your business ahead of the competition and embrace the latest advancements."
+  },
+  {
+    "id": 3,
+    "img": "assets/img/AI/solution-3.jpg",
+    "img_horizontal": "assets/img/AI/solution-3.jpg",
+    "category": "Web",
+    "tag": "Web",
+    "title": "Digital Masterpieces",
+    "categorySlug": "web",
+    "horizontal_title": "AI Integration and Deployment",
+    "horizontal_tag": [
+      
+    ],
+    "horizontal_details": "Effortlessly integrate and deploy AI solutions within your existing systems, ensuring smooth implementation and minimal disruption."
+  },
+  {
+    "id": 4,
+    "img": "assets/img/AI/solution-4.jpg",
+    "img_horizontal": "assets/img/AI/solution-4.jpg",
+    "category": "Graphics",
+    "tag": "Graphics",
+    "title": "Digital Masterpieces",
+    "categorySlug": "graphics",
+    "horizontal_title": "AI Strategy and Consulting",
+    "horizontal_tag": [
+  
+    ],
+    "horizontal_details": "Craft a strategic AI roadmap with our consulting services, aligning AI initiatives with your business goals for maximum impact."
+  },
+  {
+    "id": 5,
+    "img": "assets/img/AI/solution-5.jpg",
+    "img_horizontal": "assets/img/AI/solution-5.jpg",
+    "category": "Branding",
+    "tag": "UI/UX Design",
+    "title": "Digital Masterpieces",
+    "categorySlug": "branding",
+    "horizontal_title": " Natural Language Processing (NLP)",
+    "horizontal_tag": [
+     
+    ],
+    "horizontal_details": "Utilize NLP to improve customer interactions and automate processes through advanced language understanding."
+  },
+  {
+    "id": 6,
+    "img": "assets/img/AI/solution-6.jpg",
+    "img_horizontal": "assets/img/AI/solution-6.jpg",
+    "category": "Branding",
+    "tag": "UI/UX Design",
+    "title": "Digital Masterpieces",
+    "categorySlug": "branding",
+    "horizontal_title": "ML Development",
+    "horizontal_tag": [
+    ],
+    "horizontal_details": "Develop and deploy machine learning models to gain insights, predict trends, and optimize operations effectively."
+  }
+]

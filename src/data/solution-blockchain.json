@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "img": "assets/img/blockchain/solution-1.jpg",
+    "img_horizontal": "assets/img/blockchain/solution-1.jpg",
+    "category": "Branding",
+    "tag": "UI/UX Design",
+    "title": "Digital Masterpieces",
+    "categorySlug": "branding",
+    "horizontal_title": "Blockchain Consulting",
+    "horizontal_tag": [
+      
+    ],
+    "horizontal_details": "Maximize blockchain's potential with tailored strategies that align with your goals, ensuring seamless integration and driving efficiency."
+  },
+  {
+    "id": 2,
+    "img": "assets/img/blockchain/solution-2.jpg",
+    "img_horizontal": "assets/img/blockchain/solution-2.jpg",
+    "category": "UI/UX",
+    "tag": "UI/UX",
+    "title": "Digital Masterpieces",
+    "categorySlug": "uI/UX",
+    "horizontal_title": "Smart Contract Development",
+    "horizontal_tag": [
+      
+    ],
+    "horizontal_details": "Secure, transparent, and cost-effective automation for your business processes, reducing reliance on intermediaries with robust smart contracts."
+  },
+  {
+    "id": 3,
+    "img": "assets/img/blockchain/solution-3.jpg",
+    "img_horizontal": "assets/img/blockchain/solution-3.jpg",
+    "category": "Web",
+    "tag": "Web",
+    "title": "Digital Masterpieces",
+    "categorySlug": "web",
+    "horizontal_title": "Blockchain Development",
+    "horizontal_tag": [
+      
+    ],
+    "horizontal_details": "Custom blockchain solutions that deliver secure, scalable, and decentralized systems to enhance trust and optimize operations."
+  },
+  {
+    "id": 4,
+    "img": "assets/img/blockchain/solution-4.jpg",
+    "img_horizontal": "assets/img/blockchain/solution-4.jpg",
+    "category": "Graphics",
+    "tag": "Graphics",
+    "title": "Digital Masterpieces",
+    "categorySlug": "graphics",
+    "horizontal_title": "Decentralized Application (DApp) Development",
+    "horizontal_tag": [
+  
+    ],
+    "horizontal_details": "Develop future-ready decentralized applications that offer enhanced security, transparency, and autonomy across industries."
+  },
+  {
+    "id": 5,
+    "img": "assets/img/blockchain/solution-5.jpg",
+    "img_horizontal": "assets/img/blockchain/solution-5.jpg",
+    "category": "Branding",
+    "tag": "UI/UX Design",
+    "title": "Digital Masterpieces",
+    "categorySlug": "branding",
+    "horizontal_title": "Crypto Wallet Development",
+    "horizontal_tag": [
+     
+    ],
+    "horizontal_details": "Create secure, user-friendly crypto wallets with multi-currency support and advanced encryption for easy digital asset management."
+  },
+  {
+    "id": 6,
+    "img": "assets/img/innerpage/ph-sw-07.jpg",
+    "img_horizontal": "assets/img/innerpage/hz-sho-07.jpg",
+    "category": "UI/UX",
+    "tag": "UI/UX",
+    "title": "Digital Masterpieces",
+    "categorySlug": "uI/UX",
+    "horizontal_title": "Blockchain Integration",
+    "horizontal_tag": [
+     
+    ],
+    "horizontal_details": "Smoothly integrate blockchain into your existing systems, enhancing transparency and security while future-proofing your infrastructure."
+
+  },
+  {
+    "id": 7,
+    "img": "/assets/img/innerpage/ph-sw-08.jpg",
+    "img_horizontal": "assets/img/innerpage/hz-sho-08.jpg",
+    "category": "Web",
+    "tag": "Web",
+    "title": "Digital Masterpieces",
+    "categorySlug": "web",
+    "horizontal_title": "Blockchain Audit",
+    "horizontal_tag": [
+     
+    ],
+    "horizontal_details": "Ensure your blockchain systems are secure and compliant with thorough audits that identify vulnerabilities and maintain system integrity."
+  }
+]
