@@ -107,7 +107,7 @@ const Home4TestimonialSection = () => {
                     <div className="col-lg-3">
                       <div className="author-img">
                         <img
-                          src="assets/img/home4/testimonial-img-01.jpg"
+                          src="assets/img/Testimonials/image-1.png"
                           alt=""
                         />
                         <div className="video-icon">
@@ -156,7 +156,7 @@ const Home4TestimonialSection = () => {
                     <div className="col-lg-3">
                       <div className="author-img">
                         <img
-                          src="assets/img/home4/testimonial-img-02.jpg"
+                          src="assets/img/Testimonials/image-1.png"
                           alt=""
                         />
                         <div className="video-icon">
@@ -206,7 +206,7 @@ const Home4TestimonialSection = () => {
                     <div className="col-lg-3">
                       <div className="author-img">
                         <img
-                          src="assets/img/home4/testimonial-img-03.jpg"
+                          src="assets/img/Testimonials/image-3.png"
                           alt=""
                         />
                         <div className="video-icon">

@@ -68,7 +68,7 @@ const Home6TestimonialSection = () => {
                       <div className="author-area">
                         <div className="author-img">
                           <img
-                            src="assets/img/home6/testi-author-img1.png"
+                            src="assets/img/Testimonials/image-1.png"
                             alt=""
                           />
                         </div>
@@ -90,7 +90,7 @@ const Home6TestimonialSection = () => {
                       <div className="author-area">
                         <div className="author-img">
                           <img
-                            src="assets/img/home6/testi-author-img2.png"
+                            src="assets/img/Testimonials/image-2.png"
                             alt=""
                           />
                         </div>
@@ -112,7 +112,7 @@ const Home6TestimonialSection = () => {
                       <div className="author-area">
                         <div className="author-img">
                           <img
-                            src="assets/img/home6/testi-author-img3.png"
+                            src="assets/img/Testimonials/image-3a.png" style={{height:"55px"}}
                             alt=""
                           />
                         </div>

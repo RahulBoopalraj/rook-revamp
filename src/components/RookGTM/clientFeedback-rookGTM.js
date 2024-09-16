@@ -48,7 +48,7 @@ const Home2TestimonialSection = () => {
                       <div className="col-md-5 d-flex justify-content-md-center">
                         <div className="author-img magnetic-item">
                           <img
-                            src="assets/img/home2/testimonial-img-01.png"
+                            src="assets/img/Testimonials/image-1.png"
                             alt=""
                           />
                         </div>
@@ -79,7 +79,7 @@ const Home2TestimonialSection = () => {
                       <div className="col-md-5 d-flex justify-content-md-center">
                         <div className="author-img magnetic-item">
                           <img
-                            src="assets/img/home2/testimonial-img-02.png"
+                            src="assets/img/Testimonials/image-2.png"
                             alt=""
                           />
                         </div>
@@ -111,7 +111,7 @@ const Home2TestimonialSection = () => {
                       <div className="col-md-5 d-flex justify-content-md-center">
                         <div className="author-img magnetic-item">
                           <img
-                            src="assets/img/home2/testimonial-img-03.png"
+                            src="assets/img/Testimonials/image-3.png"
                             alt=""
                           />
                         </div>

@@ -103,7 +103,7 @@ const Home1TestimonialSection = () => {
                     <div className="col-lg-4">
                       <div className="author-img">
                         <img
-                          src="assets/img/home1/testimonial-img-01.png"
+                          src="assets/img/Testimonials/image-1.png"
                           alt=""
                         />
                         <div className="video-icon">
@@ -154,7 +154,7 @@ const Home1TestimonialSection = () => {
                     <div className="col-lg-4">
                       <div className="author-img">
                         <img
-                          src="assets/img/home1/testimonial-img-02.png"
+                          src="assets/img/Testimonials/image-2.png"
                           alt=""
                         />
                         <div className="video-icon">
@@ -205,7 +205,7 @@ const Home1TestimonialSection = () => {
                     <div className="col-lg-4">
                       <div className="author-img">
                         <img
-                          src="assets/img/home1/testimonial-img-03.png"
+                          src="https://download-accl.zoho.in/webdownload?x-service=CLIQ&event-id=a_01022003109917264680950350_1_60024434479&x-cli-msg=%7B%22appaccount_id%22%3A%2260024434479%22%7D" 
                           alt=""
                         />
                         <div className="video-icon">
