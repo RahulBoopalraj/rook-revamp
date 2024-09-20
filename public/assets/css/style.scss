@@ -12341,7 +12341,7 @@ footer{
  36. Home4 Banner Section
 ========================================*/
 .home4-banner-area{
-    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(../img/home4/home4-banner-img.png);
+    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(../img/home4/banner.png);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -12405,8 +12405,8 @@ footer{
         h1{
             color: var(--white-color);
             font-family: var(--font-unbounded);
-            font-size: 130px;
-            font-weight: 500;
+            font-size: 100px;
+            font-weight: 400;
             margin-bottom: 0;
             line-height: 1.1;
             span{

@@ -27,8 +27,8 @@ const Home1About = () => {
           <div className="col-lg-8">
             <div className="section-title two text-animation">
               <h2>
-                Axleo is a business that provides services related to online
-                marketing.
+              Empower your business
+              with Rook Fellows.
               </h2>
             </div>
           </div>
@@ -49,9 +49,10 @@ const Home1About = () => {
               <div className="col-lg-7">
                 <div className="about-content text-animation">
                   <p>
-                    Digital agencies can vary in size and specialization. Some
-                    may focus on specific niches, such as healthcare or
-                    e-commerce, while others may offer a comprehensive.
+                  Unleash the full potential of your business with Rook
+Fellows! Our expertise and innovation will drive your
+business towards accelerated growth and deliver
+outstanding results that set you apart in the market.
                   </p>
                   <Link href="/about">
                     About More
