@@ -8947,6 +8947,7 @@ footer.home6-footer .footer-btm .terms-condition p a:hover {
 }
 .home2-about-section .about-left .about-img {
   margin-bottom: 25px;
+  border-radius: 5px;
 }
 @media (max-width: 991px) {
   .home2-about-section .about-left .about-img img {
@@ -16274,8 +16275,9 @@ footer.home6-footer .footer-btm .terms-condition p a:hover {
   font-weight: 400;
   line-height: 26px;
   margin-bottom: 0;
-  max-width: 370px;
-  min-width: 370px;
+  max-width: 670px;
+  min-width: 670px;
+  padding-left: 200px;
 }
 @media (max-width: 767px) {
   .breadcrumb-section .banner-wrapper .banner-content .dash-and-paragraph p {
@@ -18584,7 +18586,8 @@ footer.home6-footer .footer-btm .terms-condition p a:hover {
 }
 
 .pf-showcase-carosule-section {
-  background: linear-gradient(rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0.4) 100%), url("../img/innerpage/pf-sw-cra-bg.jpg");
+  /* background: linear-gradient(rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0.4) 100%), url("../img/innerpage/pf-sw-cra-bg.jpg"); */
+  background: linear-gradient(rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0.4) 100%), url("https://img.freepik.com/free-photo/top-view-black-frame-with-plant_23-2148643780.jpg?uid=P158678429&ga=GA1.1.1440782937.1705666628&semt=ais_hybrid");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
