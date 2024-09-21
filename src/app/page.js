@@ -1,15 +1,19 @@
 import Footer from "@/components/Footer/Footer";
 import Home1About from "@/components/about/Home1About";
-import Home1AwardSection from "@/components/award-section/home1-award-section";
+import Portfolioesonary from "@/components/home-content/portfolio-home"
 import Home4BannerSection from "@/components/banner-section/home4-banner-section";
 import Home1BlogSection from "@/components/blog-section/home1-blog-section";
 import Home1ContactSection from "@/components/contact-section/home1-contact-section";
+
 import Header from "@/components/header/Header";
-import Header4 from "@/components/header/Header4";
 import Home1ProcessSection from "@/components/process-section/home1-process-section";
 import Home1solutionSection from "@/components/solution-section/Home1solution-section";
-import Home1TestimonialSection from "@/components/testimonial-section/home1-testimonial-section";
+import Home4TestimonialSection from "@/components/testimonial-section/home4-testimonial-section";
 import HomeworkSection from "@/components/work-section/Homework-section";
+
+import HomeSolution from "@/components/home-content/solution-home";
+import AboutPage from "@/components/home-content/about-home"
+import Home5About from "@/components/home-content/about-home-1"
 
 export const metadata = {
   title: "Axleo - Digital Agency Creative Portfolio Template",
@@ -20,7 +24,7 @@ export const metadata = {
 export default function Home() {
   return (
     <>
-      <Header4 />
+      <Header />
       <main className="page-content">
         <div className="line_wrap">
           <div className="line_item first-line" />
@@ -28,14 +32,21 @@ export default function Home() {
           <div className="line_item last-line" />
         </div>
         <Home4BannerSection />
-        <Home1About />
-        <Home1solutionSection style="pb-130" />
+       
+        
+        <Home5About/>
+        
+        <HomeSolution/>
+
         <HomeworkSection />
         <Home1ProcessSection />
-        <Home1TestimonialSection />
-        <Home1AwardSection />
+        
+
+        <Home4TestimonialSection />
+        <Portfolioesonary/>
         <Home1BlogSection />
         <Home1ContactSection />
+        <AboutPage/>
       </main>
       <Footer />
     </>

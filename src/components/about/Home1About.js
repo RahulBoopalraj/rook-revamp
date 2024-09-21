@@ -6,7 +6,7 @@ const Home1About = () => {
   //useScrollAnimation
   useScrollZoomAnimationImg();
   return (
-    <div className="home1-about-section mb-130">
+    <div className="home1-about-section">
       <div className="container-lg container-fluid">
         <div className="row g-4 mb-60">
           <div className="col-lg-4">

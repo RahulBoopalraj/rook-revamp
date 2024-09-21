@@ -128,8 +128,26 @@ const Header = ( {style=""}) => {
                 <li><Link href="/service-details">Service Details</Link></li>
               </ul>
             </li>
+
+{/* international pages */}
+
+<li className="menu-item-has-children">
+              <a href="#" className="drop-down">Where in th World?</a><i className="bi bi-plus dropdown-icon" />
+              <svg xmlns="http://www.w3.org/2000/svg" width={18} height={10} viewBox="0 0 18 10">
+                <path d="M18 4.95V10H13.0154V8.62143H15.7362L10.6962 3.50714L6.59769 7.65714L0 0.978571L0.962308 0L6.59769 5.71429L10.6962 1.56429L16.6154 7.57857V4.95H18Z" />
+              </svg>
+              <ul className="sub-menu">
+                <li><Link href="/international-1">Rook Britain</Link></li>
+                <li><Link href="/international-2">Rook America</Link></li>
+                <li><Link href="/international-3">Rook Emirates</Link></li>
+                <li><Link href="/international-4-1">Rook Français</Link></li>
+              </ul>
+            </li>
+
+
+
             
-            <li className="menu-item-has-children">
+            {/* <li className="menu-item-has-children">
               <Link href="#" className="drop-down">Pages</Link><i className="bi bi-plus dropdown-icon" />
               <svg xmlns="http://www.w3.org/2000/svg" width={18} height={10} viewBox="0 0 18 10">
                 <path d="M18 4.95V10H13.0154V8.62143H15.7362L10.6962 3.50714L6.59769 7.65714L0 0.978571L0.962308 0L6.59769 5.71429L10.6962 1.56429L16.6154 7.57857V4.95H18Z" />
@@ -195,8 +213,10 @@ const Header = ( {style=""}) => {
                 <li><Link href="/error">Error 404</Link></li>
                 <li><Link href="/terms-conditions">Terms &amp; Conditions</Link></li>
               </ul>
-            </li>
-            <li className="menu-item-has-children">
+            </li> */}
+
+
+            {/* <li className="menu-item-has-children">
               <Link href="#" className="drop-down">Portfolio </Link><i className="bi bi-plus dropdown-icon" />
               <svg xmlns="http://www.w3.org/2000/svg" width={18} height={10} viewBox="0 0 18 10">
                 <path d="M18 4.95V10H13.0154V8.62143H15.7362L10.6962 3.50714L6.59769 7.65714L0 0.978571L0.962308 0L6.59769 5.71429L10.6962 1.56429L16.6154 7.57857V4.95H18Z" />
@@ -213,7 +233,10 @@ const Header = ( {style=""}) => {
                 <li><Link href="/portfolio-interactive-link">Interactive links</Link></li>
                 <li><Link href="/portfolio-details">Portfolio Details</Link></li>
               </ul>
-            </li>
+            </li> */}
+
+
+
             <li><Link href="/contact">Contact Us</Link></li>
           </ul>
           <div className="d-lg-none d-block">
