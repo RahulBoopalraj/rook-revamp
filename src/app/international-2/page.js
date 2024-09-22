@@ -19,7 +19,7 @@ const page = () => {
         className="breadcrumb-section style-2"
         style={{
           backgroundImage:
-            "linear-gradient(rgba(248, 248, 248, 0.3), rgba(248, 248, 248, 0.3)), url(assets/img/international/america.jpg)",
+            "linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(assets/img/international/america.jpg)",
         }}
       >
         <svg

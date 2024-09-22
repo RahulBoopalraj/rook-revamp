@@ -20,9 +20,9 @@ const Service4page = () => {
             </div>
             <div className="col-lg-8">
               <div className="section-title five text-animation">
-                <h2>
+                <h3>
                 Chez Rook Français, nous sommes fiers de notre approche innovante en matière de conception et de développement. Voici comment nous travaillons :
-                </h2>
+                </h3>
               </div>
             </div>
           </div>
