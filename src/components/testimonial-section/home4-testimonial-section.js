@@ -84,7 +84,7 @@ const Home4TestimonialSection = () => {
                 <div className="row g-4">
                   <div className="col-lg-3">
                     <div className="author-img">
-                      <img src="assets/img/home4/testimonial-img-01.jpg" alt="" />
+                      <img src="assets/img/testimonials/image-1.png" alt="" />
                       <div className="video-icon">
                         <div className="wrapper">
                           <div className="video-main">
@@ -122,7 +122,7 @@ const Home4TestimonialSection = () => {
                 <div className="row g-4">
                   <div className="col-lg-3">
                     <div className="author-img">
-                      <img src="assets/img/home4/testimonial-img-02.jpg" alt="" />
+                      <img src="assets/img/testimonials/image-2.png" alt="" />
                       <div className="video-icon">
                         <div className="wrapper">
                           <div className="video-main">
@@ -160,7 +160,7 @@ const Home4TestimonialSection = () => {
                 <div className="row g-4">
                   <div className="col-lg-3">
                     <div className="author-img">
-                      <img src="assets/img/home4/testimonial-img-03.jpg" alt="" />
+                      <img src="assets/img/testimonials/image-3.png" alt="" />
                       <div className="video-icon">
                         <div className="wrapper">
                           <div className="video-main">
@@ -187,44 +187,6 @@ const Home4TestimonialSection = () => {
                       <div className="author-area">
                         <div className="content">
                           <h6>William Samuel</h6>
-                          <span>Catch, CEO</span>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </SwiperSlide>
-              <SwiperSlide className="swiper-slide">
-                <div className="row g-4">
-                  <div className="col-lg-3">
-                    <div className="author-img">
-                      <img src="assets/img/home4/testimonial-img-04.jpg" alt="" />
-                      <div className="video-icon">
-                        <div className="wrapper">
-                          <div className="video-main">
-                            <div className="promo-video">
-                              <div className="waves-block">
-                                <div className="waves wave-1" />
-                                <div className="waves wave-2" />
-                                <div className="waves wave-3" />
-                              </div>
-                            </div>
-                            <a  style={{ cursor: "pointer" }}
-                                onClick={() => setOpen(true)} className="video video-player" data-lity><i className="bi bi-play-fill" /></a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="col-lg-9">
-                    <div className="testimonal-content">
-                      <span>Great Agency!</span>
-                      <p>By actively seeking, analyzing, and acting upon feedback, a
-                        digital agency can continuously refine its processes, enhance
-                        client satisfaction.</p>
-                      <div className="author-area">
-                        <div className="content">
-                          <h6>Jorche Milton</h6>
                           <span>Catch, CEO</span>
                         </div>
                       </div>

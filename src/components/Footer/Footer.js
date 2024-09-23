@@ -128,6 +128,260 @@ const Footer = () => {
                 </div>
               </div>
             </div>
+
+
+            {/* discover */}
+            <div className="col-xl-3 col-lg-3 col-sm-6 d-flex justify-content-lg-end">
+              <div className="footer-widget">
+                <div className="widget-title">
+                  <h4>Discover</h4>
+                </div>
+                <div className="menu-container">
+                  <ul>
+                    <li>
+                      <Link href="service-details">Rook for D2C
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service-details">Rook for Startups
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service-details">Rook Web Dev
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service-details">Rook Branding
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service-details">Rook Marketing
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service-details">Rook Branding
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service-details">Rook Domains
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service-details">Rook GTM
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            {/*Industries */}
+
+            <div className="col-xl-3 col-lg-3 col-sm-6 d-flex justify-content-lg-end">
+              <div className="footer-widget">
+                <div className="widget-title">
+                  <h4>Our Industries </h4>
+                </div>
+                <div className="menu-container">
+                  <ul>
+                    <li>
+                      <Link href="service-details">Fintech
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service-details">Education
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service-details">Media and Gaming
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service-details">Travel and Logistics
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service-details">Public and Government 
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service-details">Infrastructure and Construction
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service-details">Consumer, Distribution <br />
+                      Hospitality
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            {/*  services*/}
+
+            <div className="col-xl-3 col-lg-3 col-sm-6 d-flex justify-content-lg-end  pl-5 ml-5">
+              <div className="footer-widget">
+                <div className="widget-title">
+                  <h4>Our Services</h4>
+                </div>
+                <div className="menu-container">
+                  <ul>
+                    <li>
+                      <Link href="service-details">Cloud
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service-details">Blockchain
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service-details">Consulting
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service-details">Data Analytics
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service-details">Enterprises Platforms 
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service-details">Artificial Intelligence 
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service-details">Branding & Marketing
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service-details">Corporate Domain Name
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service-details">Cognitive Business Operations
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            {/*  global*/}
+
+            <div className="col-xl-3 col-lg-3 col-sm-6 d-flex justify-content-lg-end ">
+              <div className="footer-widget">
+                <div className="widget-title">
+                  <h4>Rook Globals</h4>
+                </div>
+                <div className="menu-container">
+                  <ul>
+                    <li>
+                      <Link href="service-details">Rook America
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service-details">Rook Britain
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service-details">Rook Emirates 
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service-details">Rook Francias
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
           </div>
           <div className="row justify-content-end mb-60">
             <div className="col-xl-7 d-flex justify-content-lg-end">
@@ -137,26 +391,6 @@ const Footer = () => {
                   <li><a href="https://www.behance.net/">Behance</a></li>
                   <li><a href="https://www.pinterest.com/">Pinterest</a></li>
                   <li><a href="https://www.facebook.com/">Facebook</a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
-          <div className="row">
-            <div className="col-lg-12">
-              <div className="footer-logo-contact-wrap">
-                <div className="footer-logo">
-                  <Link href="/"><img src="assets/img/white-logo.svg" alt="footer-logo" /></Link>
-                </div>
-                <ul className="footer-contact">
-                  <li className="single-contact">
-                    <span>Phone</span>
-                    <h5><a href="tel:+991-7636844563">+991 - 763 684 4563 </a></h5>
-                  </li>
-                  <li className="single-contact">
-                    <span>Email Now</span>
-                    <h5><a href="mailto:info@examplegmail.com">info@examplegmail.com</a>
-                    </h5>
-                  </li>
                 </ul>
               </div>
             </div>

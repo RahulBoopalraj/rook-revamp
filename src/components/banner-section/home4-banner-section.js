@@ -13,13 +13,13 @@ const Home4BannerSection = () => {
               <li><a href="#">Design</a></li>
               <li><a href="#">Product Launch</a></li>
             </ul>
-            <h1 className="text-animation">Mosaic Mirage <span>Studios.</span></h1>
+            <h1 className="text-animation">Empower Business <span>Digitally.</span></h1>
             <div className="row justify-content-end">
               <div className="col-lg-6">
                 <div className="banner-bottom-content">
-                  <p>Studio agencies specialize in various areas of design, such as
-                    <span>graphic design, web design, branding, </span> and other <span>
-                      visual elements.</span>
+                  <p>With years of experience in the business industry, Rook takes pride in its ability to   
+                    <span> provide innovative and high-quality solutions, </span> executed using the <span>
+                    cutting edge technology.</span>
                   </p>
                   <Link className="primary-btn4 btn-hover" href="/contact">Let’s Connect <svg xmlns="http://www.w3.org/2000/svg" width={12} height={12} viewBox="0 0 12 12">
                       <path d="M10.0035 3.40804L1.41153 12L0 10.5885L8.59097 1.99651H1.01922V0H12V10.9808H10.0035V3.40804Z" />

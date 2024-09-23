@@ -32,7 +32,7 @@ const Home1BlogSection = () => {
       <div className="col-lg-4 col-md-6">
         <div className="blog-card1 magnetic-item">
           <Link href="/blog-details" className="blog-img">
-            <img src="assets/img/home1/blog-img-01.jpg" alt="blog-img-01" />
+            <img src="assets/img/homepage/article-1.jpg" alt="blog-img-01" />
           </Link>
           <div className="blog-content">
             <ul className="mete">
@@ -47,7 +47,7 @@ const Home1BlogSection = () => {
       <div className="col-lg-4 col-md-6">
         <div className="blog-card1 magnetic-item">
           <Link href="/blog-details" className="blog-img">
-            <img src="assets/img/home1/blog-img-02.jpg" alt="blog-img-02" />
+            <img src="assets/img/homepage/article-2.jpg" alt="blog-img-02" />
           </Link>
           <div className="blog-content">
             <ul className="mete">
@@ -62,7 +62,7 @@ const Home1BlogSection = () => {
       <div className="col-lg-4 col-md-6">
         <div className="blog-card1 magnetic-item">
           <Link href="/blog-details" className="blog-img">
-            <img src="assets/img/home1/blog-img-03.jpg" alt="blog-img-03" />
+            <img src="assets/img/homepage/article-3.jpg" alt="blog-img-03" style={{height:"230px"}} />
           </Link>
           <div className="blog-content">
             <ul className="mete">

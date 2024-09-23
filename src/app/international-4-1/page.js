@@ -20,6 +20,7 @@ const page = () => {
         style={{
           backgroundImage:
             "linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(assets/img/international/france.jpg)",
+
         }}
       >
         <svg
