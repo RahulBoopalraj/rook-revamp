@@ -114,22 +114,22 @@ const AboutPage = () => {
                     <div className="marquee__group">
                       <Marquee>
                         <a href="#">
-                          <img src="assets/img/home1/partner-01.png" alt="" />
+                          <img src="assets/img/Partners/AWS-light.png" alt="" style={{height:"36px", width:"130px"}} />
                         </a>
                         <a href="#">
-                          <img src="assets/img/home1/partner-02.png" alt="" />
+                          <img src="assets/img/Partners/Microsoft-light.png" alt="" style={{height:"36px", width:"150px"}} />
                         </a>
                         <a href="#">
-                          <img src="assets/img/home1/partner-03.png" alt="" />
+                          <img src="assets/img/Partners/Zoho-light.png" alt="" style={{height:"100px", width:"100px"}} />
                         </a>
                         <a href="#">
-                          <img src="assets/img/home1/partner-04.png" alt="" />
+                          <img src="assets/img/Partners/Namecheap-light.png" alt="" style={{height:"100px", width:"150px"}} />
                         </a>
                         <a href="#">
-                          <img src="assets/img/home1/partner-05.png" alt="" />
+                          <img src="assets/img/Partners/Wati-light.png" alt="" style={{height:"36px", width:"150px"}} />
                         </a>
                         <a href="#">
-                          <img src="assets/img/home1/partner-06.png" alt="" />
+                          <img src="assets/img/Partners/Razorpay-light.png" alt="" style={{height:"36px", width:"150px"}} />
                         </a>
                       </Marquee>
                     </div>
@@ -159,41 +159,23 @@ const AboutPage = () => {
                   <div className="marquee dark">
                     <div className="marquee__group">
                       <Marquee>
-                        <a href="#">
-                          <img
-                            src="assets/img/home1/partner-light-01.png"
-                            alt=""
-                          />
+                      <a href="#">
+                          <img src="assets/img/Partners/AWS-dark.png" alt="" style={{height:"36px", width:"130px"}} />
                         </a>
                         <a href="#">
-                          <img
-                            src="assets/img/home1/partner-light-02.png"
-                            alt=""
-                          />
+                          <img src="assets/img/Partners/Microsoft-dark.png" alt="" style={{height:"56px", width:"150px"}} />
                         </a>
                         <a href="#">
-                          <img
-                            src="assets/img/home1/partner-light-03.png"
-                            alt=""
-                          />
+                          <img src="assets/img/Partners/Zoho-light.png" alt="" style={{height:"100px", width:"100px"}} />
                         </a>
                         <a href="#">
-                          <img
-                            src="assets/img/home1/partner-light-04.png"
-                            alt=""
-                          />
+                          <img src="assets/img/Partners/Namecheap-dark.png" alt="" style={{height:"40px", width:"150px"}} />
                         </a>
                         <a href="#">
-                          <img
-                            src="assets/img/home1/partner-light-05.png"
-                            alt=""
-                          />
+                          <img src="assets/img/Partners/Wati-dark.png" alt="" style={{height:"36px", width:"150px"}} />
                         </a>
                         <a href="#">
-                          <img
-                            src="assets/img/home1/partner-light-06.png"
-                            alt=""
-                          />
+                          <img src="assets/img/Partners/Razorpay-dark.png" alt="" style={{height:"36px", width:"150px"}} />
                         </a>
                       </Marquee>
                     </div>

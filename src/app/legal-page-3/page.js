@@ -34,7 +34,7 @@ const page = () => {
             </div>
           </div>
           <div className="row">
-            <div className="col-lg-12">
+            <div className="col-lg-12 mb-40">
               <div className="terms-and-conditions">
                 <h4>1. Acceptance of Terms:</h4>
                 <p>
@@ -45,7 +45,7 @@ const page = () => {
               </div>
             </div>
 
-            <div className="col-lg-12">
+            <div className="col-lg-12 mb-40">
               <div className="terms-and-conditions">
                 <h4>2. Use of Website:</h4>
                 <p>
@@ -56,7 +56,7 @@ const page = () => {
               </div>
             </div>
 
-            <div className="col-lg-12">
+            <div className="col-lg-12 mb-40">
               <div className="terms-and-conditions">
                 <h4>3. Intellectual Property:</h4>
                 <p>
@@ -69,7 +69,7 @@ const page = () => {
               </div>
             </div>
 
-            <div className="col-lg-12">
+            <div className="col-lg-12 mb-40">
               <div className="terms-and-conditions">
                 <h4>4. Limitation of Liability:</h4>
                 <p>
@@ -80,7 +80,7 @@ const page = () => {
               </div>
             </div>
 
-            <div className="col-lg-12">
+            <div className="col-lg-12 mb-40">
               <div className="terms-and-conditions">
                 <h4>5. Third-Party Links:</h4>
                 <p>
@@ -91,7 +91,7 @@ const page = () => {
               </div>
             </div>
 
-            <div className="col-lg-12">
+            <div className="col-lg-12 mb-40">
               <div className="terms-and-conditions">
                 <h4>6. Modifications to Terms:</h4>
                 <p>
@@ -102,7 +102,7 @@ const page = () => {
               </div>
             </div>
 
-            <div className="col-lg-12">
+            <div className="col-lg-12 mb-40">
               <div className="terms-and-conditions">
                 <h4>7. Governing Law:</h4>
                 <p>
@@ -114,7 +114,7 @@ const page = () => {
               </div>
             </div>
 
-            <div className="col-lg-12">
+            <div className="col-lg-12 mb-40">
               <div className="terms-and-conditions">
                 <h4>8. Contact Information:</h4>
                 <p>
@@ -124,7 +124,7 @@ const page = () => {
               </div>
             </div>
 
-            <div className="col-lg-12">
+            <div className="col-lg-12 mb-40">
               <div className="terms-and-conditions">
               
                 <p className="pt-5">

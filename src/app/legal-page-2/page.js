@@ -23,14 +23,6 @@ const page = () => {
           </div>
 
           <div className="row">
-            <div className="col-lg-12 ">
-              <div className="update-date mb-30">
-                <h6>
-                  <i className="bi bi-caret-right-fill" /> Last Updated
-                </h6>
-                <p>02 February, 2023</p>
-              </div>
-            </div>
             <div className="col-lg-12 mb-40">
               <div className="terms-and-conditions">
                 <p className="pb-5">
