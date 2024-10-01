@@ -63,16 +63,18 @@ const ServicePage = () => {
                 <div className="partner-logos">
                   <img
                     className="white"
-                    src="assets/img/home4/logo-11.png"
+                    src="https://www.highvail.com/wp-content/uploads/2020/04/AWS-Logo-halfwhite.png " style={{width:"100px", height:"50px"}}
                     alt=""
                   />
                   <img
                     className="black"
-                    src="assets/img/home4/logo-01.png"
+                    src="https://www.pngplay.com/wp-content/uploads/3/Amazon-Web-Services-AWS-Logo-Transparent-PNG.png" style={{width:"100px", height:"50px"}}
                     alt=""
                   />
                 </div>
-                <p>Amazon Web Services (AWS)</p>
+                <a href="/Rook-AWS" target="_blank" rel="noopener noreferrer">
+      <p>AWS</p>
+    </a>
               </div>
             </div>
             <div className="col-xl-3 col-lg-4 col-sm-6">
@@ -89,16 +91,18 @@ const ServicePage = () => {
                 <div className="partner-logos">
                   <img
                     className="white"
-                    src="assets/img/home4/logo-22.png"
+                    src="https://vectorseek.com/wp-content/uploads/2023/08/Azure-Logo-Vector.svg-1-1.png " style={{width:"100px", height:"50px"}}
                     alt=""
                   />
                   <img
                     className="black"
-                    src="assets/img/home4/logo-02.png"
+                    src="https://vectorseek.com/wp-content/uploads/2023/08/Azure-Logo-Vector.svg-1-1.png " style={{width:"100px", height:"50px"}}
                     alt=""
                   />
                 </div>
-                <p>Azure</p>
+                <a href="/Rook-Azure" target="_blank" rel="noopener noreferrer">
+      <p>Azure</p>
+    </a>
               </div>
             </div>
             <div className="col-xl-3 col-lg-4 col-sm-6">
@@ -115,16 +119,18 @@ const ServicePage = () => {
                 <div className="partner-logos">
                   <img
                     className="white"
-                    src="assets/img/home4/logo-33.png"
+                    src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Symbol.png" style={{width:"100px", height:"50px"}}
                     alt=""
                   />
                   <img
                     className="black"
-                    src="assets/img/home4/logo-03.png"
+                    src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Symbol.png"style={{width:"100px", height:"50px"}}
                     alt=""
                   />
                 </div>
-                <p>Google Cloud</p>
+                <a href="/Rook-Google-Cloud" target="_blank" rel="noopener noreferrer">
+      <p>Google Cloud</p>
+    </a>
               </div>
             </div>
             <div className="col-xl-3 col-lg-4 col-sm-6">
@@ -141,16 +147,18 @@ const ServicePage = () => {
                 <div className="partner-logos">
                   <img
                     className="white"
-                    src="assets/img/home4/logo-44.png"
+                    src="https://www.freepnglogos.com/uploads/microsoft-logo-4.png"  style={{width:"100px", height:"50px"}}
                     alt=""
                   />
                   <img
                     className="black"
-                    src="assets/img/home4/logo-04.png"
+                    src="https://www.freepnglogos.com/uploads/microsoft-logo-4.png"style={{width:"100px", height:"50px"}}
                     alt=""
                   />
                 </div>
-                <p>Microsoft</p>
+                <a href="/Rook-Microsoft" target="_blank" rel="noopener noreferrer">
+      <p>Microsoft</p>
+    </a>
               </div>
             </div>
             <div className="col-xl-3 col-lg-4 col-sm-6">
@@ -167,16 +175,18 @@ const ServicePage = () => {
                 <div className="partner-logos">
                   <img
                     className="white"
-                    src="assets/img/home4/logo-55.png"
+                    src="https://dashboard.razorpay.com/img/logo_full.png" style={{width:"100px", height:"50px"}}
                     alt=""
                   />
                   <img
                     className="black"
-                    src="assets/img/home4/logo-05.png"
+                    src="https://latestlogo.com/wp-content/uploads/2024/01/razorpay-logo.png" style={{width:"100px", height:"50px"}}
                     alt=""
                   />
                 </div>
-                <p>Razorpay</p>
+                <a href="/Rook-Razorpay" target="_blank" rel="noopener noreferrer">
+      <p>Razorpay</p>
+    </a>
               </div>
             </div>
             <div className="col-xl-3 col-lg-4 col-sm-6">
@@ -193,16 +203,18 @@ const ServicePage = () => {
                 <div className="partner-logos">
                   <img
                     className="white"
-                    src="assets/img/home4/logo-66.png"
+                    src="https://res.cloudinary.com/flux-forms/image/upload/v1688559539/fluxforms_assets/seo_images/fosyd7kva05lltrspjkv.png"style={{width:"100px", height:"50px"}}
                     alt=""
                   />
                   <img
                     className="black"
-                    src="assets/img/home4/logo-06.png"
+                    src="https://res.cloudinary.com/flux-forms/image/upload/v1688559539/fluxforms_assets/seo_images/fosyd7kva05lltrspjkv.png"style={{width:"100px", height:"50px"}}
                     alt=""
                   />
                 </div>
-                <p>Vizdale</p>
+                <a href="/Rook-Vizdale" target="_blank" rel="noopener noreferrer">
+      <p>Vizdale</p>
+    </a>
               </div>
             </div>
             <div className="col-xl-3 col-lg-4 col-sm-6">
@@ -218,16 +230,18 @@ const ServicePage = () => {
                 <div className="partner-logos">
                   <img
                     className="white"
-                    src="assets/img/home4/logo-77.png"
+                    src="https://www.wati.io/wp-content/uploads/2023/05/new-wati-white.png" style={{width:"100px", height:"50px"}}
                     alt=""
                   />
                   <img
                     className="black"
-                    src="assets/img/home4/logo-07.png"
+                    src="https://www.wati.io/wp-content/uploads/2023/05/new-branding-wati-image.png"style={{width:"100px", height:"50px"}}
                     alt=""
                   />
                 </div>
-                <p>Wati</p>
+                <a href="/Rook-Wati" target="_blank" rel="noopener noreferrer">
+      <p>Wati</p>
+    </a>
               </div>
             </div>
             <div className="col-xl-3 col-lg-4 col-sm-6">
@@ -241,19 +255,21 @@ const ServicePage = () => {
                   <path d="M89.5878 -9.19809L90 -8.59758L90.4122 -9.19809L117.267 -48.3197L115.945 -0.858616L115.925 -0.129375L116.612 -0.373528L161.416 -16.2858L132.406 21.3044L131.96 21.8831L132.661 22.0895L178.229 35.5L132.661 48.9105L131.96 49.1169L132.406 49.6956L161.416 87.2858L116.612 71.3735L115.925 71.1294L115.945 71.8586L117.267 119.32L90.4122 80.1981L90 79.5976L89.5878 80.1981L62.7327 119.32L64.0546 71.8586L64.075 71.129L63.3873 71.3736L18.6534 87.2858L47.5939 49.6952L48.0394 49.1166L47.3389 48.9105L1.77101 35.5L47.3389 22.0895L48.0394 21.8834L47.5939 21.3048L18.6534 -16.2858L63.3873 -0.373611L64.075 -0.12899L64.0546 -0.858616L62.7327 -48.3197L89.5878 -9.19809Z" />
                 </svg>
             
-                <div className="partner-logos">
+                <div className="partner-logos" >
                   <img
                     className="white"
-                    src="assets/img/home4/logo-88.png"
+                    src="https://assets.webengage.com/wp-content/uploads/2023/04/WebEngage-Logo-R-white-768x189.png"style={{width:"100px", height:"50px"}}
                     alt=""
                   />
                   <img
                     className="black"
-                    src="assets/img/home4/logo-08.png"
+                    src="https://techstory.in/wp-content/uploads/2018/02/webengage.png"style={{width:"100px", height:"50px"}}
                     alt=""
                   />
                 </div>
-                <p>WebEngage</p>
+                <a href="/Rook-WebEngage" target="_blank" rel="noopener noreferrer">
+      <p>WebEngage</p>
+    </a>
               </div>
             </div>
             <p>Together, we leverage cutting-edge technologies and collaborative innovation to address the unique needs and challenges of our clients, driving success and growth in the digital era.</p>

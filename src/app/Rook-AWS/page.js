@@ -40,11 +40,7 @@ const page = () => {
               <span className="line-break" />
               <span className="line-break" />
               <span className="line-break" />
-              <div className="post-thumb">
-                <img
-                  src="assets/img/innerpage/blog-details-thumb-img.jpg"
-                  alt=""
-                />
+              <div className="post-thumb">    
               </div>
               <span className="line-break" />
               <p>
@@ -62,21 +58,17 @@ const page = () => {
               <div className="details-page-content mb-130">
                 <h3>Our AWS Service Offerings</h3>
                 <div className="row g-lg-4 gy-3">
-                  <div className="col-lg-6">
+                  <div className="col-lg-12">
                     <p className="">
                       In partnership with AWS, we offer a wide range of cloud
                       services and solutions designed to optimize performance,
                       enhance security, and reduce costs for our clients. From
-                      infrastructure as a service (IaaS)
-                    </p>
-                  </div>
-                  <div className="col-lg-6">
-                    <p>
-                      Our platform as a service (PaaS) to software as a service
+                      infrastructure as a service (IaaS).Our platform as a service (PaaS) to software as a service
                       (SaaS) and beyond, our integrated AWS solutions cover a
                       broad spectrum of cloud computing needs, including:
                     </p>
                   </div>
+                 
                 </div>
                 <span className="line-break" />
                 <span className="line-break" />
@@ -152,12 +144,11 @@ const page = () => {
                   </div>
                   <div className="col-lg-6">
                     <img
-                      src="assets/img/innerpage/blog-details-page-img1.jpg"
+                      src="https://img.freepik.com/free-photo/saas-concept-collage_23-2149399293.jpg?uid=P158678429&ga=GA1.1.1440782937.1705666628&semt=ais_hybrid" className="rounded-2"
                       alt=""
                     />
                   </div>
                 </div>
-               
               </div>
 
               <div className="home5-service-section ">
@@ -174,9 +165,8 @@ const page = () => {
                       <div className="paragraph-and-btn-area">
                         <div className="text-animation">
                           <p>
-                            As a certified AWS Partner, we provide tailored
-                            cloud solutions that drive innovation and help
-                            businesses succeed.{" "}
+                            As a certified AWS Partner, we deliver custom cloud
+                            solutions that fuel innovation and business success.
                           </p>
                         </div>
                         <div className="vector">
@@ -242,11 +232,7 @@ const page = () => {
                         <div className="service-content">
                           <h4>Certified AWS Partner</h4>
                           <p>
-                            As a certified AWS Partner, we deliver high-quality
-                            cloud solutions that meet the highest standards of
-                            excellence, security, and reliability, helping
-                            businesses effectively leverage AWS to achieve their
-                            strategic goals.
+                          We deliver secure, reliable AWS cloud solutions that help businesses achieve their goals.
                           </p>
                         </div>
                       </div>
@@ -289,11 +275,7 @@ const page = () => {
                             Tailored <br /> Solutions
                           </h4>
                           <p>
-                            Our team of AWS-certified professionals works
-                            closely with clients to understand their unique
-                            business requirements and challenges, crafting
-                            customized AWS solutions that address their specific
-                            needs and goals.
+                          Our AWS-certified experts create custom solutions based on each client’s needs.
                           </p>
                         </div>
                       </div>
@@ -333,11 +315,7 @@ const page = () => {
                         <div className="service-content">
                           <h4>Continuous Innovation</h4>
                           <p>
-                            With access to AWS's latest technologies and
-                            innovations, we help businesses stay ahead of the
-                            curve, leveraging cutting-edge cloud capabilities to
-                            drive innovation, agility, and competitive
-                            advantage.
+                          We leverage AWS’s latest technologies to keep businesses agile and competitive.
                           </p>
                         </div>
                       </div>
@@ -347,66 +325,87 @@ const page = () => {
               </div>
 
               <div className="details-page-wrapper pt-130 pb-130">
-        <div className="container-lg container-fluid">
-          <div className="row justify-content-center">
-            <div className="col-lg-10">
-             
-              
-              
-              
-              <div className="details-page-content ">
-                <blockquote>
-                <cite className="py-4">About Amazon Web Services (AWS)</cite>
-                  <p>
-                    
-                  Amazon Web Services (AWS) is a leading cloud services provider offering a comprehensive portfolio of computing power, storage, database, analytics, machine learning, and other cloud-based services. Trusted by millions of customers worldwide, AWS enables organizations to build, deploy, and manage applications and services with unprecedented flexibility, scalability, and reliability.
-                  </p>
-                  
-                </blockquote>
-               
-                
-               
-              
-              
-              </div>
+                <div className="container-lg container-fluid">
+                  <div className="row justify-content-center">
+                    <div className="col-lg-10">
+                      <div className="col-lg-12 m-0">
+                        <div className="section-title six">
+                          <h2>About Amazon Web Services</h2>
+                        </div>
 
-              <div className="contact-section  mt-130">
-  <div className="container-lg container-fluid">
-    <div className="row g-lg-4 gy-5">
-      <div className="col-lg-8">
-        <div className="section-title text-animation">
-          <h2>Contact <span>Us</span></h2>
-          <div className="dash-and-paragraph">
-            <div className="dash" />
-            <div className="content-and-social">
-              <p>For more information on our partnership with AWS, our integrated solutions, and service offerings, please contact us at reachus@rookhq.com.</p>
-              <div className="social-area">
-                <h6>Connect Us</h6>
-                <svg xmlns="http://www.w3.org/2000/svg" width={50} height={6} viewBox="0 0 50 6">
-                  <path d="M50 3L45 0.113249V5.88675L50 3ZM0 3.5H45.5V2.5H0V3.5Z" />
-                </svg>
-                <ul>
-                  <li><a href="https://www.facebook.com/"><i className="bx bxl-facebook" /></a>
-                  </li>
-                  <li><a href="https://twitter.com/"><i className="bi bi-twitter-x" /></a></li>
-                  <li><a href="https://www.linkedin.com/"><i className="bx bxl-linkedin" /></a>
-                  </li>
-                  <li><a href="https://www.instagram.com/"><i className="bx bxl-instagram-alt" /></a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-     
-    </div>
-  </div>
-</div>
+                        <p className="pt-4">
+                          Amazon Web Services (AWS) is a leading cloud services
+                          provider offering a comprehensive portfolio of
+                          computing power, storage, database, analytics, machine
+                          learning, and other cloud-based services. Trusted by
+                          millions of customers worldwide, AWS enables
+                          organizations to build, deploy, and manage
+                          applications and services with unprecedented
+                          flexibility, scalability, and reliability.
+                        </p>
+                      </div>
 
-            </div>
-          </div>
-        </div>
-      </div>
+                      <div className="contact-section  mt-130">
+                        <div className="container-lg container-fluid">
+                          <div className="row g-lg-4 gy-5">
+                            <div className="col-lg-8">
+                              <div className="section-title text-animation">
+                                <h3 className="section-title">
+                                  Contact <span>Us</span>
+                                </h3>
+                                <div className="dash-and-paragraph">
+                                  <div className="dash" />
+                                  <div className="content-and-social">
+                                    <p>
+                                      For more information on our partnership
+                                      with AWS, our integrated solutions, and
+                                      service offerings, please contact us at
+                                      reachus@rookhq.com.
+                                    </p>
+                                    <div className="social-area">
+                                      <h6>Connect Us</h6>
+                                      <svg
+                                        xmlns="http://www.w3.org/2000/svg"
+                                        width={50}
+                                        height={6}
+                                        viewBox="0 0 50 6"
+                                      >
+                                        <path d="M50 3L45 0.113249V5.88675L50 3ZM0 3.5H45.5V2.5H0V3.5Z" />
+                                      </svg>
+                                      <ul>
+                                        <li>
+                                          <a href="https://www.facebook.com/">
+                                            <i className="bx bxl-facebook" />
+                                          </a>
+                                        </li>
+                                        <li>
+                                          <a href="https://twitter.com/">
+                                            <i className="bi bi-twitter-x" />
+                                          </a>
+                                        </li>
+                                        <li>
+                                          <a href="https://www.linkedin.com/">
+                                            <i className="bx bxl-linkedin" />
+                                          </a>
+                                        </li>
+                                        <li>
+                                          <a href="https://www.instagram.com/">
+                                            <i className="bx bxl-instagram-alt" />
+                                          </a>
+                                        </li>
+                                      </ul>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </div>

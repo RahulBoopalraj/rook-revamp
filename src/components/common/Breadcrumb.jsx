@@ -9,7 +9,7 @@ const Breadcrumb = ({bgImg="1",title="02", title2, }) => {
       <div
         className="breadcrumb-section"
         style={{
-          backgroundImage:`linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(/assets/img/innerpage/breadcrumb-bg${bgImg}.jpg)`
+          backgroundImage:`linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(https://img.freepik.com/premium-photo/photo-diverse-team-celebrating-global-partnership-with-handshake_1207718-63834.jpg?uid=P158678429&ga=GA1.1.1440782937.1705666628&semt=ais_hybrid)`
          
         }}
       >
