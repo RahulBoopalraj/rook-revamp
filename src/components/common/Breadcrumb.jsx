@@ -47,8 +47,8 @@ const Breadcrumb = ({bgImg="1",title="02", title2, }) => {
                     </svg>
                     <div className="btn-and-paragraph">
                       <p>
-                        Offer a wide range of services to help businesses
-                        establish.
+                       
+"At Rook, we partner with top tech firms and startups to deliver tailored solutions, helping clients navigate digital transformation and stay ahead in a fast-changing landscape."
                       </p>
                     </div>
                   </div>

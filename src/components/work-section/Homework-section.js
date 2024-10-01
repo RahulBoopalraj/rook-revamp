@@ -125,7 +125,7 @@ const HomeworkSection = () => {
                 <div className="col-lg-12">
                   <div className="single-work magnetic-item">
                     <div className="work-img">
-                      <img src="assets/img/homepage/service-3.jpg" alt="" />
+                      <img src="assets/img/homepage/service-3.jpg" alt="" style={{width:"100%"}} />
                     </div>
                     <div className="work-content">
                       <div className="content-wrap">
