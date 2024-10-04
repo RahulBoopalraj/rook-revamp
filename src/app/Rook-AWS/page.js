@@ -144,7 +144,7 @@ const page = () => {
                   </div>
                   <div className="col-lg-6">
                     <img
-                      src="https://img.freepik.com/free-photo/saas-concept-collage_23-2149399293.jpg?uid=P158678429&ga=GA1.1.1440782937.1705666628&semt=ais_hybrid" className="rounded-2"
+                      src="assets/img/Our-company/Partners/AWS-img.jpg" className="rounded-2"
                       alt=""
                     />
                   </div>

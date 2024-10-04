@@ -26,7 +26,7 @@ const Header = ( {style=""}) => {
             </div>
           </div>
           <ul className="menu-list">
-            <li className="menu-item-has-children ">
+            {/* <li className="menu-item-has-children ">
               <a href="#" className="drop-down">Home</a><i className="bi bi-plus dropdown-icon" />
               <svg xmlns="http://www.w3.org/2000/svg" width={18} height={10} viewBox="0 0 18 10">
                 <path d="M18 4.95V10H13.0154V8.62143H15.7362L10.6962 3.50714L6.59769 7.65714L0 0.978571L0.962308 0L6.59769 5.71429L10.6962 1.56429L16.6154 7.57857V4.95H18Z" />
@@ -54,6 +54,25 @@ const Header = ( {style=""}) => {
                     <li><Link href="/saas-product-dark">SaaS Product</Link></li>
                   </ul>
                 </li>
+              </ul>
+            </li> */}
+
+            {/* Our company  */}
+
+            <li className="menu-item-has-children">
+              <a href="#" className="drop-down">Our Company</a><i className="bi bi-plus dropdown-icon" />
+              <svg xmlns="http://www.w3.org/2000/svg" width={18} height={10} viewBox="0 0 18 10">
+                <path d="M18 4.95V10H13.0154V8.62143H15.7362L10.6962 3.50714L6.59769 7.65714L0 0.978571L0.962308 0L6.59769 5.71429L10.6962 1.56429L16.6154 7.57857V4.95H18Z" />
+              </svg>
+              <ul className="sub-menu">
+                <li><Link href="/discover1">Happenings</Link></li>
+                <li><Link href="/Who-We-Are">Who We Are ?</Link></li>
+                <li><Link href="/Who-Leads-Us">Who Leads Us ?</Link></li>
+                <li><Link href="/Impact-studies">Impact Studies </Link></li>
+                <li><Link href="/Want-to-be-us">Want To Be Us ?</Link></li>
+                <li><Link href="/Where-to-find-us">Where To Find Us ?</Link></li>
+                <li><Link href="/How-to-reach-us">How To reach Us ?</Link></li>
+                <li><Link href="/Who-we-Partners-with">Who We Partner With ?</Link></li>
               </ul>
             </li>
 
@@ -237,7 +256,7 @@ const Header = ( {style=""}) => {
 
 
 
-            <li><Link href="/contact">Contact Us</Link></li>
+            {/* <li><Link href="/contact">Contact Us</Link></li> */}
           </ul>
           <div className="d-lg-none d-block">
             <ul className="topbar-right">

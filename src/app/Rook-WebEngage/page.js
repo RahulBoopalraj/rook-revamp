@@ -139,8 +139,7 @@ const page = () => {
                   </div>
                   <div className="col-lg-6">
                     <img
-                      src="assets/img/innerpage/blog-details-page-img1.jpg"
-                      alt=""
+                      src="assets/img/Our-company/Partners/WebEngage-img.jpg" className="rounded-2"
                     />
                   </div>
                 </div>

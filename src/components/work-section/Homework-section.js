@@ -54,7 +54,7 @@ const HomeworkSection = () => {
                 <div className="col-lg-5">
                   <div className="single-work magnetic-item">
                     <div className="work-img">
-                      <img src="assets/img/homepage/service-1.jpg" alt="" style={{height:"512px",width:"100%"}}  />
+                      <img src="assets/img/homepage/service-1.jpg" alt="" style={{height:"412px",width:"100%"}}  />
                     </div>
                     <div className="work-content">
                       <div className="content-wrap">
@@ -87,7 +87,7 @@ const HomeworkSection = () => {
                 <div className="col-lg-6">
                   <div className="single-work magnetic-item">
                     <div className="work-img">
-                      <img src="assets/img/homepage/service-2.jpg" alt="" style={{height:"512px",width:"100%"}}  />
+                      <img src="assets/img/homepage/service-2.jpg" alt="" style={{height:"412px",width:"100%"}}  />
                     </div>
                     <div className="work-content">
                       <div className="content-wrap">
@@ -125,7 +125,7 @@ const HomeworkSection = () => {
                 <div className="col-lg-12">
                   <div className="single-work magnetic-item">
                     <div className="work-img">
-                      <img src="assets/img/homepage/service-3.jpg" alt="" style={{width:"100%"}} />
+                      <img src="assets/img/homepage/service-3.jpg" alt="" style={{width:"100%",height:"312px"}} />
                     </div>
                     <div className="work-content">
                       <div className="content-wrap">
@@ -163,7 +163,7 @@ const HomeworkSection = () => {
                 <div className="col-lg-6">
                   <div className="single-work magnetic-item">
                     <div className="work-img">
-                      <img src="assets/img/homepage/service-4.jpg" alt="" style={{height:"512px",width:"100%"}} />
+                      <img src="assets/img/homepage/service-4.jpg" alt="" style={{height:"412px",width:"100%"}} />
                     </div>
                     <div className="work-content">
                       <div className="content-wrap">
@@ -196,7 +196,7 @@ const HomeworkSection = () => {
                 <div className="col-lg-5">
                   <div className="single-work magnetic-item">
                     <div className="work-img">
-                      <img src="assets/img/homepage/service-5.jpg" alt="" style={{height:"512px",width:"100%"}}/>
+                      <img src="assets/img/homepage/service-5.jpg" alt="" style={{height:"412px",width:"100%"}}/>
                     </div>
                     <div className="work-content">
                       <div className="content-wrap">
