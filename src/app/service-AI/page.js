@@ -25,7 +25,7 @@ const AboutMe = () => {
         className="breadcrumb-section"
         style={{
           backgroundImage:
-            "linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(assets/img/AI/banner.jpg)",
+            "linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(assets/img/AI/banner.jpg)",
         }}
       >
         <svg

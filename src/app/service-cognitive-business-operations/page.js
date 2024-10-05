@@ -1,7 +1,5 @@
 import Footer from "@/components/Footer/Footer";
 import ServiceInsightsPage from "@/components/Corporate-business/insights-corporate-business";
-import ServiceImpactStatsPage from "@/components/Corporate-business/stats-corporate-business";
-import ServiceProblemStatement from "@/components/Corporate-business/problem-statement-corporate-business";
 import ServiceTrendings from "@/components/Corporate-business/trending-corporate-business";
 import ServiceSolutionPage from "@/components/Corporate-business/solution-corporate-business";
 import ContactSectionThree from "@/components/Corporate-business/contact-corporate-business";
@@ -25,7 +23,7 @@ const AboutMe = () => {
         className="breadcrumb-section"
         style={{
           backgroundImage:
-            "linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(assets/img/cognitive_business/banner.jpg)",
+            "linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(assets/img/cognitive_business/banner.jpg)",
         }}
       >
         <svg

@@ -14,7 +14,7 @@ export const metadata = {
 const page = () => {
   return (
     <>
-      <Header style="innerpage2" />
+      <Header/>
       <div
         className="breadcrumb-section style-2"
         style={{

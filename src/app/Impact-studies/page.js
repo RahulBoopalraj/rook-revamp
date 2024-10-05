@@ -17,7 +17,7 @@ const CaseStudyPage = () => {
         className="breadcrumb-section"
         style={{
           backgroundImage:
-            "linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(assets/img/Common/impact-studies/banner.jpg)",
+            "linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(assets/img/Common/impact-studies-banner.jpg)",
         }}
       >
         <svg
