@@ -1,5 +1,5 @@
 import Footer from "@/components/Footer/Footer";
-import Portfolioesonary from "@/components/home-content/portfolio-home"
+import Portfolioesonary from "@/components/home-content/portfolio-home";
 import Home4BannerSection from "@/components/banner-section/home4-banner-section";
 import Home1BlogSection from "@/components/blog-section/home1-blog-section";
 import Home1ContactSection from "@/components/contact-section/home1-contact-section";
@@ -9,8 +9,8 @@ import Home4TestimonialSection from "@/components/testimonial-section/home4-test
 import HomeworkSection from "@/components/work-section/Homework-section";
 
 import HomeSolution from "@/components/home-content/solution-home";
-import AboutPage from "@/components/home-content/about-home"
-import Home5About from "@/components/home-content/about-home-1"
+import AboutPage from "@/components/home-content/about-home";
+import Home5About from "@/components/home-content/about-home-1";
 
 export const metadata = {
   title: "Axleo - Digital Agency Creative Portfolio Template",
@@ -29,21 +29,19 @@ export default function Home() {
           <div className="line_item last-line" />
         </div>
         <Home4BannerSection />
-       
-        
-        <Home5About/>
-        
-        <HomeSolution/>
+
+        <Home5About />
+
+        <HomeSolution />
 
         <HomeworkSection />
         <Home1ProcessSection />
-        
 
         <Home4TestimonialSection />
-        <Portfolioesonary/>
+        <Portfolioesonary />
         <Home1BlogSection />
         <Home1ContactSection />
-        <AboutPage/>
+        <AboutPage />
       </main>
       <Footer />
     </>

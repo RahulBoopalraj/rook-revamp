@@ -2,7 +2,7 @@
   {
     "id": 1,
     "img": "assets/img/cognitive_business/solution-1",
-    "img_horizontal": "cognitive_business/solution-1",
+   
     "category": "Branding",
     "tag": "UI/UX Design",
     "title": "Digital Masterpieces",
@@ -16,7 +16,7 @@
   {
     "id": 2,
     "img": "cognitive_business/solution-2",
-    "img_horizontal": "cognitive_business/solution-2",
+ 
     "category": "UI/UX",
     "tag": "UI/UX",
     "title": "Digital Masterpieces",
@@ -30,7 +30,7 @@
   {
     "id": 3,
     "img": "cognitive_business/solution-3",
-    "img_horizontal": "cognitive_business/solution-3",
+ 
     "category": "Web",
     "tag": "Web",
     "title": "Digital Masterpieces",

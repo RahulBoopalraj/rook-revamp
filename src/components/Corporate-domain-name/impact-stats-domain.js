@@ -81,8 +81,8 @@ const Home3TestimonialSection = () => {
                     <div className="testimonial-wrapper">
                       <div className="row g-lg-4 gy-5">
                         <div className="col-lg-5">
-                          <div className="testimonial-img-wrap px-4">
-                            <div className="testimonial-img">
+                          <div className="testimonial-img-wrap px-5">
+                            <div className="testimonial-img ">
                               <img
                                 src="assets/img/Domain/stats.jpg"
                                 style={{height:"600px"}}

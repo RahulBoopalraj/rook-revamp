@@ -49,7 +49,7 @@ const ServiceSolutionPage = () => {
   }, []);
   return (
     <>
-      <div className="portfolio-page-area portfolio-showcase-horizental pt-130 mb-130">
+      <div className="portfolio-page-area portfolio-showcase-horizental  mb-130">
         <div className="container-lg container-fluid">
           <div className="row">
             <div className="col-lg-12">

@@ -86,20 +86,11 @@ const Home5About = () => {
                 <a href="#"><img src="assets/img/Partners/DSP-light.png" alt="" style={{height:"50px" , width:"150px"}} /></a>
                 <a href="#"><img src="assets/img/Partners/Finequs-light.png" alt="" /></a>
                 <a href="#"><img src="assets/img/Partners/CEC-light.png" alt="" /></a>
-                <a href="#"><img src="assets/img/home1/partner-05.png" alt="" /></a>
+                <a href="#"><img src="assets/img/Partners/Townhall.png" alt=""style={{height:"100px" , width:"150px"}} /></a>
               
                 </Marquee>
               </div>
-              <div aria-hidden="true" className="marquee__group">
-              <Marquee>
-              <a href="#"><img src="assets/img/Partners/ICM-light.jpg" alt="" style={{height:"50px" , width:"150px"}} /></a>
-                <a href="#"><img src="assets/img/Partners/DSP-light.png" alt="" style={{height:"50px" , width:"150px"}} /></a>
-                <a href="#"><img src="assets/img/Partners/Finequs-light.png" alt="" /></a>
-                <a href="#"><img src="assets/img/Partners/CEC-light.png" alt="" /></a>
-                <a href="#"><img src="assets/img/home1/partner-05.png" alt="" /></a>
-           
-                    </Marquee>
-              </div>
+             
             </div>
             <div className="marquee dark">
               <div className="marquee__group">
@@ -108,19 +99,11 @@ const Home5About = () => {
                 <a href="#"><img src="assets/img/Partners/DSP-light.png" alt="" style={{height:"50px" , width:"150px"}} /></a>
                 <a href="#"><img src="assets/img/Partners/Finequs-light.png" alt="" /></a>
                 <a href="#"><img src="assets/img/Partners/CEC-light.png" alt="" /></a>
-                <a href="#"><img src="assets/img/home1/partner-light-05.png" alt="" /></a>
+                <a href="#"><img src="assets/img/Partners/Townhall.png" alt=""style={{height:"100px" , width:"150px"}} /></a>
          
                     </Marquee>
               </div>
-              <div aria-hidden="true" className="marquee__group">
-              <Marquee>
-              <a href="#"><img src="assets/img/Partners/ICM-light.jpg" alt="" style={{height:"50px" , width:"150px"}} /></a>
-                <a href="#"><img src="assets/img/Partners/DSP-light.png" alt="" style={{height:"50px" , width:"150px"}} /></a>
-                <a href="#"><img src="assets/img/Partners/Finequs-light.png" alt="" /></a>
-                <a href="#"><img src="assets/img/Partners/CEC-light.png" alt="" /></a>
-                <a href="#"><img src="assets/img/home1/partner-05.png" alt="" /></a>
-                    </Marquee>
-              </div>
+           
             </div>
           </div>
         </div>

@@ -70,9 +70,9 @@ const AboutMe = () => {
             </div>
             <ul className="breadcrumb-list">
               <li>
-                <a href="/">Home</a>
+                <a href="/">Service</a>
               </li>
-              <li>About Me</li>
+              <li>Corporate Domain Name</li>
             </ul>
           </div>
         </div>

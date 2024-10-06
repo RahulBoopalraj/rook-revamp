@@ -13,7 +13,7 @@ export const metadata = {
 const ServiceTrendings = () => {
   return (
     <>
-      <h1 className="py-5 px-3">Trending/Explore More</h1>
+      <h1 className="py-5 px-5 text-animation">Trending/Explore More</h1>
       <div className="case-study-grid-section pt-1 mb-130">
         <div className="container-lg container-fluid">
           <div className="row gy-5 justify-content-between mb-70">
@@ -102,7 +102,7 @@ const ServiceTrendings = () => {
                     <h3>
                       <Link href="/case-study-details">DNS Optimization</Link>
                     </h3>
-                    <p>
+                    <p className="pt-4">
                     Organizations are optimizing DNS management to ensure faster and more reliable domain resolution.
                     </p>
                     <Link

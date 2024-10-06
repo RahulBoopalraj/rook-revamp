@@ -68,9 +68,9 @@ const AboutMe = () => {
             </div>
             <ul className="breadcrumb-list">
               <li>
-                <a href="/">Home</a>
+                <a href="/">Service</a>
               </li>
-              <li>About Me</li>
+              <li>Cognitive Business Operation</li>
             </ul>
           </div>
         </div>

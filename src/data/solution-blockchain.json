@@ -2,7 +2,6 @@
   {
     "id": 1,
     "img": "assets/img/blockchain/solution-1.jpg",
-    "img_horizontal": "assets/img/blockchain/solution-1.jpg",
     "category": "Branding",
     "tag": "UI/UX Design",
     "title": "Digital Masterpieces",
@@ -16,7 +15,7 @@
   {
     "id": 2,
     "img": "assets/img/blockchain/solution-2.jpg",
-    "img_horizontal": "assets/img/blockchain/solution-2.jpg",
+
     "category": "UI/UX",
     "tag": "UI/UX",
     "title": "Digital Masterpieces",
@@ -30,7 +29,6 @@
   {
     "id": 3,
     "img": "assets/img/blockchain/solution-3.jpg",
-    "img_horizontal": "assets/img/blockchain/solution-3.jpg",
     "category": "Web",
     "tag": "Web",
     "title": "Digital Masterpieces",
@@ -44,7 +42,7 @@
   {
     "id": 4,
     "img": "assets/img/blockchain/solution-4.jpg",
-    "img_horizontal": "assets/img/blockchain/solution-4.jpg",
+
     "category": "Graphics",
     "tag": "Graphics",
     "title": "Digital Masterpieces",
@@ -58,7 +56,7 @@
   {
     "id": 5,
     "img": "assets/img/blockchain/solution-5.jpg",
-    "img_horizontal": "assets/img/blockchain/solution-5.jpg",
+ 
     "category": "Branding",
     "tag": "UI/UX Design",
     "title": "Digital Masterpieces",
@@ -72,7 +70,7 @@
   {
     "id": 6,
     "img": "assets/img/innerpage/ph-sw-07.jpg",
-    "img_horizontal": "assets/img/innerpage/hz-sho-07.jpg",
+
     "category": "UI/UX",
     "tag": "UI/UX",
     "title": "Digital Masterpieces",
@@ -87,7 +85,7 @@
   {
     "id": 7,
     "img": "/assets/img/innerpage/ph-sw-08.jpg",
-    "img_horizontal": "assets/img/innerpage/hz-sho-08.jpg",
+
     "category": "Web",
     "tag": "Web",
     "title": "Digital Masterpieces",
