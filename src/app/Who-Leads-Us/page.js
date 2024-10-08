@@ -77,7 +77,7 @@ const OurTeam4 = () => {
               <li>
                 <a href="/">Home</a>
               </li>
-              <li>Team Style-04</li>
+              <li>Our teams</li>
             </ul>
           </div>
         </div>

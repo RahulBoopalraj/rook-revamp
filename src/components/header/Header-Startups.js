@@ -3,7 +3,7 @@ import Link from 'next/link'
 import React, { useState } from 'react'
 import Sidebar from '../common/Sidebar'
 
-const Header = ( {style=""}) => {
+const StartupHeader = ( {style=""}) => {
   const [isMenuOpen, setMenuOpen] = useState(false);
 
   const toggleMenu = () => {
@@ -15,8 +15,8 @@ const Header = ( {style=""}) => {
  <Sidebar isMenuOpen={isMenuOpen} toggleMenu={toggleMenu} />
     <header className={`header-area style-1 ${style}`}>
       <div className="header-logo">
-        <Link href="/"><img alt="image" className="img-fluid dark" src="assets/img/Rook-white.png" /></Link>
-        <Link href="/"><img alt="image" className="img-fluid light" src="assets/img/Rook-dark.png" /></Link>
+        <Link href="/"><img alt="image" className="img-fluid dark" src="assets/img/Rook-Startup-logo-white.png" /></Link>
+        <Link href="/"><img alt="image" className="img-fluid light" src="assets/img/Rook-Startup-logo-dark.png" /></Link>
       </div>
       <div className="menu-wrap">
         <div className="main-menu">
@@ -106,8 +106,8 @@ const Header = ( {style=""}) => {
                 <li><Link href="/discover5">Rook Marketing</Link></li>
                 <li><Link href="/discover6">Rook Domains</Link></li>
                 <li><Link href="/discover7">Rook GTM</Link></li>
-                <li><Link href="/What-we-share">What We Share?</Link></li>
-                <li><Link href="/How-we-present">What We Present?</Link></li>
+                <li><Link href="/service4">What We Share?</Link></li>
+                <li><Link href="/service4">What We Present?</Link></li>
               </ul>
             </li>
 
@@ -314,4 +314,4 @@ const Header = ( {style=""}) => {
   )
 }
 
-export default Header
+export default StartupHeader 

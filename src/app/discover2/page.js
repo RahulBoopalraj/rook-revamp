@@ -1,7 +1,7 @@
 import Footer6 from "@/components/Footer/Footer";
 import Home6BannerSection from "@/components/rook-startup/banner-startup";
 import Home6FeatureSection from "@/components/rook-startup/key-features-startup";
-import Header6 from "@/components/header/Header";
+import StartupHeader from "@/components/header/Header-Startups";
 import Home6ProjecManagement from "@/components/rook-startup/Project-management-startup";
 import Home6TestimonialSection from "@/components/rook-startup/Experts-startup";
 import React from "react";
@@ -14,7 +14,7 @@ import React from "react";
 const Sasspage = () => {
   return (
     <>
-      <Header6 />
+      <StartupHeader />
       <Home6BannerSection />
       <Home6FeatureSection />
       <Home6ProjecManagement />

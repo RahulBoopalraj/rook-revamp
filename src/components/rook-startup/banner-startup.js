@@ -466,33 +466,21 @@ const Home6BannerSection = () => {
               <div className="title-and-logo">
                 <div className="partner-title">
                   <h6>
-                    <span>20,000+</span> Companies Managed their Project with{" "}
-                    <span>Axleo</span>
+                    <span>Our Trusted Clients</span> 
+                   
                   </h6>
                 </div>
                 <div className="partner-wrap">
                   <div className="marquee light">
                     <div className="marquee__group">
-                      <Marquee>
-                        <a href="#">
-                          <img src="assets/img/home1/partner-01.png" alt="" />
-                        </a>
-                        <a href="#">
-                          <img src="assets/img/home1/partner-02.png" alt="" />
-                        </a>
-                        <a href="#">
-                          <img src="assets/img/home1/partner-03.png" alt="" />
-                        </a>
-                        <a href="#">
-                          <img src="assets/img/home1/partner-04.png" alt="" />
-                        </a>
-                        <a href="#">
-                          <img src="assets/img/home1/partner-05.png" alt="" />
-                        </a>
-                        <a href="#">
-                          <img src="assets/img/home1/partner-06.png" alt="" />
-                        </a>
-                      </Marquee>
+                    <Marquee>
+                <a href="#"><img src="assets/img/Partners/ICM-light.jpg" alt="" style={{height:"50px" , width:"150px"}} /></a>
+                <a href="#"><img src="assets/img/Partners/DSP-light.png" alt="" style={{height:"50px" , width:"150px"}} /></a>
+                <a href="#"><img src="assets/img/Partners/Finequs-light.png" alt="" /></a>
+                <a href="#"><img src="assets/img/Partners/CEC-light.png" alt="" /></a>
+                <a href="#"><img src="assets/img/Partners/Townhall.png" alt=""style={{height:"100px" , width:"150px"}} /></a>
+              
+                </Marquee>
                     </div>
                     <div aria-hidden="true" className="marquee__group">
                       <Marquee>
@@ -519,44 +507,14 @@ const Home6BannerSection = () => {
                   </div>
                   <div className="marquee dark">
                     <div className="marquee__group">
-                      <Marquee>
-                        <a href="#">
-                          <img
-                            src="assets/img/home1/partner-light-01.png"
-                            alt=""
-                          />
-                        </a>
-                        <a href="#">
-                          <img
-                            src="assets/img/home1/partner-light-02.png"
-                            alt=""
-                          />
-                        </a>
-                        <a href="#">
-                          <img
-                            src="assets/img/home1/partner-light-03.png"
-                            alt=""
-                          />
-                        </a>
-                        <a href="#">
-                          <img
-                            src="assets/img/home1/partner-light-04.png"
-                            alt=""
-                          />
-                        </a>
-                        <a href="#">
-                          <img
-                            src="assets/img/home1/partner-light-05.png"
-                            alt=""
-                          />
-                        </a>
-                        <a href="#">
-                          <img
-                            src="assets/img/home1/partner-light-06.png"
-                            alt=""
-                          />
-                        </a>
-                      </Marquee>
+                    <Marquee>
+              <a href="#"><img src="assets/img/Partners/ICM-light.jpg" alt="" style={{height:"50px" , width:"150px"}} /></a>
+                <a href="#"><img src="assets/img/Partners/DSP-light.png" alt="" style={{height:"50px" , width:"150px"}} /></a>
+                <a href="#"><img src="assets/img/Partners/Finequs-light.png" alt="" /></a>
+                <a href="#"><img src="assets/img/Partners/CEC-light.png" alt="" /></a>
+                <a href="#"><img src="assets/img/Partners/Townhall.png" alt=""style={{height:"100px" , width:"150px"}} /></a>
+         
+                    </Marquee>
                     </div>
                     <div aria-hidden="true" className="marquee__group">
                       <Marquee>
