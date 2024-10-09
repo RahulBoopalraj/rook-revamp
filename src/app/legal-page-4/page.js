@@ -151,17 +151,15 @@ const page = () => {
                     Assets at any time.
                   </li>
                   <li>
-                    <strong>iv )Contact and Resources </strong>  <br /> For permissions,
-                    clarifications, or other inquiries related to Rook’s
-                    trademarks or brand assets, please contact our legal
+                    <strong>iv )Contact and Resources </strong> <br /> For
+                    permissions, clarifications, or other inquiries related to
+                    Rook’s trademarks or brand assets, please contact our legal
                     department or your Rook business representative at
-                    reachus@rookhq.com
+                    empower@rookhq.com
                   </li>
                 </ul>
-                
               </div>
             </div>
-            
           </div>
         </div>
       </div>

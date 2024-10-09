@@ -22,7 +22,9 @@ const ContactPage = () => {
                 <path d="M0.333333 3C0.333333 4.47276 1.52724 5.66667 3 5.66667C4.47276 5.66667 5.66667 4.47276 5.66667 3C5.66667 1.52724 4.47276 0.333333 3 0.333333C1.52724 0.333333 0.333333 1.52724 0.333333 3ZM875 3L875.271 3.42013L876.697 2.5H875V3ZM842.084 64L845.265 59.1819L839.502 58.836L842.084 64ZM3 3.5H875V2.5H3V3.5ZM874.729 2.57987C861.302 11.2438 844.485 27.4669 841.856 59.4675L842.852 59.5494C845.45 27.938 862.03 11.9643 875.271 3.42013L874.729 2.57987Z" />
               </svg>
               <p>
-                We offers clear guidance on the best ways to contact us, including phone, email, and social media, ensuring quick and easy communication for any inquiries or support.
+                We offers clear guidance on the best ways to contact us,
+                including phone, email, and social media, ensuring quick and
+                easy communication for any inquiries or support.
               </p>
             </div>
           </div>
@@ -35,11 +37,14 @@ const ContactPage = () => {
                       <div className="title">
                         <h4>Customer Support Helpdesk</h4>
                       </div>
-                      <p className="pb-4">Our dedicated customer support team is here to assist you with any inquiries or issues you may have. Whether you need assistance with our services, have questions about your account, or require technical support, our knowledgeable representatives are ready to help.</p>
+                      <p className="pb-4">
+                        Our dedicated customer support team is here to assist
+                        you with any inquiries or issues you may have. Whether
+                        you need assistance with our services, have questions
+                        about your account, or require technical support, our
+                        knowledgeable representatives are ready to help.
+                      </p>
                       <ul>
-                       
-                   
-
                         <div className="title">
                           <h4>Contact Information:</h4>
                         </div>
@@ -56,7 +61,8 @@ const ContactPage = () => {
                             </svg>
                           </div>
                           <div className="info">
-                            <a href="tel:0921772345432">(+91) 709 270 0022 (WhatsApp)
+                            <a href="tel:0921772345432">
+                              (+91) 709 270 0022 (WhatsApp)
                             </a>
                           </div>
                         </li>
@@ -74,7 +80,7 @@ const ContactPage = () => {
                           </div>
                           <div className="info">
                             <a href="mailto:infoexample@gmail.com">
-                              reachus@rookhq.com
+                              empower@rookhq.com
                             </a>
                           </div>
                         </li>
@@ -106,7 +112,11 @@ const ContactPage = () => {
                           </div>
                         </li>
                       </ul>
-                      <p className="pt-4">For urgent inquiries outside of business hours, please leave a voicemail or send an email, and we'll get back to you as soon as possible.</p>
+                      <p className="pt-4">
+                        For urgent inquiries outside of business hours, please
+                        leave a voicemail or send an email, and we'll get back
+                        to you as soon as possible.
+                      </p>
                     </div>
                   </div>
                 </div>

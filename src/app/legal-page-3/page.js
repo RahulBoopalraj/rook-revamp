@@ -119,16 +119,20 @@ const page = () => {
                 <h4>8. Contact Information:</h4>
                 <p>
                   If you have any questions or concerns about these Terms &
-                  Conditions, please contact us at reachus@rookhq.com.
+                  Conditions, please contact us at empower@rookhq.com.
                 </p>
               </div>
             </div>
 
             <div className="col-lg-12 mb-40">
               <div className="terms-and-conditions">
-              
                 <p className="pt-5">
-               <strong> By using our website, you acknowledge that you have read, understood, and agree to be bound by these Terms & Conditions.</strong>
+                  <strong>
+                    {" "}
+                    By using our website, you acknowledge that you have read,
+                    understood, and agree to be bound by these Terms &
+                    Conditions.
+                  </strong>
                 </p>
               </div>
             </div>

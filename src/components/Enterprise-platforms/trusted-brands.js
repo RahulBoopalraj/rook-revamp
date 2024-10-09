@@ -6,7 +6,7 @@ const Brand = () => {
   return (
     <>
      
-      <div className="partner-area three mb-130">
+      <div className="partner-area three pt-130">
         <div className="container-lg container-fluid">
           <div className="row">
             <div className="col-lg-12">

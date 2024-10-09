@@ -8,6 +8,8 @@ import Home3TestimonialSection from "@/components/Enterprise-platforms/impact-st
 import CaseStudyPage from "@/components/Enterprise-platforms/case-studies-enterprise-platforms";
 import Brand from "@/components/Enterprise-platforms/trusted-brands";
 import FrameworkRad from "@/components/Enterprise-platforms/frameworks";
+import SolutionRAD from "@/components/Enterprise-platforms/solution-rad"
+import CareerPage from "@/components/Enterprise-platforms/tech-rad"
 import React from "react";
 
 export const metadata = {
@@ -77,14 +79,18 @@ const AboutMe = () => {
           </div>
         </div>
       </div>
+      <Brand/>
       <ServiceInsightsPage/>
       <ServiceSolutionPage/>
       <Home3TestimonialSection/>
+      <FrameworkRad/>
+      <SolutionRAD/>
+      <CareerPage/>
       <CaseStudyPage/>
       <ServiceTrendings/>
       <ContactSectionThree/>
-      <Brand/>
-      <FrameworkRad/>
+   
+      
       <Footer />
     </>
   );

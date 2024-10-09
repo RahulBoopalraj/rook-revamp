@@ -38,12 +38,16 @@ const page = () => {
               <span className="line-break" />
               <span className="line-break" />
               <span className="line-break" />
-              <div className="post-thumb">
-              
-              </div>
+              <div className="post-thumb"></div>
               <span className="line-break" />
               <p>
-              Rook collaborates closely with Microsoft to deliver innovative solutions that empower businesses to achieve digital transformation and drive growth in today's rapidly evolving marketplace. Our partnership with Microsoft enables us to leverage Microsoft's cutting-edge technologies and comprehensive cloud platform to deliver scalable, secure, and intelligent solutions tailored to the unique needs of our clients.
+                Rook collaborates closely with Microsoft to deliver innovative
+                solutions that empower businesses to achieve digital
+                transformation and drive growth in today's rapidly evolving
+                marketplace. Our partnership with Microsoft enables us to
+                leverage Microsoft's cutting-edge technologies and comprehensive
+                cloud platform to deliver scalable, secure, and intelligent
+                solutions tailored to the unique needs of our clients.
               </p>
               <span className="line-break" />
               <span className="line-break" />
@@ -53,7 +57,11 @@ const page = () => {
                 <div className="row g-lg-4 gy-3">
                   <div className="col-lg-12">
                     <p className="">
-                    In partnership with Microsoft, we offer a wide range of solutions and services designed to help businesses harness the power of Microsoft technologies and accelerate their journey to the cloud. Our Microsoft service offerings include:
+                      In partnership with Microsoft, we offer a wide range of
+                      solutions and services designed to help businesses harness
+                      the power of Microsoft technologies and accelerate their
+                      journey to the cloud. Our Microsoft service offerings
+                      include:
                     </p>
                   </div>
                 </div>
@@ -75,7 +83,9 @@ const page = () => {
                             <path d="M10.9684 4.96979C10.9613 4.9767 10.9546 4.98404 10.9484 4.99179L7.47539 9.41679L5.38239 7.32279C5.24021 7.19031 5.05216 7.11819 4.85786 7.12162C4.66356 7.12505 4.47818 7.20376 4.34076 7.34117C4.20335 7.47858 4.12464 7.66397 4.12121 7.85827C4.11778 8.05257 4.18991 8.24062 4.32239 8.38279L6.96839 11.0298C7.03967 11.1009 7.12455 11.157 7.21797 11.1946C7.31139 11.2323 7.41143 11.2507 7.51213 11.2488C7.61283 11.247 7.71212 11.2249 7.80408 11.1838C7.89604 11.1427 7.97879 11.0835 8.04739 11.0098L12.0394 6.01979C12.1753 5.87712 12.2496 5.68669 12.2463 5.48966C12.2429 5.29263 12.1622 5.10484 12.0214 4.96689C11.8807 4.82893 11.6914 4.7519 11.4943 4.75244C11.2973 4.75299 11.1083 4.83106 10.9684 4.96979Z" />
                           </g>
                         </svg>
-                        Azure Cloud Services: We help businesses migrate, build, and manage applications on Azure for seamless scaling and innovation.
+                        Azure Cloud Services: We help businesses migrate, build,
+                        and manage applications on Azure for seamless scaling
+                        and innovation.
                       </li>
                       <li>
                         <svg
@@ -89,7 +99,9 @@ const page = () => {
                             <path d="M10.9684 4.96979C10.9613 4.9767 10.9546 4.98404 10.9484 4.99179L7.47539 9.41679L5.38239 7.32279C5.24021 7.19031 5.05216 7.11819 4.85786 7.12162C4.66356 7.12505 4.47818 7.20376 4.34076 7.34117C4.20335 7.47858 4.12464 7.66397 4.12121 7.85827C4.11778 8.05257 4.18991 8.24062 4.32239 8.38279L6.96839 11.0298C7.03967 11.1009 7.12455 11.157 7.21797 11.1946C7.31139 11.2323 7.41143 11.2507 7.51213 11.2488C7.61283 11.247 7.71212 11.2249 7.80408 11.1838C7.89604 11.1427 7.97879 11.0835 8.04739 11.0098L12.0394 6.01979C12.1753 5.87712 12.2496 5.68669 12.2463 5.48966C12.2429 5.29263 12.1622 5.10484 12.0214 4.96689C11.8807 4.82893 11.6914 4.7519 11.4943 4.75244C11.2973 4.75299 11.1083 4.83106 10.9684 4.96979Z" />
                           </g>
                         </svg>
-                        Office 365 and Microsoft 365: We boost productivity and collaboration with Microsoft tools like Teams, SharePoint, and Exchange Online.
+                        Office 365 and Microsoft 365: We boost productivity and
+                        collaboration with Microsoft tools like Teams,
+                        SharePoint, and Exchange Online.
                       </li>
                       <li>
                         <svg
@@ -103,7 +115,9 @@ const page = () => {
                             <path d="M10.9684 4.96979C10.9613 4.9767 10.9546 4.98404 10.9484 4.99179L7.47539 9.41679L5.38239 7.32279C5.24021 7.19031 5.05216 7.11819 4.85786 7.12162C4.66356 7.12505 4.47818 7.20376 4.34076 7.34117C4.20335 7.47858 4.12464 7.66397 4.12121 7.85827C4.11778 8.05257 4.18991 8.24062 4.32239 8.38279L6.96839 11.0298C7.03967 11.1009 7.12455 11.157 7.21797 11.1946C7.31139 11.2323 7.41143 11.2507 7.51213 11.2488C7.61283 11.247 7.71212 11.2249 7.80408 11.1838C7.89604 11.1427 7.97879 11.0835 8.04739 11.0098L12.0394 6.01979C12.1753 5.87712 12.2496 5.68669 12.2463 5.48966C12.2429 5.29263 12.1622 5.10484 12.0214 4.96689C11.8807 4.82893 11.6914 4.7519 11.4943 4.75244C11.2973 4.75299 11.1083 4.83106 10.9684 4.96979Z" />
                           </g>
                         </svg>
-                        Dynamics 365: We transform operations and customer experiences with Microsoft’s CRM and ERP solutions, driving business excellence.
+                        Dynamics 365: We transform operations and customer
+                        experiences with Microsoft’s CRM and ERP solutions,
+                        driving business excellence.
                       </li>
                       <li>
                         <svg
@@ -117,7 +131,9 @@ const page = () => {
                             <path d="M10.9684 4.96979C10.9613 4.9767 10.9546 4.98404 10.9484 4.99179L7.47539 9.41679L5.38239 7.32279C5.24021 7.19031 5.05216 7.11819 4.85786 7.12162C4.66356 7.12505 4.47818 7.20376 4.34076 7.34117C4.20335 7.47858 4.12464 7.66397 4.12121 7.85827C4.11778 8.05257 4.18991 8.24062 4.32239 8.38279L6.96839 11.0298C7.03967 11.1009 7.12455 11.157 7.21797 11.1946C7.31139 11.2323 7.41143 11.2507 7.51213 11.2488C7.61283 11.247 7.71212 11.2249 7.80408 11.1838C7.89604 11.1427 7.97879 11.0835 8.04739 11.0098L12.0394 6.01979C12.1753 5.87712 12.2496 5.68669 12.2463 5.48966C12.2429 5.29263 12.1622 5.10484 12.0214 4.96689C11.8807 4.82893 11.6914 4.7519 11.4943 4.75244C11.2973 4.75299 11.1083 4.83106 10.9684 4.96979Z" />
                           </g>
                         </svg>
-                        Power Platform: We empower businesses to create custom apps, automate workflows, and analyze data for innovation.
+                        Power Platform: We empower businesses to create custom
+                        apps, automate workflows, and analyze data for
+                        innovation.
                       </li>
 
                       <li>
@@ -132,13 +148,16 @@ const page = () => {
                             <path d="M10.9684 4.96979C10.9613 4.9767 10.9546 4.98404 10.9484 4.99179L7.47539 9.41679L5.38239 7.32279C5.24021 7.19031 5.05216 7.11819 4.85786 7.12162C4.66356 7.12505 4.47818 7.20376 4.34076 7.34117C4.20335 7.47858 4.12464 7.66397 4.12121 7.85827C4.11778 8.05257 4.18991 8.24062 4.32239 8.38279L6.96839 11.0298C7.03967 11.1009 7.12455 11.157 7.21797 11.1946C7.31139 11.2323 7.41143 11.2507 7.51213 11.2488C7.61283 11.247 7.71212 11.2249 7.80408 11.1838C7.89604 11.1427 7.97879 11.0835 8.04739 11.0098L12.0394 6.01979C12.1753 5.87712 12.2496 5.68669 12.2463 5.48966C12.2429 5.29263 12.1622 5.10484 12.0214 4.96689C11.8807 4.82893 11.6914 4.7519 11.4943 4.75244C11.2973 4.75299 11.1083 4.83106 10.9684 4.96979Z" />
                           </g>
                         </svg>
-                        Azure AI and Machine Learning: We unlock insights and drive intelligent decision-making with Azure’s AI and machine learning capabilities.
+                        Azure AI and Machine Learning: We unlock insights and
+                        drive intelligent decision-making with Azure’s AI and
+                        machine learning capabilities.
                       </li>
                     </ul>
                   </div>
                   <div className="col-lg-6">
                     <img
-                     src="assets/img/Our-company/Partners/Microsoft-img.jpg" className="rounded-2"
+                      src="assets/img/Our-company/Partners/Microsoft-img.jpg"
+                      className="rounded-2"
                     />
                   </div>
                 </div>
@@ -158,7 +177,9 @@ const page = () => {
                       <div className="paragraph-and-btn-area">
                         <div className="text-animation">
                           <p>
-                          As a certified Microsoft Gold Partner, we provide tailored cloud solutions that drive innovation and business growth.
+                            As a certified Microsoft Gold Partner, we provide
+                            tailored cloud solutions that drive innovation and
+                            business growth.
                           </p>
                         </div>
                         <div className="vector">
@@ -224,7 +245,8 @@ const page = () => {
                         <div className="service-content">
                           <h4>Microsoft Gold Partner</h4>
                           <p>
-                          We deliver top-tier Microsoft solutions with best-in-class support.
+                            We deliver top-tier Microsoft solutions with
+                            best-in-class support.
                           </p>
                         </div>
                       </div>
@@ -264,10 +286,11 @@ const page = () => {
                         </div>
                         <div className="service-content">
                           <h4>
-                          Certified  <br /> Professionals
+                            Certified <br /> Professionals
                           </h4>
                           <p>
-                          Our experts create tailored solutions for clients' unique needs.
+                            Our experts create tailored solutions for clients'
+                            unique needs.
                           </p>
                         </div>
                       </div>
@@ -307,7 +330,8 @@ const page = () => {
                         <div className="service-content">
                           <h4>End-to-End Solutions</h4>
                           <p>
-                          We help businesses fully leverage Microsoft technologies.
+                            We help businesses fully leverage Microsoft
+                            technologies.
                           </p>
                         </div>
                       </div>
@@ -326,7 +350,13 @@ const page = () => {
                         </div>
 
                         <p className="pt-4">
-                        Microsoft is a global leader in technology, providing a wide range of products and services, including cloud computing, productivity software, business applications, and more. Trusted by millions of organizations worldwide, Microsoft enables businesses to achieve more and realize their full potential through innovative technologies and solutions.
+                          Microsoft is a global leader in technology, providing
+                          a wide range of products and services, including cloud
+                          computing, productivity software, business
+                          applications, and more. Trusted by millions of
+                          organizations worldwide, Microsoft enables businesses
+                          to achieve more and realize their full potential
+                          through innovative technologies and solutions.
                         </p>
                       </div>
 
@@ -342,7 +372,10 @@ const page = () => {
                                   <div className="dash" />
                                   <div className="content-and-social">
                                     <p>
-                                    For more information on our partnership with Microsoft, our integrated solutions, and service offerings, please contact us at reachus@rookhq.com.
+                                      For more information on our partnership
+                                      with Microsoft, our integrated solutions,
+                                      and service offerings, please contact us
+                                      at empower@rookhq.com.
                                     </p>
                                     <div className="social-area">
                                       <h6>Connect Us</h6>

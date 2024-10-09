@@ -104,7 +104,7 @@ const ContactPage = () => {
                           </div>
                           <div className="info">
                             <a href="mailto:infoexample@gmail.com">
-                              reachus@rookhq.com
+                              empower@rookhq.com
                             </a>
                           </div>
                         </li>

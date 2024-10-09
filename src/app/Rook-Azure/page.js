@@ -382,7 +382,7 @@ const page = () => {
                                   <div className="dash" />
                                   <div className="content-and-social">
                                     <p>
-                                    For more information on our partnership with Microsoft Azure, our integrated solutions, and service offerings, please contact us at reachus@rookhq.com.
+                                    For more information on our partnership with Microsoft Azure, our integrated solutions, and service offerings, please contact us at empower@rookhq.com.
                                     </p>
                                     <div className="social-area">
                                       <h6>Connect Us</h6>

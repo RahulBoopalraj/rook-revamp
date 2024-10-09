@@ -38,8 +38,7 @@ const page = () => {
               <span className="line-break" />
               <span className="line-break" />
               <span className="line-break" />
-              <div className="post-thumb">
-              </div>
+              <div className="post-thumb"></div>
               <span className="line-break" />
               <p>
                 Rook collaborates closely with Google Cloud to deliver
@@ -156,7 +155,8 @@ const page = () => {
                   </div>
                   <div className="col-lg-6">
                     <img
-                    src="assets/img/Our-company/Partners/Google-cloud-img.jpg" className="rounded-2"
+                      src="assets/img/Our-company/Partners/Google-cloud-img.jpg"
+                      className="rounded-2"
                     />
                   </div>
                 </div>
@@ -377,7 +377,7 @@ const page = () => {
                                       For more information on our partnership
                                       with Google Cloud, our integrated
                                       solutions, and service offerings, please
-                                      contact us at reachus@rookhq.com.
+                                      contact us at empower@rookhq.com.
                                     </p>
                                     <div className="social-area">
                                       <h6>Connect Us</h6>

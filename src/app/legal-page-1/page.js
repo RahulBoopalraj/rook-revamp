@@ -180,7 +180,7 @@ const page = () => {
                   intermediaries to the relevant ministry prescribed under Rule
                   18. If you have already provided this information, please
                   inform Rook Ecom Private Limited by sending an email to
-                  reachus@rookhq.com , and we will provide a demonstrable and
+                  empower@rookhq.com , and we will provide a demonstrable and
                   visible mark of verification as being compliant Publishers
                   against your profile.
                 </p>
@@ -316,12 +316,9 @@ const page = () => {
                     actions taken therein. Legal assertions or adjudications
                     must be pursued through established legal channels.
                   </li>
-                
                 </ul>
               </div>
             </div>
-
-          
           </div>
         </div>
       </div>

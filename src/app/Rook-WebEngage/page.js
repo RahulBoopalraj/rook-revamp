@@ -38,7 +38,7 @@ const page = () => {
               <span className="line-break" />
               <span className="line-break" />
               <span className="line-break" />
-              
+
               <span className="line-break" />
               <p>
                 Rook is excited to collaborate with WebEngage to offer powerful
@@ -139,7 +139,8 @@ const page = () => {
                   </div>
                   <div className="col-lg-6">
                     <img
-                      src="assets/img/Our-company/Partners/WebEngage-img.jpg" className="rounded-2"
+                      src="assets/img/Our-company/Partners/WebEngage-img.jpg"
+                      className="rounded-2"
                     />
                   </div>
                 </div>
@@ -355,7 +356,7 @@ const page = () => {
                                       For more information on our partnership
                                       with WebEngage, our integrated solutions,
                                       and service offerings, please contact us
-                                      at reachus@rookhq.com.
+                                      at empower@rookhq.com.
                                     </p>
                                     <div className="social-area">
                                       <h6>Connect Us</h6>

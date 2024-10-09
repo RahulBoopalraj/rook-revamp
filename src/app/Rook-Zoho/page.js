@@ -38,7 +38,7 @@ const page = () => {
               <span className="line-break" />
               <span className="line-break" />
               <span className="line-break" />
-              
+
               <span className="line-break" />
               <p>
                 Rook collaborates closely with Zoho to offer an end-to-end,
@@ -152,9 +152,12 @@ const page = () => {
                           </svg>
                         </div>
                         <div className="service-content">
-                          <h4>Success <br /> Stories</h4>
+                          <h4>
+                            Success <br /> Stories
+                          </h4>
                           <p>
-                          See how our joint solutions have delivered real-world  results for your businesses ideas.
+                            See how our joint solutions have delivered
+                            real-world results for your businesses ideas.
                           </p>
                         </div>
                       </div>
@@ -195,7 +198,8 @@ const page = () => {
                         <div className="service-content">
                           <h4>Training and Support</h4>
                           <p>
-                          Maximize your use of Zoho applications with our training programs and ongoing support.
+                            Maximize your use of Zoho applications with our
+                            training programs and ongoing support.
                           </p>
                         </div>
                       </div>
@@ -235,7 +239,8 @@ const page = () => {
                         <div className="service-content">
                           <h4>Integration Capabilities</h4>
                           <p>
-                          Optimize efficiency by connecting Zoho applications through our custom integrations.
+                            Optimize efficiency by connecting Zoho applications
+                            through our custom integrations.
                           </p>
                         </div>
                       </div>
@@ -275,7 +280,8 @@ const page = () => {
                         <div className="service-content">
                           <h4>Continuous Innovation</h4>
                           <p>
-                          Benefit from evolving solutions that meet the changing needs of businesses.
+                            Benefit from evolving solutions that meet the
+                            changing needs of businesses.
                           </p>
                         </div>
                       </div>
@@ -314,9 +320,12 @@ const page = () => {
                           </svg>
                         </div>
                         <div className="service-content">
-                          <h4>Client <br /> Testimonials</h4>
+                          <h4>
+                            Client <br /> Testimonials
+                          </h4>
                           <p>
-                          Discover the positive impacts of Rook and Zoho solutions through client experiences.
+                            Discover the positive impacts of Rook and Zoho
+                            solutions through client experiences.
                           </p>
                         </div>
                       </div>
@@ -354,9 +363,12 @@ const page = () => {
                           </svg>
                         </div>
                         <div className="service-content">
-                          <h4>Global <br /> Reach</h4>
+                          <h4>
+                            Global <br /> Reach
+                          </h4>
                           <p>
-                          Access advanced technology solutions and support to drive growth worldwide.
+                            Access advanced technology solutions and support to
+                            drive growth worldwide.
                           </p>
                         </div>
                       </div>
@@ -375,7 +387,15 @@ const page = () => {
                         </div>
 
                         <p className="pt-4">
-                        Zoho Corporation offers a comprehensive suite of online office applications and business solutions, including word processing, spreadsheets, presentations, databases, customer relationship management (CRM), project management, invoicing, and more. Renowned for its fully customizable CRM solution, Zoho is dedicated to empowering businesses to achieve success through innovative cloud-based technologies.
+                          Zoho Corporation offers a comprehensive suite of
+                          online office applications and business solutions,
+                          including word processing, spreadsheets,
+                          presentations, databases, customer relationship
+                          management (CRM), project management, invoicing, and
+                          more. Renowned for its fully customizable CRM
+                          solution, Zoho is dedicated to empowering businesses
+                          to achieve success through innovative cloud-based
+                          technologies.
                         </p>
                       </div>
 
@@ -391,7 +411,10 @@ const page = () => {
                                   <div className="dash" />
                                   <div className="content-and-social">
                                     <p>
-                                    For more information on our partnership with Zoho, our integrated solutions, and service offerings, please contact us at reachus@rookhq.com.
+                                      For more information on our partnership
+                                      with Zoho, our integrated solutions, and
+                                      service offerings, please contact us at
+                                      empower@rookhq.com.
                                     </p>
                                     <div className="social-area">
                                       <h6>Connect Us</h6>

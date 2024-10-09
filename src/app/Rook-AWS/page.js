@@ -40,8 +40,7 @@ const page = () => {
               <span className="line-break" />
               <span className="line-break" />
               <span className="line-break" />
-              <div className="post-thumb">    
-              </div>
+              <div className="post-thumb"></div>
               <span className="line-break" />
               <p>
                 Rook collaborates closely with Amazon Web Services (AWS) to
@@ -63,12 +62,12 @@ const page = () => {
                       In partnership with AWS, we offer a wide range of cloud
                       services and solutions designed to optimize performance,
                       enhance security, and reduce costs for our clients. From
-                      infrastructure as a service (IaaS).Our platform as a service (PaaS) to software as a service
-                      (SaaS) and beyond, our integrated AWS solutions cover a
-                      broad spectrum of cloud computing needs, including:
+                      infrastructure as a service (IaaS).Our platform as a
+                      service (PaaS) to software as a service (SaaS) and beyond,
+                      our integrated AWS solutions cover a broad spectrum of
+                      cloud computing needs, including:
                     </p>
                   </div>
-                 
                 </div>
                 <span className="line-break" />
                 <span className="line-break" />
@@ -144,7 +143,8 @@ const page = () => {
                   </div>
                   <div className="col-lg-6">
                     <img
-                      src="assets/img/Our-company/Partners/AWS-img.jpg" className="rounded-2"
+                      src="assets/img/Our-company/Partners/AWS-img.jpg"
+                      className="rounded-2"
                       alt=""
                     />
                   </div>
@@ -232,7 +232,8 @@ const page = () => {
                         <div className="service-content">
                           <h4>Certified AWS Partner</h4>
                           <p>
-                          We deliver secure, reliable AWS cloud solutions that help businesses achieve their goals.
+                            We deliver secure, reliable AWS cloud solutions that
+                            help businesses achieve their goals.
                           </p>
                         </div>
                       </div>
@@ -275,7 +276,8 @@ const page = () => {
                             Tailored <br /> Solutions
                           </h4>
                           <p>
-                          Our AWS-certified experts create custom solutions based on each client’s needs.
+                            Our AWS-certified experts create custom solutions
+                            based on each client’s needs.
                           </p>
                         </div>
                       </div>
@@ -315,7 +317,8 @@ const page = () => {
                         <div className="service-content">
                           <h4>Continuous Innovation</h4>
                           <p>
-                          We leverage AWS’s latest technologies to keep businesses agile and competitive.
+                            We leverage AWS’s latest technologies to keep
+                            businesses agile and competitive.
                           </p>
                         </div>
                       </div>
@@ -360,7 +363,7 @@ const page = () => {
                                       For more information on our partnership
                                       with AWS, our integrated solutions, and
                                       service offerings, please contact us at
-                                      reachus@rookhq.com.
+                                      empower@rookhq.com.
                                     </p>
                                     <div className="social-area">
                                       <h6>Connect Us</h6>

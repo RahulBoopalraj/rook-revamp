@@ -38,10 +38,16 @@ const page = () => {
               <span className="line-break" />
               <span className="line-break" />
               <span className="line-break" />
-            
+
               <span className="line-break" />
               <p>
-              Rook is pleased to announce our collaboration with Razorpay, a leading payment gateway provider, to offer seamless and secure payment solutions to businesses of all sizes. Through our partnership with Razorpay, we empower businesses to accept online payments easily, efficiently, and securely, enabling them to streamline their payment processes, enhance customer experiences, and drive growth.
+                Rook is pleased to announce our collaboration with Razorpay, a
+                leading payment gateway provider, to offer seamless and secure
+                payment solutions to businesses of all sizes. Through our
+                partnership with Razorpay, we empower businesses to accept
+                online payments easily, efficiently, and securely, enabling them
+                to streamline their payment processes, enhance customer
+                experiences, and drive growth.
               </p>
               <span className="line-break" />
               <span className="line-break" />
@@ -51,7 +57,9 @@ const page = () => {
                 <div className="row g-lg-4 gy-3">
                   <div className="col-lg-12">
                     <p className="">
-                    As part of our partnership with Razorpay, we provide a range of payment solutions tailored to the unique needs of our clients. Our Razorpay service offerings include:
+                      As part of our partnership with Razorpay, we provide a
+                      range of payment solutions tailored to the unique needs of
+                      our clients. Our Razorpay service offerings include:
                     </p>
                   </div>
                 </div>
@@ -73,8 +81,10 @@ const page = () => {
                             <path d="M10.9684 4.96979C10.9613 4.9767 10.9546 4.98404 10.9484 4.99179L7.47539 9.41679L5.38239 7.32279C5.24021 7.19031 5.05216 7.11819 4.85786 7.12162C4.66356 7.12505 4.47818 7.20376 4.34076 7.34117C4.20335 7.47858 4.12464 7.66397 4.12121 7.85827C4.11778 8.05257 4.18991 8.24062 4.32239 8.38279L6.96839 11.0298C7.03967 11.1009 7.12455 11.157 7.21797 11.1946C7.31139 11.2323 7.41143 11.2507 7.51213 11.2488C7.61283 11.247 7.71212 11.2249 7.80408 11.1838C7.89604 11.1427 7.97879 11.0835 8.04739 11.0098L12.0394 6.01979C12.1753 5.87712 12.2496 5.68669 12.2463 5.48966C12.2429 5.29263 12.1622 5.10484 12.0214 4.96689C11.8807 4.82893 11.6914 4.7519 11.4943 4.75244C11.2973 4.75299 11.1083 4.83106 10.9684 4.96979Z" />
                           </g>
                         </svg>
-                       
-Payment Gateway Integration: We help businesses seamlessly integrate Razorpay’s payment gateway to accept payments via cards, net banking, UPI, wallets, and more.
+                        Payment Gateway Integration: We help businesses
+                        seamlessly integrate Razorpay’s payment gateway to
+                        accept payments via cards, net banking, UPI, wallets,
+                        and more.
                       </li>
                       <li>
                         <svg
@@ -88,7 +98,9 @@ Payment Gateway Integration: We help businesses seamlessly integrate Razorpay’
                             <path d="M10.9684 4.96979C10.9613 4.9767 10.9546 4.98404 10.9484 4.99179L7.47539 9.41679L5.38239 7.32279C5.24021 7.19031 5.05216 7.11819 4.85786 7.12162C4.66356 7.12505 4.47818 7.20376 4.34076 7.34117C4.20335 7.47858 4.12464 7.66397 4.12121 7.85827C4.11778 8.05257 4.18991 8.24062 4.32239 8.38279L6.96839 11.0298C7.03967 11.1009 7.12455 11.157 7.21797 11.1946C7.31139 11.2323 7.41143 11.2507 7.51213 11.2488C7.61283 11.247 7.71212 11.2249 7.80408 11.1838C7.89604 11.1427 7.97879 11.0835 8.04739 11.0098L12.0394 6.01979C12.1753 5.87712 12.2496 5.68669 12.2463 5.48966C12.2429 5.29263 12.1622 5.10484 12.0214 4.96689C11.8807 4.82893 11.6914 4.7519 11.4943 4.75244C11.2973 4.75299 11.1083 4.83106 10.9684 4.96979Z" />
                           </g>
                         </svg>
-                        Subscription Payments: We set up and manage recurring billing with Razorpay, automating payments for subscription services, memberships, or products.
+                        Subscription Payments: We set up and manage recurring
+                        billing with Razorpay, automating payments for
+                        subscription services, memberships, or products.
                       </li>
                       <li>
                         <svg
@@ -102,7 +114,9 @@ Payment Gateway Integration: We help businesses seamlessly integrate Razorpay’
                             <path d="M10.9684 4.96979C10.9613 4.9767 10.9546 4.98404 10.9484 4.99179L7.47539 9.41679L5.38239 7.32279C5.24021 7.19031 5.05216 7.11819 4.85786 7.12162C4.66356 7.12505 4.47818 7.20376 4.34076 7.34117C4.20335 7.47858 4.12464 7.66397 4.12121 7.85827C4.11778 8.05257 4.18991 8.24062 4.32239 8.38279L6.96839 11.0298C7.03967 11.1009 7.12455 11.157 7.21797 11.1946C7.31139 11.2323 7.41143 11.2507 7.51213 11.2488C7.61283 11.247 7.71212 11.2249 7.80408 11.1838C7.89604 11.1427 7.97879 11.0835 8.04739 11.0098L12.0394 6.01979C12.1753 5.87712 12.2496 5.68669 12.2463 5.48966C12.2429 5.29263 12.1622 5.10484 12.0214 4.96689C11.8807 4.82893 11.6914 4.7519 11.4943 4.75244C11.2973 4.75299 11.1083 4.83106 10.9684 4.96979Z" />
                           </g>
                         </svg>
-                        Invoicing: We assist businesses in creating and sending professional invoices through Razorpay, ensuring secure and easy payment collection.
+                        Invoicing: We assist businesses in creating and sending
+                        professional invoices through Razorpay, ensuring secure
+                        and easy payment collection.
                       </li>
                       <li>
                         <svg
@@ -116,13 +130,16 @@ Payment Gateway Integration: We help businesses seamlessly integrate Razorpay’
                             <path d="M10.9684 4.96979C10.9613 4.9767 10.9546 4.98404 10.9484 4.99179L7.47539 9.41679L5.38239 7.32279C5.24021 7.19031 5.05216 7.11819 4.85786 7.12162C4.66356 7.12505 4.47818 7.20376 4.34076 7.34117C4.20335 7.47858 4.12464 7.66397 4.12121 7.85827C4.11778 8.05257 4.18991 8.24062 4.32239 8.38279L6.96839 11.0298C7.03967 11.1009 7.12455 11.157 7.21797 11.1946C7.31139 11.2323 7.41143 11.2507 7.51213 11.2488C7.61283 11.247 7.71212 11.2249 7.80408 11.1838C7.89604 11.1427 7.97879 11.0835 8.04739 11.0098L12.0394 6.01979C12.1753 5.87712 12.2496 5.68669 12.2463 5.48966C12.2429 5.29263 12.1622 5.10484 12.0214 4.96689C11.8807 4.82893 11.6914 4.7519 11.4943 4.75244C11.2973 4.75299 11.1083 4.83106 10.9684 4.96979Z" />
                           </g>
                         </svg>
-                        Payment Links: We enable businesses to generate and share Razorpay payment links for quick, convenient payment collection via email, SMS, or social media.
+                        Payment Links: We enable businesses to generate and
+                        share Razorpay payment links for quick, convenient
+                        payment collection via email, SMS, or social media.
                       </li>
                     </ul>
                   </div>
                   <div className="col-lg-6">
                     <img
-                      src="assets/img/Our-company/Partners/Razorpay-img.jpg" className="rounded-2"
+                      src="assets/img/Our-company/Partners/Razorpay-img.jpg"
+                      className="rounded-2"
                     />
                   </div>
                 </div>
@@ -142,7 +159,9 @@ Payment Gateway Integration: We help businesses seamlessly integrate Razorpay’
                       <div className="paragraph-and-btn-area">
                         <div className="text-animation">
                           <p>
-                          As a certified Microsoft Gold Partner, we provide tailored cloud solutions that drive innovation and business growth.
+                            As a certified Microsoft Gold Partner, we provide
+                            tailored cloud solutions that drive innovation and
+                            business growth.
                           </p>
                         </div>
                         <div className="vector">
@@ -208,7 +227,8 @@ Payment Gateway Integration: We help businesses seamlessly integrate Razorpay’
                         <div className="service-content">
                           <h4>Secure Transactions</h4>
                           <p>
-                          Razorpay ensures secure, reliable, and compliant transactions.
+                            Razorpay ensures secure, reliable, and compliant
+                            transactions.
                           </p>
                         </div>
                       </div>
@@ -247,11 +267,10 @@ Payment Gateway Integration: We help businesses seamlessly integrate Razorpay’
                           </svg>
                         </div>
                         <div className="service-content">
-                          <h4>
-                          Seamless Integration
-                          </h4>
+                          <h4>Seamless Integration</h4>
                           <p>
-                          We easily integrate Razorpay’s solutions with existing systems.
+                            We easily integrate Razorpay’s solutions with
+                            existing systems.
                           </p>
                         </div>
                       </div>
@@ -291,7 +310,8 @@ Payment Gateway Integration: We help businesses seamlessly integrate Razorpay’
                         <div className="service-content">
                           <h4>Customization</h4>
                           <p>
-                          We offer flexible, customizable payment solutions to meet each business's unique needs.
+                            We offer flexible, customizable payment solutions to
+                            meet each business's unique needs.
                           </p>
                         </div>
                       </div>
@@ -306,13 +326,17 @@ Payment Gateway Integration: We help businesses seamlessly integrate Razorpay’
                     <div className="col-lg-10">
                       <div className="col-lg-12 m-0">
                         <div className="section-title six">
-                          <h2>About Razorpay
-
-</h2>
+                          <h2>About Razorpay</h2>
                         </div>
 
                         <p className="pt-4">
-                        Razorpay is a leading payment gateway provider in India, offering a comprehensive suite of payment solutions to businesses across various industries. With a focus on innovation, simplicity, and reliability, Razorpay empowers businesses to accept online payments easily, securely, and efficiently, enabling them to drive growth and success.
+                          Razorpay is a leading payment gateway provider in
+                          India, offering a comprehensive suite of payment
+                          solutions to businesses across various industries.
+                          With a focus on innovation, simplicity, and
+                          reliability, Razorpay empowers businesses to accept
+                          online payments easily, securely, and efficiently,
+                          enabling them to drive growth and success.
                         </p>
                       </div>
 
@@ -328,7 +352,10 @@ Payment Gateway Integration: We help businesses seamlessly integrate Razorpay’
                                   <div className="dash" />
                                   <div className="content-and-social">
                                     <p>
-                                    For more information on our partnership with Razorpay, our integrated solutions, and service offerings, please contact us at reachus@rookhq.com.
+                                      For more information on our partnership
+                                      with Razorpay, our integrated solutions,
+                                      and service offerings, please contact us
+                                      at empower@rookhq.com.
                                     </p>
                                     <div className="social-area">
                                       <h6>Connect Us</h6>

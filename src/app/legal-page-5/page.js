@@ -86,7 +86,7 @@ const page = () => {
                   <li>
                     <strong>viii ) Contact Information:</strong> If you have any
                     questions or concerns about our Privacy Policy, please
-                    contact us at reachus@rookhq.com
+                    contact us at empower@rookhq.com
                   </li>
                 </ul>
                 <p>
@@ -149,7 +149,7 @@ const page = () => {
                   <li>
                     <strong>vii ) Contact Information:</strong> If you have any
                     questions or concerns about our Cookies Policy, please
-                    contact us at reachus@rookhq.com
+                    contact us at empower@rookhq.com
                   </li>
                 </ul>
                 <p>
@@ -158,7 +158,6 @@ const page = () => {
                 </p>
               </div>
             </div>
-
           </div>
         </div>
       </div>
