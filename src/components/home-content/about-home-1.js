@@ -84,9 +84,9 @@ const Home5About = () => {
                 <Marquee>
                 <a href="#"><img src="assets/img/Partners/ICM-light.jpg" alt="" style={{height:"50px" , width:"150px"}} /></a>
                 <a href="#"><img src="assets/img/Partners/DSP-light.png" alt="" style={{height:"50px" , width:"150px"}} /></a>
-                <a href="#"><img src="assets/img/Partners/Finequs-light.png" alt="" /></a>
+                <a href="#"><img src="assets/img/Partners/Finequs-light.png" alt=""/></a>
                 <a href="#"><img src="assets/img/Partners/CEC-light.png" alt="" /></a>
-                <a href="#"><img src="assets/img/Partners/Townhall.png" alt=""style={{height:"100px" , width:"150px"}} /></a>
+                <a href="#"><img src="assets/img/Partners/Townhall.png" alt=""style={{height:"100px" , width:"180px"}} /></a>
               
                 </Marquee>
               </div>
@@ -99,7 +99,7 @@ const Home5About = () => {
                 <a href="#"><img src="assets/img/Partners/DSP-light.png" alt="" style={{height:"50px" , width:"150px"}} /></a>
                 <a href="#"><img src="assets/img/Partners/Finequs-light.png" alt="" /></a>
                 <a href="#"><img src="assets/img/Partners/CEC-light.png" alt="" /></a>
-                <a href="#"><img src="assets/img/Partners/Townhall.png" alt=""style={{height:"100px" , width:"150px"}} /></a>
+                <a href="#"><img src="assets/img/Partners/Townhall.png" alt=""style={{height:"100px" , width:"180px"}} /></a>
          
                     </Marquee>
               </div>
