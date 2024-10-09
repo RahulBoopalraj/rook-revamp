@@ -101,24 +101,7 @@ const Home5BannerSection = () => {
                     </div>
                   </div>
                 </div>
-                <div className="social-area-group">
-                  <ul className="social-list text-animation">
-                    <li>
-                      <a href="https://dribbble.com/">Dribbble</a>
-                    </li>
-                    <li>
-                      <a href="https://www.behance.net/">Behance </a>
-                    </li>
-                  </ul>
-                  <ul className="social-list text-animation">
-                    <li>
-                      <a href="https://www.pinterest.com/">Pinterest</a>
-                    </li>
-                    <li>
-                      <a href="https://99designs.com/">99 Design</a>
-                    </li>
-                  </ul>
-                </div>
+                
               </div>
             </div>
           </div>

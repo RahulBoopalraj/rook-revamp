@@ -1,13 +1,13 @@
 import Footer from "@/components/Footer/Footer";
 import ServiceInsightsPage from "@/components/Enterprise-platforms/insights-Enterprise-platforms";
-import ServiceImpactStatsPage from "@/components/Enterprise-platforms/stats-Enterprise-platforms";
-import ServiceProblemStatement from "@/components/Enterprise-platforms/problem-statement-Enterprise-platforms";
 import ServiceTrendings from "@/components/Enterprise-platforms/trending-Enterprise-platforms";
 import ServiceSolutionPage from "@/components/Enterprise-platforms/solution-Enterprise-platforms";
 import ContactSectionThree from "@/components/Enterprise-platforms/contact-enterprise-platform";
 import Header from "@/components/header/Header";
 import Home3TestimonialSection from "@/components/Enterprise-platforms/impact-stats-enterprise-platforms";
 import CaseStudyPage from "@/components/Enterprise-platforms/case-studies-enterprise-platforms";
+import Brand from "@/components/Enterprise-platforms/trusted-brands";
+import FrameworkRad from "@/components/Enterprise-platforms/frameworks";
 import React from "react";
 
 export const metadata = {
@@ -83,6 +83,8 @@ const AboutMe = () => {
       <CaseStudyPage/>
       <ServiceTrendings/>
       <ContactSectionThree/>
+      <Brand/>
+      <FrameworkRad/>
       <Footer />
     </>
   );

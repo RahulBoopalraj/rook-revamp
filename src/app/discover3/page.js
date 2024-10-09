@@ -7,7 +7,7 @@ import Home5ExperienceSection from "@/components/Rookwebdev/experience-rookwebde
 import Header5 from "@/components/header/Header";
 import PricingRook from "@/components/Rookwebdev/pricing-rookwebdev";
 import Home5TestimonialSection from "@/components/Rookwebdev/clientFeedback-rookwebdev";
-import Home5WorkSection from "@/components/Rookwebdev/work-rookwebdev";
+import Portfolioesonary from "@/components/Rookwebdev/work-rookwebdev";
 import ServiceDetailsPage from "@/components/Rookwebdev/service-rookwebdev";
 import Footer6 from "@/components/Footer/Footer";
 import Link from "next/link";
@@ -22,7 +22,7 @@ const PersonalPortfolio = () => {
       <Header5 />
       <Home5BannerSection />
       <Home5About />
-      <Home5WorkSection />
+      <Portfolioesonary/>
       <ServiceDetailsPage />
       <PricingRook />
       <Home5ExperienceSection />
