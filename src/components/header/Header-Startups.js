@@ -106,8 +106,8 @@ const StartupHeader = ( {style=""}) => {
                 <li><Link href="/discover5">Rook Marketing</Link></li>
                 <li><Link href="/discover6">Rook Domains</Link></li>
                 <li><Link href="/discover7">Rook GTM</Link></li>
-                <li><Link href="/service4">What We Share?</Link></li>
-                <li><Link href="/service4">What We Present?</Link></li>
+                <li><Link href="/What-we-share">What We Share?</Link></li>
+                <li><Link href="/How-we-present">What We Present?</Link></li>
               </ul>
             </li>
 

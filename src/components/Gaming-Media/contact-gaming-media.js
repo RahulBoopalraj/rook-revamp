@@ -31,23 +31,59 @@ const Home1ContactSection = () => {
                     </svg>
                     <ul>
                       <li>
-                        <a href="https://www.facebook.com/">
+                        <a
+                          href="https://www.facebook.com/RookCom"
+                          target="blank"
+                        >
                           <i className="bx bxl-facebook" />
                         </a>
                       </li>
                       <li>
-                        <a href="https://twitter.com/">
+                        <a href="https://x.com/RookHQ" target="blank">
                           <i className="bi bi-twitter-x" />
                         </a>
                       </li>
                       <li>
-                        <a href="https://www.linkedin.com/">
+                        <a
+                          href="https://www.linkedin.com/company/rook/mycompany/verification/"
+                          target="blank"
+                        >
                           <i className="bx bxl-linkedin" />
                         </a>
                       </li>
                       <li>
-                        <a href="https://www.instagram.com/">
+                        <a
+                          href="https://www.instagram.com/rookhq/"
+                          target="blank"
+                        >
                           <i className="bx bxl-instagram-alt" />
+                        </a>
+                      </li>
+                      <li>
+                        <a href="https://www.youtube.com/@rookl" target="blank">
+                          <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="1em"
+                            height="1em"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              fill="currentColor"
+                              d="M19.437 19.937H4.562a2.5 2.5 0 0 1-2.5-2.5V6.563a2.5 2.5 0 0 1 2.5-2.5h14.875a2.5 2.5 0 0 1 2.5 2.5v10.874a2.5 2.5 0 0 1-2.5 2.5M4.562 5.063a1.5 1.5 0 0 0-1.5 1.5v10.874a1.5 1.5 0 0 0 1.5 1.5h14.875a1.5 1.5 0 0 0 1.5-1.5V6.563a1.5 1.5 0 0 0-1.5-1.5Z"
+                            />
+                            <path
+                              fill="currentColor"
+                              d="M14.568 11.149L10.6 8.432a1.032 1.032 0 0 0-1.614.851v5.434a1.032 1.032 0 0 0 1.614.851l3.972-2.717a1.03 1.03 0 0 0-.004-1.702"
+                            />
+                          </svg>
+                        </a>
+                      </li>
+                      <li>
+                        <a
+                          href="https://www.crunchbase.com/organization/rook"
+                          target="blank"
+                        >
+                          <img src="crunchbase_logo_icon_145361.svg" alt="" />
                         </a>
                       </li>
                     </ul>

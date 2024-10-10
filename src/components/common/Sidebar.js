@@ -47,8 +47,8 @@ function Sidebar( { isMenuOpen, toggleMenu  }) {
     <div className={`sidebar-area ${isMenuOpen ? 'active' : ''}`}>
       <div className="sidebar-menu-top-area">
         <div className="sidebar-menu-logo">
-          <Link className="logo-dark" href="/"><img alt="image" className="img-fluid" src="/assets/img/black-logo.svg" /></Link>
-          <Link className="logo-light" href="/"><img alt="image" className="img-fluid" src="/assets/img/white-logo.svg" /></Link>
+          <Link className="logo-dark" href="/"><img alt="image" className="img-fluid" src="/assets/img/Rook-dark.png" /></Link>
+          <Link className="logo-light" href="/"><img alt="image" className="img-fluid" src="/assets/img/Rook-white.png" /></Link>
         </div>
         <div className="nav-right d-flex jsutify-content-end align-items-center">
           <div className="sidebar-menu-close"  onClick={toggleMenu}>
@@ -86,7 +86,7 @@ function Sidebar( { isMenuOpen, toggleMenu  }) {
                     </div>
                     <div className="contact">
                       <span>Phone</span>
-                      <h6><a href="tel:+991-7636844563">+991 - 763 684 4563</a></h6>
+                      <h6><a href="tel:+991-7636844563">+91 70927 00022</a></h6>
                     </div>
                   </li>
                   <li className="single-contact">
@@ -97,7 +97,7 @@ function Sidebar( { isMenuOpen, toggleMenu  }) {
                     </div>
                     <div className="contact">
                       <span>Email Now</span>
-                      <h6><a href="mailto:info@examplegmail.com">info@examplegmail.com</a>
+                      <h6><a href="mailto:info@examplegmail.com">empower@rookhq.com</a>
                       </h6>
                     </div>
                   </li>
@@ -109,9 +109,11 @@ function Sidebar( { isMenuOpen, toggleMenu  }) {
                       </svg>
                     </div>
                     <div className="contact">
-                      <span>Canada Office</span>
-                      <h6><a href="https://www.google.com/maps">Canada City, Office-02,
-                          Road-11, House-3B/B, Section-H</a></h6>
+                      <span>Location</span>
+                      <h6><a href="https://www.google.com/maps">248, 11th St, Kuberan Nagar Extension,
+        Kuberan Nagar,
+        Madipakkam, Chennai,
+        Tamil Nadu 600091</a></h6>
                     </div>
                   </li>
                 </ul>
@@ -123,14 +125,33 @@ function Sidebar( { isMenuOpen, toggleMenu  }) {
                   </svg>
                 </h6>
                 <ul className="social-area">
-                  <li><a href="https://dribbble.com/"><i className="bi bi-dribbble" /> Dribbble</a>
+                  <li><a href="https://www.linkedin.com/company/rook/mycompany/verification/" target="blank"><i className="bx bxl-linkedin" /> Linkedin</a>
                   </li>
-                  <li><a href="https://www.behance.net/"><i className="bi bi-behance" /> Behance</a>
+                  <li><a href="https://x.com/RookHQ" target="blank"><i className="bi bi-twitter-x" /> Twitter</a>
                   </li>
-                  <li><a href="https://www.pinterest.com/"><i className="bi bi-pinterest" />
-                      Pinterest</a></li>
-                  <li><a href="https://www.facebook.com/"><i className="bi bi-facebook" />
+                  <li><a href="https://www.facebook.com/RookCom"><i className="bx bxl-facebook" />
                       Facebook</a></li>
+                  <li><a href="https://www.facebook.com/" target="blank"><i className="bx bxl-instagram-alt" />
+                      Instagram</a></li>
+                      <li><a href="https://www.youtube.com/@rookl" target="blank"><svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="1em"
+                            height="1em"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              fill="currentColor"
+                              d="M19.437 19.937H4.562a2.5 2.5 0 0 1-2.5-2.5V6.563a2.5 2.5 0 0 1 2.5-2.5h14.875a2.5 2.5 0 0 1 2.5 2.5v10.874a2.5 2.5 0 0 1-2.5 2.5M4.562 5.063a1.5 1.5 0 0 0-1.5 1.5v10.874a1.5 1.5 0 0 0 1.5 1.5h14.875a1.5 1.5 0 0 0 1.5-1.5V6.563a1.5 1.5 0 0 0-1.5-1.5Z"
+                            />
+                            <path
+                              fill="currentColor"
+                              d="M14.568 11.149L10.6 8.432a1.032 1.032 0 0 0-1.614.851v5.434a1.032 1.032 0 0 0 1.614.851l3.972-2.717a1.03 1.03 0 0 0-.004-1.702"
+                            />
+                          </svg>
+
+                      Youtube</a></li>
+                      <li><a href="https://www.crunchbase.com/organization/rook" target="blank"><img src="crunchbase_logo_icon_145361.svg" alt="" />
+                      Crunchbase</a></li>
                 </ul>
               </div>
             </div>
@@ -170,141 +191,256 @@ function Sidebar( { isMenuOpen, toggleMenu  }) {
                   </ul>
                 </li>
                 <li className={state.activeMenu==="service"?"active":""}>
+                  <a href="#">Our Company</a>
+                  <span className={`dropdown-icon2 ${state.activeMenu==="service"?"active":""} `}><i className={`bi ${state.activeMenu === "service" ? "bi-dash" : "bi-plus"}`}  onClick={()=>collapseMenu("service")} /></span>
+                  <ul className={`submenu-list ${state.activeMenu==="service"?"active":""}`}>
+                    <li>
+                      <Link href="/services1">Happenings 
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service2">Who We Are ?
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service3">Who Leads Us ?
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service4">Impact Studies 
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service-details ">Want To Be Us ?
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service-details ">Where to Find Us ?
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>  <li>
+                      <Link href="/service-details ">How To Reach Us ?
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service-details ">Who We Partners With ?
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                  </ul>
+                </li>
+                {/* discover  */}
+
+
+                <li className={state.activeMenu==="service"?"active":""}>
+                  <a href="#">Discover</a>
+                  <span className={`dropdown-icon2 ${state.activeMenu==="service"?"active":""} `}><i className={`bi ${state.activeMenu === "service" ? "bi-dash" : "bi-plus"}`}  onClick={()=>collapseMenu("service")} /></span>
+                  <ul className={`submenu-list ${state.activeMenu==="service"?"active":""}`}>
+                    <li>
+                      <Link href="/services1">Rook For D2C
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service2">Rook For Startups
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service3">Rook WebDev
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service4">Rook Branding 
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service-details ">Rook Marketing
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service-details ">Rook Domains 
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>  <li>
+                      <Link href="/service-details ">Rook GTM 
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service-details ">What We Share ?
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service-details ">What We Present ?
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                  </ul>
+                </li>
+
+                {/* Industries */}
+
+                <li className={state.activeMenu==="service"?"active":""}>
+                  <a href="#">Industries</a>
+                  <span className={`dropdown-icon2 ${state.activeMenu==="service"?"active":""} `}><i className={`bi ${state.activeMenu === "service" ? "bi-dash" : "bi-plus"}`}  onClick={()=>collapseMenu("service")} /></span>
+                  <ul className={`submenu-list ${state.activeMenu==="service"?"active":""}`}>
+                    <li>
+                      <Link href="/services1">Fintech
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service2">Education
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service3">Gaming and Media 
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service4">Travel and Logistics 
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service-details ">Public and Government 
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                    <li>
+                      <Link href="/service-details ">Infrastructure and Construction 
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>  <li>
+                      <Link href="/service-details ">Consumer , Distribution , Hospitality
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>
+                  </ul>
+                </li>
+
+                <li className={state.activeMenu==="service"?"active":""}>
                   <a href="#">Services</a>
                   <span className={`dropdown-icon2 ${state.activeMenu==="service"?"active":""} `}><i className={`bi ${state.activeMenu === "service" ? "bi-dash" : "bi-plus"}`}  onClick={()=>collapseMenu("service")} /></span>
                   <ul className={`submenu-list ${state.activeMenu==="service"?"active":""}`}>
                     <li>
-                      <Link href="/services1">Service Style 01
+                      <Link href="/services1">Cloud
                         <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
                           <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
                         </svg>
                       </Link>
                     </li>
                     <li>
-                      <Link href="/service2">Service Style 02
+                      <Link href="/service2">Blockchain
                         <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
                           <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
                         </svg>
                       </Link>
                     </li>
                     <li>
-                      <Link href="/service3">Service Style 03
+                      <Link href="/service3">Consulting
                         <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
                           <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
                         </svg>
                       </Link>
                     </li>
                     <li>
-                      <Link href="/service4">Service Style 04
+                      <Link href="/service4">Data Analytics
                         <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
                           <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
                         </svg>
                       </Link>
                     </li>
                     <li>
-                      <Link href="/service-details ">Service Details
-                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
-                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
-                        </svg>
-                      </Link>
-                    </li>
-                  </ul>
-                </li>
-                <li className={state.activeMenu==="page"?"active":""}>
-                  <a href="#">Pages</a>
-                  <span className={`dropdown-icon2 ${state.activeMenu==="page"?"active":""} `}><i className={`bi ${state.activeMenu === "page" ? "bi-dash" : "bi-plus"}`}  onClick={()=>collapseMenu("page")} /></span>
-                  <ul className={`submenu-list ${state.activeMenu==="page"?"active":""}`}>
-                    <li>
-                      <Link href="/about">About Us
+                      <Link href="/service-details ">Enterprises Platforms
                         <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
                           <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
                         </svg>
                       </Link>
                     </li>
                     <li>
-                      <Link href="/about-me">About Me
+                      <Link href="/service-details ">Artificial Intelligence 
+                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
+                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
+                        </svg>
+                      </Link>
+                    </li>  <li>
+                      <Link href="/service-details ">Branding and Marketing
                         <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
                           <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
                         </svg>
                       </Link>
                     </li>
                     <li>
-                      <Link href="/case-study1">Case Study</Link>
-                      <span className="dropdown-icon2 two"><i className={`bi ${state.activeSubMenu === "caseStudy" ? "bi-dash" : "bi-plus"}`}   onClick={() => toggleSubMenu("caseStudy")} /></span>
-                      <ul className={`submenu-list ${state.activeSubMenu === "caseStudy" ? "active" : ""}`}>
-                        <li><Link href="/case-study1">Case Study Style 01</Link></li>
-                        <li><Link href="/case-study2">Case Study Style 02</Link></li>
-                        <li><Link href="/case-study-details">Case Study Details</Link></li>
-                      </ul>
-                    </li>
-                    <li>
-                      <Link href="/our-team1">Our Team</Link>
-                      <span className="dropdown-icon2 two"><i className={`bi ${state.activeSubMenu === "team" ? "bi-dash" : "bi-plus"}`}   onClick={() => toggleSubMenu("team")} /></span>
-                      <ul className={`submenu-list ${state.activeSubMenu === "team" ? "active" : ""}`}>
-                        <li><Link href="/our-team1">Team Style 01</Link></li>
-                        <li><Link href="/our-team2">Team Style 02</Link></li>
-                        <li><Link href="/our-team3">Team Style 03</Link></li>
-                        <li><Link href="/our-team4">Team Style 04</Link></li>
-                      </ul>
-                    </li>
-                    <li>
-                      <Link href="/blog-standard">Blog</Link>
-                      <span className="dropdown-icon2 two"><i className={`bi ${state.activeSubMenu === "blog" ? "bi-dash" : "bi-plus"}`}   onClick={() => toggleSubMenu("blog")} /></span>
-                      <ul className={`submenu-list ${state.activeSubMenu === "blog" ? "active" : ""}`}>
-                        <li><Link href="/blog-grid">Blog Grid</Link></li>
-                        <li><Link href="/blog-grid2">Blog Sidebar</Link></li>
-                        <li><Link href="/blog-standard">Blog Standard</Link></li>
-                        <li><Link href="/blog-details">Blog Details </Link></li>
-                      </ul>
-                    </li>
-                    <li>
-                      <Link href="/career-list">Career</Link>
-                      <span className="dropdown-icon2 two"><i className={`bi ${state.activeSubMenu === "carrer" ? "bi-dash" : "bi-plus"}`}   onClick={() => toggleSubMenu("carrer")} /></span>
-                      <ul className={`submenu-list ${state.activeSubMenu === "carrer" ? "active" : ""}`}>
-                        <li><Link href="/career-list">Career List</Link></li>
-                        <li><Link href="/career-details">Career Details </Link></li>
-                      </ul>
-                    </li>
-                    <li>
-                      <Link href="/shop">Shop</Link>
-                      <span className="dropdown-icon2 two"><i className={`bi ${state.activeSubMenu === "sho[" ? "bi-dash" : "bi-plus"}`}   onClick={() => toggleSubMenu("sho[")} /></span>
-                      <ul className={`submenu-list ${state.activeSubMenu === "sho[" ? "active" : ""}`}>
-                        <li><Link href="/shop">Shop</Link></li>
-                        <li><Link href="/product-details">Product Details</Link></li>
-                        <li><Link href="/cart">Cart</Link></li>
-                        <li><Link href="/checkout">Checkout</Link></li>
-                      </ul>
-                    </li>
-                    <li>
-                      <Link href="/office-gallery"> Office Gallery
+                      <Link href="/service-details ">Corporate Domain Name
                         <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
                           <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
                         </svg>
                       </Link>
                     </li>
                     <li>
-                      <Link href="/pricing">Pricing
-                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
-                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
-                        </svg>
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="/faq">FAQs
-                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
-                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
-                        </svg>
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="/error">Error 404
-                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
-                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
-                        </svg>
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="/terms-conditions">Terms &amp; Conditions
+                      <Link href="/service-details ">Cognitive Business Operations
                         <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
                           <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
                         </svg>
@@ -312,69 +448,34 @@ function Sidebar( { isMenuOpen, toggleMenu  }) {
                     </li>
                   </ul>
                 </li>
-                <li className={state.activeMenu==="portfolio"?"active":""}>
-                  <a href="#">Portfolio </a>
-                  <span className={`dropdown-icon2 ${state.activeMenu==="portfolio"?"active":""} `}><i className={`bi ${state.activeMenu === "portfolio" ? "bi-dash" : "bi-plus"}`}  onClick={()=>collapseMenu("portfolio")} /></span>
-                  <ul className={`submenu-list ${state.activeMenu==="portfolio"?"active":""}`}>
+
+                <li className={state.activeMenu==="service"?"active":""}>
+                  <a href="#">Where In The World</a>
+                  <span className={`dropdown-icon2 ${state.activeMenu==="service"?"active":""} `}><i className={`bi ${state.activeMenu === "service" ? "bi-dash" : "bi-plus"}`}  onClick={()=>collapseMenu("service")} /></span>
+                  <ul className={`submenu-list ${state.activeMenu==="service"?"active":""}`}>
                     <li>
-                      <Link href="/portfolio-manonery">Portfolio Masonery
+                      <Link href="/services1">Rook Britian 
                         <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
                           <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
                         </svg>
                       </Link>
                     </li>
                     <li>
-                      <Link href="portfolio-vertical-grid">Portfolio Vertical Grid
+                      <Link href="/service2">Rook America 
                         <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
                           <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
                         </svg>
                       </Link>
                     </li>
                     <li>
-                      <Link href="portfolio-showcase">Portfolio Showcase
+                      <Link href="/service3">Rook UAE
                         <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
                           <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
                         </svg>
                       </Link>
                     </li>
                     <li>
-                      <Link href="portfolio-showcase-slider">Portfolio Showcase Slider
-                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
-                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
-                        </svg>
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="portfolio-showcase-carosuel">Portfolio Showcase Carosuel
-                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
-                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
-                        </svg>
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="portfolio-showcase-horizental">Portfolio Horizental
-                        Showcase
-                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
-                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
-                        </svg>
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="portfolio-interactive-banner">Interactive Banner
-                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
-                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
-                        </svg>
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="portfolio-interactive-link">Interactive links
-                        <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
-                          <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
-                        </svg>
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="portfolio-details">Portfolio Details
+                      <Link href="/service4">Rook France 
                         <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
                           <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
                         </svg>
@@ -382,7 +483,6 @@ function Sidebar( { isMenuOpen, toggleMenu  }) {
                     </li>
                   </ul>
                 </li>
-                <li><Link href="/contact">Contact Us</Link></li>
               </ul>
             </div>
           </div>
